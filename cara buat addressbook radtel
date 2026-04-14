@@ -1,0 +1,8 @@
+cara buat addressbook radtel iradio :
+1. siapkan file /data : ID,Callsign,First Name,Last Name,City,State,Country 
+2. buka excel, masukan data yang sudah disiapkan tadi
+3. save as csv, sesuaikan namanya sesuai kebutuhan misal "addressbook radtel.csv" lalu close
+4. buka kembali file "addressbook radtel.csv" menggunakan notepad , setelah terbuka biasanya ada tanda "titik koma (;)" , 
+  nah ganti semua tanda (;) dengan (,) , caranya menggunakan Ctrl + h
+5.  setelah semua tanda (;) terganti oleh tanda (,) , lalu save atau tekan Ctrl +s
+6. selesai dan file siap digunakan
