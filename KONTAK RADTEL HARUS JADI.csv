@@ -1,30 +1,30 @@
 RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY 
 1018986,PB18HZX,AdiSantoso,k2pi,Lampung Tmr,Lampung,Indonesia 
-1032504,PB32KTJ,Diding Haer Apandi,k2pi,Kuningan,JAWA BARAT,Indonesia 
-1032695,PB32TD,TataDustari,k2pi,Kuningan,JAWA BARAT,Indonesia 
-1032734,PB32AM,AzizMuzaky,k2pi,Indramayu,JAWA BARAT,Indonesia 
-1032735,PB32IH,IsmailHusni,k2pi,Indramayu,JAWA BARAT,Indonesia 
-1032775,PB32AB,AndriBambang St,k2pi,Tasikmalaya,JAWA BARAT,Indonesia 
-1032915,PB32ABR,ArbainBudi Raharjo,k2pi,Bekasi,JAWA BARAT,Indonesia 
-1033073,PB33RG,RanggaWidya Ramadhani,k2pi,Cilacap,JAWA TENGAH,Indonesia 
-1033118,PB33LEO,MamikRusman Fajar Abadi,k2pi,Semarang,JAWA TENGAH,Indonesia 
-1033883,PB33DWI,CahyonoDwikartiputra,k2pi,Magelang,JAWA TENGAH,Indonesia 
+1032504,PB32KTJ,Diding Haer Apandi,k2pi,Kuningan,JABAR,Indonesia 
+1032695,PB32TD,TataDustari,k2pi,Kuningan,JABAR,Indonesia 
+1032734,PB32AM,AzizMuzaky,k2pi,Indramayu,JABAR,Indonesia 
+1032735,PB32IH,IsmailHusni,k2pi,Indramayu,JABAR,Indonesia 
+1032775,PB32AB,AndriBambang St,k2pi,Tasikmalaya,JABAR,Indonesia 
+1032915,PB32ABR,ArbainBudi Raharjo,k2pi,Bekasi,JABAR,Indonesia 
+1033073,PB33RG,RanggaWidya Ramadhani,k2pi,Cilacap,Jateng,Indonesia 
+1033118,PB33LEO,MamikRusman Fajar Abadi,k2pi,Semarang,Jateng,Indonesia 
+1033883,PB33DWI,CahyonoDwikartiputra,k2pi,Magelang,Jateng,Indonesia 
 1034317,PB34LME,Surahman,k2pi,Kulon Progo,YOGYAKARTA,Indonesia 
-1035318,PB35MMF,Mulyadi,k2pi,Gresik,Jawa Timur,Indonesia 
+1035318,PB35MMF,Mulyadi,k2pi,Gresik,Jatim,Indonesia 
 1036080,PB36KDC,SidiqPurnomo Agung,k2pi,Tangerang,Banten,Indonesia 
 1052656,PB52NKY,I_NengahKarta Yasa,k2pi,Mataram,NTB,Indonesia 
 1064799,PB64MED,AgusMemed,k2pi,Kutai Tmr,KALTIM,Indonesia 
 1111068,KR11FA,FitriAribowo,k2pi,Langsa,Aceh,Indonesia 
 1131746,KR31ADE,Adekosasih,k2pi,Jakarta Sel,JAKARTA,Indonesia 
-1133584,KR33LWM,HanifNurhidayat Isgun,k2pi,Tegal,JAWA TENGAH,Indonesia 
-1133826,KR33AK,AndiKusjatmiko,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-1133891,KR33KR,Krisno,k2pi,Banjarnegara,JAWA TENGAH,Indonesia 
-1135780,KR35SBY,Pos_DamkarPemadam Kebakaran,k2pi,Surabaya,Jawa Timur,Indonesia 
+1133584,KR33LWM,HanifNurhidayat Isgun,k2pi,Tegal,Jateng,Indonesia 
+1133826,KR33AK,AndiKusjatmiko,k2pi,Surakarta,Jateng,Indonesia 
+1133891,KR33KR,Krisno,k2pi,Banjarnegara,Jateng,Indonesia 
+1135780,KR35SBY,Pos_DamkarPemadam Kebakaran,k2pi,Surabaya,Jatim,Indonesia 
 1214094,PM14DDQ,Bukhari,k2pi,Pelalawan,Riau,Indonesia 
-1232792,PM32MAF,MuhammadAri Firmansyah,k2pi,Ciamis,JAWA BARAT,Indonesia 
-1233091,PM33SUN,Sunaryo,k2pi,Purworejo,JAWA TENGAH,Indonesia 
-1233139,PM33LFI,FatkhulAziz,k2pi,Magelang,JAWA TENGAH,Indonesia 
-1233495,PM33LTB,Sunarno,k2pi,Boyolali,JAWA TENGAH,Indonesia 
+1232792,PM32MAF,MuhammadAri Firmansyah,k2pi,Ciamis,JABAR,Indonesia 
+1233091,PM33SUN,Sunaryo,k2pi,Purworejo,Jateng,Indonesia 
+1233139,PM33LFI,FatkhulAziz,k2pi,Magelang,Jateng,Indonesia 
+1233495,PM33LTB,Sunarno,k2pi,Boyolali,Jateng,Indonesia 
 1431184,RC31JHB,NurcahyoAf,k2pi,Jakarta Brt,JAKARTA,Indonesia 
 1431199,RC31JHR,FauwzieAditya Putra,k2pi,Jakarta Brt,JAKARTA,Indonesia 
 1431204,RC31JHW,PahriAnwari,k2pi,Jakarta Brt,JAKARTA,Indonesia 
@@ -33,9 +33,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1431222,RC31JIO,NurAhmadi,k2pi,Jakarta Brt,JAKARTA,Indonesia 
 1431354,RC31JNQ,HermanDwi Ariendis,k2pi,Jakarta Utr,JAKARTA,Indonesia 
 1431362,RC31JNY,MegaArtika Pratiwi,k2pi,Jakarta Utr,JAKARTA,Indonesia 
-1433001,RC33MGP,MuhammadGalang Pradana,k2pi,Boyolali,JAWA TENGAH,Indonesia 
-1435012,RC35EVI,EviSetiawan,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-1435138,RC35MFI,UtomoSoedarminto,k2pi,Malang,Jawa Timur,Indonesia 
+1433001,RC33MGP,MuhammadGalang Pradana,k2pi,Boyolali,Jateng,Indonesia 
+1435012,RC35EVI,EviSetiawan,k2pi,Sidoarjo,Jatim,Indonesia 
+1435138,RC35MFI,UtomoSoedarminto,k2pi,Malang,Jatim,Indonesia 
 1511715,SR11MI,MuhammadIqbal,k2pi,Banda Aceh,Aceh,Indonesia 
 1514288,SR14DLB,Yudison,k2pi,Pekanbaru,Riau,Indonesia 
 1531182,SR31JHA,Budiawan,k2pi,Jakarta Brt,JAKARTA,Indonesia 
@@ -43,15 +43,16 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1531211,SR31JIC,Sutrisno,k2pi,Jakarta Brt,JAKARTA,Indonesia 
 1531275,SR31JKP,AndreasEko Joko Prasetyo,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 1531672,SR31WN,M_WaskitoNovianto,k2pi,Jakarta Sel,JAKARTA,Indonesia 
-1532736,SR32ABD,Abdurakman,k2pi,Indramayu,JAWA BARAT,Indonesia 
-1535932,SR35ARF,Arif,k2pi,Malang,Jawa Timur,Indonesia 
+1532736,SR32ABD,Abdurakman,k2pi,Indramayu,JABAR,Indonesia 
+1535932,SR35ARF,Arif,k2pi,Malang,Jatim,Indonesia 
 1613344,TG13CNF,FerixSonanda,k2pi,Padangpanjang,SUMBAR,Indonesia 
 1614615,TG14DXR,Rudianto,k2pi,Pelalawan,Riau,Indonesia 
-1632128,TG32KEY,FahmiListianto,k2pi,Bogor,JAWA BARAT,Indonesia 
-1632669,TG32GUS,AgusRiyadi,k2pi,Bekasi,JAWA BARAT,Indonesia 
-1632777,TG32MSB,M_SyaefulBakhry,k2pi,Cimahi,JAWA BARAT,Indonesia 
-1633770,TG33LZQ,Lagiyono,k2pi,Sragen,JAWA TENGAH,Indonesia 
+1632128,TG32KEY,FahmiListianto,k2pi,Bogor,JABAR,Indonesia 
+1632669,TG32GUS,AgusRiyadi,k2pi,Bekasi,JABAR,Indonesia 
+1632777,TG32MSB,M_SyaefulBakhry,k2pi,Cimahi,JABAR,Indonesia 
+1633770,TG33LZQ,Lagiyono,k2pi,Sragen,Jateng,Indonesia 
 1634151,TG34LFV,Kuswanto,k2pi,Kulon Progo,YOGYAKARTA,Indonesia 
+1635122,TG35YS,Yusup_Suharno_,k2pi,Madiun,Jatim,Indonesia 
 1711549,SC11QVD,M_KhalidRoyyan R,k2pi,Banjar,KALSEL,Indonesia 
 1711553,SC11QVH,FharelMakbulriza,k2pi,Banjar,KALSEL,Indonesia 
 1711576,SC63QWE,Sarimulya,k2pi,Barito Kuala,KALSEL,Indonesia 
@@ -69,17 +70,17 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1714686,SC14MH,Muhaimin,k2pi,Pelalawan,Riau,Indonesia 
 1718104,SC18HEA,RifqiAsjad Hafizh,k2pi,Metro,Lampung,Indonesia 
 1731203,SC31JHV,MuhamadFauzi,k2pi,Jakarta Brt,JAKARTA,Indonesia 
-1732773,SC32KRS,Kresna,k2pi,Bogor,JAWA BARAT,Indonesia 
-1733101,SC33SAP,SaptaAndy Azis,k2pi,Magelang,JAWA TENGAH,Indonesia 
-1733103,SC33LZK,Niko,k2pi,Banyumas,JAWA TENGAH,Indonesia 
-1733242,SC33LJI,AbdulHasan,k2pi,Cilacap,JAWA TENGAH,Indonesia 
-1733613,SC33LXP,WalanYudiana,k2pi,Tegal,JAWA TENGAH,Indonesia 
-1733812,SC33BHR,BagusHandoko Radityo,k2pi,Sukoharjo,JAWA TENGAH,Indonesia 
-1733816,SC33NN,NukeNeta Kusworo,k2pi,Sukoharjo,JAWA TENGAH,Indonesia 
-1735299,SC35MLN,Murdiono,k2pi,Lamongan,Jawa Timur,Indonesia 
-1735418,SC35MQB,Arif,k2pi,Malang,Jawa Timur,Indonesia 
-1735610,SC35MXM,EdiSuprapto,k2pi,Bojonegoro,Jawa Timur,Indonesia 
-1735838,SC35TS,TahajudinSubekti,k2pi,Surabaya,Jawa Timur,Indonesia 
+1732773,SC32KRS,Kresna,k2pi,Bogor,JABAR,Indonesia 
+1733101,SC33SAP,SaptaAndy Azis,k2pi,Magelang,Jateng,Indonesia 
+1733103,SC33LZK,Niko,k2pi,Banyumas,Jateng,Indonesia 
+1733242,SC33LJI,AbdulHasan,k2pi,Cilacap,Jateng,Indonesia 
+1733613,SC33LXP,WalanYudiana,k2pi,Tegal,Jateng,Indonesia 
+1733812,SC33BHR,BagusHandoko Radityo,k2pi,Sukoharjo,Jateng,Indonesia 
+1733816,SC33NN,NukeNeta Kusworo,k2pi,Sukoharjo,Jateng,Indonesia 
+1735299,SC35MLN,Murdiono,k2pi,Lamongan,Jatim,Indonesia 
+1735418,SC35MQB,Arif,k2pi,Malang,Jatim,Indonesia 
+1735610,SC35MXM,EdiSuprapto,k2pi,Bojonegoro,Jatim,Indonesia 
+1735838,SC35TS,TahajudinSubekti,k2pi,Surabaya,Jatim,Indonesia 
 1762302,SC62PLQ,SuryadiSyahputra,k2pi,Kotawaringin Tmr,KALTENG,Indonesia 
 1763506,SC63QTM,Sulaiman,k2pi,Banjarmasin,KALSEL,Indonesia 
 1763526,SC63QUF,MuhamadAlfiyannor,k2pi,Banjarmasin,KALSEL,Indonesia 
@@ -128,10 +129,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1764658,SC64HRP,HendrawanRiki Prihanto,k2pi,Kutai Tmr,KALTIM,Indonesia 
 1765057,SC65QCF,Nirwansyah,k2pi,Tarakan,KALTARA,Indonesia 
 1771039,SC71RQ,EronAlberto Tambani,k2pi,Minahasa Utr,SULUT,Indonesia 
-1835432,PP35MQQ,AhmadMudhofir,k2pi,Tuban,Jawa Timur,Indonesia 
+1835432,PP35MQQ,AhmadMudhofir,k2pi,Tuban,Jatim,Indonesia 
 2110022,JZ01KRN,ZulkarnainYunus,k2pi,Lhokeumawe,Aceh,Indonesia 
 2110127,JZ01ATD,EdiSahputra,k2pi,Aceh Tgh,Aceh,Indonesia 
-2110335,JZ11EXL,Maskun,k2pi,Banyumas,JAWA TENGAH,Indonesia 
+2110335,JZ11EXL,Maskun,k2pi,Banyumas,Jateng,Indonesia 
 2110356,JZ01OTO,Mursal,k2pi,Langsa,Aceh,Indonesia 
 2110458,JZ01ATB,AdiIskandar,k2pi,Banda Aceh,Aceh,Indonesia 
 2110465,JZ01UMZ,Muzakir,k2pi,Aceh Brt Daya,Aceh,Indonesia 
@@ -345,108 +346,108 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2310957,JZ09AMD,StephanusPutra Nurdin,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 2310960,JZ09BLE,MardiantoTandaputra,k2pi,Jakarta Brt,JAKARTA,Indonesia 
 2311089,JZ09BPY,AdeSurya Pranata,k2pi,Jakarta Sel,JAKARTA,Indonesia 
-2320005,JZ10LLB,Hadiyanto,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2320016,JZ10EJS,R_BudiHidayat,k2pi,Bandung,JAWA BARAT,Indonesia 
-2320031,JZ10FEQ,BudiCahyadi,k2pi,Bandung,JAWA BARAT,Indonesia 
-2320040,JZ10DHQ,AgungPriyo Subroto,k2pi,Bandung Brt,JAWA BARAT,Indonesia 
-2320044,JZ10LAAY,SaidiIbrahim,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2320050,JZ10WAS,AdeSuhada,k2pi,Purwakarta,JAWA BARAT,Indonesia 
-2320062,JZ10IAN,TotoSantoso,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320069,JZ10ILU,TribhuwanaPl,k2pi,Bandung,JAWA BARAT,Indonesia 
-2320071,JZ10FAMJ,MuchlisJafar,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320075,JZ10EZW,AgusYulianto,k2pi,Depok,JAWA BARAT,Indonesia 
-2320091,JZ10ARU,AyodyaHanindito,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2320096,JZ10BTC,RaddyIrmawan,k2pi,Bandung,JAWA BARAT,Indonesia 
-2320097,JZ10HACM,Naryono,k2pi,Depok,JAWA BARAT,Indonesia 
-2320100,JZ10HABW,NanangSuryana,k2pi,Depok,JAWA BARAT,Indonesia 
-2320123,JZ10LUR,NurAdi,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320154,JZ10SPD,AriefHidayat,k2pi,Garut,JAWA BARAT,Indonesia 
-2320166,JZ10EKD,AnggriyanPirnanda,k2pi,Bandung,JAWA BARAT,Indonesia 
-2320173,JZ10ITJ,Samsulrizal,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320188,JZ10IDI,FakichUdin,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2320227,JZ11LXJ,MahyulFata,k2pi,Expired,JAWA BARAT,Indonesia 
-2320236,JZ10FQQS,ItoSulistio,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320237,JZ10HGP,Asepmulyana,k2pi,Depok,JAWA BARAT,Indonesia 
-2320253,JZ10TSG,EwoyKewoy Kuningan,k2pi,Kuningan,JAWA BARAT,Indonesia 
-2320276,JZ10KBI,Nurudin,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320285,JZ10ISO,Anwari,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320296,JZ09EGP,BahirulBahar,k2pi,Depok,JAWA BARAT,Indonesia 
-2320304,JZ10IVQ,Pujianto,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320340,JZ10GABF,MohamadFadli,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320346,JZ10BYI,YudiIrwan,k2pi,Bandung,JAWA BARAT,Indonesia 
-2320347,JZ10AVY,FauzanIrfan,k2pi,Depok,JAWA BARAT,Indonesia 
-2320398,JZ11FDF,Ariyanto,k2pi,Sukabumi,JAWA BARAT,Indonesia 
-2320403,JZ10HGA,TjetjepRb,k2pi,Karawang,JAWA BARAT,Indonesia 
-2320404,JZ10CXN,GinanjarEko Russetyadi,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320407,JZ10KIQ,LaodeIqbal Sidik,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2320412,JZ10IBM,EkaWijaya,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320414,JZ10IAH,AkhmadMuliawan,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320435,JZ10JYV,IchyaUlumudin,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2320438,JZ10FBAB,PahruS,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320441,JZ10IYU,Cahyadi,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320442,JZ10IYS,YudiSyarief,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320443,JZ10IAI,Maryono,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320445,JZ10BOA,Sukirno,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320446,JZ10CVR,RodinSyamsul Hak,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320449,JZ10IBO,AgusDani Sulistianto,k2pi,Depok,JAWA BARAT,Indonesia 
-2320456,JZ10KMB,AndreasJati Perkasa,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2320461,JZ10GAAF,DenyDaniel,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320479,JZ10RAM,MuriAndrianto E,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320680,JZ10UNE,EkoPuji Hariyanto,k2pi,Indramayu,JAWA BARAT,Indonesia 
-2320699,JZ10GSP,FerdinandMesias Santi,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320745,JZ10BQY,IwanRapsodi,k2pi,Depok,JAWA BARAT,Indonesia 
-2320756,JZ10FHE,RianWibawa,k2pi,Bandung,JAWA BARAT,Indonesia 
-2320764,JZ10CON,Dadang,k2pi,Tasikmalaya,JAWA BARAT,Indonesia 
-2320774,JZ10IXM,DianHermawan,k2pi,Ciamis,JAWA BARAT,Indonesia 
-2320780,JZ10KRG,ArifinEko Prasetyo,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2320783,JZ10HJO,Samsudin,k2pi,Depok,JAWA BARAT,Indonesia 
-2320789,JZ10HVU,SuripnoMarwanto,k2pi,Depok,JAWA BARAT,Indonesia 
-2320817,JZ10LTD,JohanSumantri,k2pi,Cianjur,JAWA BARAT,Indonesia 
-2320821,JZ10KXK,IndraIswara Lukman,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2320863,JZ10IXX,AmbarKrydanto,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320878,JZ10EJM,Suyatno,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320899,JZ10GAAD,AdiSudarto,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320915,JZ10DJW,ArbainBudi Raharjo,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2320930,JZ10DTN,ZaldyRachmat Susatya,k2pi,Bogor,JAWA BARAT,Indonesia 
-2320953,JZ10HXF,Purbadi,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2320981,JZO9JWI,OctoDwi Dososuro,k2pi,Depok,JAWA BARAT,Indonesia 
-2320983,JZ10GFC,S_ArisYulianto,k2pi,Bogor,JAWA BARAT,Indonesia 
-2321000,JZ10LLN,MarcusWelly,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2321069,JZ10DCT,N_EkoAjiwihanto,k2pi,Bogor,JAWA BARAT,Indonesia 
-2321078,JZ19KXK,IndraIswara,k2pi,Bekasi,JAWA BARAT,Indonesia 
-2321117,JZ10GMB,Holidibrahim,k2pi,Cirebon,JAWA BARAT,Indonesia 
-2330049,JZ11BSL,BambangPramudya Aditomo,k2pi,Tegal,JAWA TENGAH,Indonesia 
-2330149,JZ11DEG,YuliawanHutabara,k2pi,Tegal,JAWA TENGAH,Indonesia 
-2330175,YG2BWV,Dursi,k2pi,Brebes,JAWA TENGAH,Indonesia 
-2330194,JZ11GZV,BangunSupriyono,k2pi,Sragen,JAWA TENGAH,Indonesia 
-2330274,JZ11BTS,Parsono,k2pi,Pekalongan,JAWA TENGAH,Indonesia 
-2330314,JZ11RAP,AliDulkamid,k2pi,Semarang,JAWA TENGAH,Indonesia 
-2330333,JZ11MEB,Sugiharto,k2pi,Purworejo,JAWA TENGAH,Indonesia 
-2330342,JZ11EFO,SlametSugiyo,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-2330348,JZ11GKF,Lagiyono,k2pi,Sragen,JAWA TENGAH,Indonesia 
-2330360,JZ11JNL,BudiSantosa,k2pi,Blora,JAWA TENGAH,Indonesia 
-2330395,JZ11TGN,Sudianto,k2pi,Tegal,JAWA TENGAH,Indonesia 
-2330417,JZ11BFL,Basuki,k2pi,Pati,JAWA TENGAH,Indonesia 
-2330423,JZ11MMB,MuhammadHusain,k2pi,Pati,JAWA TENGAH,Indonesia 
-2330433,JZ11GLH,MilzamRifqi,k2pi,Semarang,JAWA TENGAH,Indonesia 
-2330520,JZ11CRK,Azhari,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-2330604,JZ11MJV,Selamet,k2pi,Pati,JAWA TENGAH,Indonesia 
-2330625,JZ11BIQ,Indradi,k2pi,Karanganyar,JAWA TENGAH,Indonesia 
-2330644,JZ11ERA,HariyadiWibowo,k2pi,Kendal,JAWA TENGAH,Indonesia 
-2330671,JZ11FCF,IgnSutopo Teguh Nugroho,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-2330846,JZ11JEH,PujiHartanto,k2pi,Pemalang,JAWA TENGAH,Indonesia 
-2330854,JZ11XGO,KristantaDixa Prabawa,k2pi,Purbalingga,JAWA TENGAH,Indonesia 
-2330952,JZ11IGP,AdiPratomo,k2pi,Pekalongan,JAWA TENGAH,Indonesia 
-2330968,JZ11IUZ,MuhammadKurniawan,k2pi,Semarang,JAWA TENGAH,Indonesia 
-2330989,JZ11HQZ,BasukiSantoso,k2pi,Klaten,JAWA TENGAH,Indonesia 
-2330992,JZ11FBX,AndreNurcahya,k2pi,Boyolali,JAWA TENGAH,Indonesia 
-2331034,JZ11IVY,ArisHaryono,k2pi,Blora,JAWA TENGAH,Indonesia 
-2331037,JZ11WFE,Sukaryono,k2pi,Blora,JAWA TENGAH,Indonesia 
-2331066,JZ11FRA,AntoniDestian Hidayat,k2pi,Salatiga,JAWA TENGAH,Indonesia 
-2331081,JZ11JBG,M_Yusuf,k2pi,Pekalongan,JAWA TENGAH,Indonesia 
-2331091,JZ11IWX,Sunaryo,k2pi,Purworejo,JAWA TENGAH,Indonesia 
-2331094,JZ11GAF,WalanYudiana,k2pi,Tegal,JAWA TENGAH,Indonesia 
-2331114,JZ11VBD,SugengHariadi,k2pi,Kebumen,JAWA TENGAH,Indonesia 
+2320005,JZ10LLB,Hadiyanto,k2pi,Bekasi,JABAR,Indonesia 
+2320016,JZ10EJS,R_BudiHidayat,k2pi,Bandung,JABAR,Indonesia 
+2320031,JZ10FEQ,BudiCahyadi,k2pi,Bandung,JABAR,Indonesia 
+2320040,JZ10DHQ,AgungPriyo Subroto,k2pi,Bandung Brt,JABAR,Indonesia 
+2320044,JZ10LAAY,SaidiIbrahim,k2pi,Bekasi,JABAR,Indonesia 
+2320050,JZ10WAS,AdeSuhada,k2pi,Purwakarta,JABAR,Indonesia 
+2320062,JZ10IAN,TotoSantoso,k2pi,Cirebon,JABAR,Indonesia 
+2320069,JZ10ILU,TribhuwanaPl,k2pi,Bandung,JABAR,Indonesia 
+2320071,JZ10FAMJ,MuchlisJafar,k2pi,Bogor,JABAR,Indonesia 
+2320075,JZ10EZW,AgusYulianto,k2pi,Depok,JABAR,Indonesia 
+2320091,JZ10ARU,AyodyaHanindito,k2pi,Bekasi,JABAR,Indonesia 
+2320096,JZ10BTC,RaddyIrmawan,k2pi,Bandung,JABAR,Indonesia 
+2320097,JZ10HACM,Naryono,k2pi,Depok,JABAR,Indonesia 
+2320100,JZ10HABW,NanangSuryana,k2pi,Depok,JABAR,Indonesia 
+2320123,JZ10LUR,NurAdi,k2pi,Bogor,JABAR,Indonesia 
+2320154,JZ10SPD,AriefHidayat,k2pi,Garut,JABAR,Indonesia 
+2320166,JZ10EKD,AnggriyanPirnanda,k2pi,Bandung,JABAR,Indonesia 
+2320173,JZ10ITJ,Samsulrizal,k2pi,Bogor,JABAR,Indonesia 
+2320188,JZ10IDI,FakichUdin,k2pi,Bekasi,JABAR,Indonesia 
+2320227,JZ11LXJ,MahyulFata,k2pi,Expired,JABAR,Indonesia 
+2320236,JZ10FQQS,ItoSulistio,k2pi,Bogor,JABAR,Indonesia 
+2320237,JZ10HGP,Asepmulyana,k2pi,Depok,JABAR,Indonesia 
+2320253,JZ10TSG,EwoyKewoy Kuningan,k2pi,Kuningan,JABAR,Indonesia 
+2320276,JZ10KBI,Nurudin,k2pi,Bogor,JABAR,Indonesia 
+2320285,JZ10ISO,Anwari,k2pi,Cirebon,JABAR,Indonesia 
+2320296,JZ09EGP,BahirulBahar,k2pi,Depok,JABAR,Indonesia 
+2320304,JZ10IVQ,Pujianto,k2pi,Bogor,JABAR,Indonesia 
+2320340,JZ10GABF,MohamadFadli,k2pi,Bogor,JABAR,Indonesia 
+2320346,JZ10BYI,YudiIrwan,k2pi,Bandung,JABAR,Indonesia 
+2320347,JZ10AVY,FauzanIrfan,k2pi,Depok,JABAR,Indonesia 
+2320398,JZ11FDF,Ariyanto,k2pi,Sukabumi,JABAR,Indonesia 
+2320403,JZ10HGA,TjetjepRb,k2pi,Karawang,JABAR,Indonesia 
+2320404,JZ10CXN,GinanjarEko Russetyadi,k2pi,Cirebon,JABAR,Indonesia 
+2320407,JZ10KIQ,LaodeIqbal Sidik,k2pi,Bekasi,JABAR,Indonesia 
+2320412,JZ10IBM,EkaWijaya,k2pi,Cirebon,JABAR,Indonesia 
+2320414,JZ10IAH,AkhmadMuliawan,k2pi,Cirebon,JABAR,Indonesia 
+2320435,JZ10JYV,IchyaUlumudin,k2pi,Bekasi,JABAR,Indonesia 
+2320438,JZ10FBAB,PahruS,k2pi,Bogor,JABAR,Indonesia 
+2320441,JZ10IYU,Cahyadi,k2pi,Cirebon,JABAR,Indonesia 
+2320442,JZ10IYS,YudiSyarief,k2pi,Cirebon,JABAR,Indonesia 
+2320443,JZ10IAI,Maryono,k2pi,Cirebon,JABAR,Indonesia 
+2320445,JZ10BOA,Sukirno,k2pi,Cirebon,JABAR,Indonesia 
+2320446,JZ10CVR,RodinSyamsul Hak,k2pi,Cirebon,JABAR,Indonesia 
+2320449,JZ10IBO,AgusDani Sulistianto,k2pi,Depok,JABAR,Indonesia 
+2320456,JZ10KMB,AndreasJati Perkasa,k2pi,Bekasi,JABAR,Indonesia 
+2320461,JZ10GAAF,DenyDaniel,k2pi,Bogor,JABAR,Indonesia 
+2320479,JZ10RAM,MuriAndrianto E,k2pi,Cirebon,JABAR,Indonesia 
+2320680,JZ10UNE,EkoPuji Hariyanto,k2pi,Indramayu,JABAR,Indonesia 
+2320699,JZ10GSP,FerdinandMesias Santi,k2pi,Bogor,JABAR,Indonesia 
+2320745,JZ10BQY,IwanRapsodi,k2pi,Depok,JABAR,Indonesia 
+2320756,JZ10FHE,RianWibawa,k2pi,Bandung,JABAR,Indonesia 
+2320764,JZ10CON,Dadang,k2pi,Tasikmalaya,JABAR,Indonesia 
+2320774,JZ10IXM,DianHermawan,k2pi,Ciamis,JABAR,Indonesia 
+2320780,JZ10KRG,ArifinEko Prasetyo,k2pi,Bekasi,JABAR,Indonesia 
+2320783,JZ10HJO,Samsudin,k2pi,Depok,JABAR,Indonesia 
+2320789,JZ10HVU,SuripnoMarwanto,k2pi,Depok,JABAR,Indonesia 
+2320817,JZ10LTD,JohanSumantri,k2pi,Cianjur,JABAR,Indonesia 
+2320821,JZ10KXK,IndraIswara Lukman,k2pi,Bekasi,JABAR,Indonesia 
+2320863,JZ10IXX,AmbarKrydanto,k2pi,Bogor,JABAR,Indonesia 
+2320878,JZ10EJM,Suyatno,k2pi,Bogor,JABAR,Indonesia 
+2320899,JZ10GAAD,AdiSudarto,k2pi,Bogor,JABAR,Indonesia 
+2320915,JZ10DJW,ArbainBudi Raharjo,k2pi,Bekasi,JABAR,Indonesia 
+2320930,JZ10DTN,ZaldyRachmat Susatya,k2pi,Bogor,JABAR,Indonesia 
+2320953,JZ10HXF,Purbadi,k2pi,Cirebon,JABAR,Indonesia 
+2320981,JZO9JWI,OctoDwi Dososuro,k2pi,Depok,JABAR,Indonesia 
+2320983,JZ10GFC,S_ArisYulianto,k2pi,Bogor,JABAR,Indonesia 
+2321000,JZ10LLN,MarcusWelly,k2pi,Bekasi,JABAR,Indonesia 
+2321069,JZ10DCT,N_EkoAjiwihanto,k2pi,Bogor,JABAR,Indonesia 
+2321078,JZ19KXK,IndraIswara,k2pi,Bekasi,JABAR,Indonesia 
+2321117,JZ10GMB,Holidibrahim,k2pi,Cirebon,JABAR,Indonesia 
+2330049,JZ11BSL,BambangPramudya Aditomo,k2pi,Tegal,Jateng,Indonesia 
+2330149,JZ11DEG,YuliawanHutabara,k2pi,Tegal,Jateng,Indonesia 
+2330175,YG2BWV,Dursi,k2pi,Brebes,Jateng,Indonesia 
+2330194,JZ11GZV,BangunSupriyono,k2pi,Sragen,Jateng,Indonesia 
+2330274,JZ11BTS,Parsono,k2pi,Pekalongan,Jateng,Indonesia 
+2330314,JZ11RAP,AliDulkamid,k2pi,Semarang,Jateng,Indonesia 
+2330333,JZ11MEB,Sugiharto,k2pi,Purworejo,Jateng,Indonesia 
+2330342,JZ11EFO,SlametSugiyo,k2pi,Surakarta,Jateng,Indonesia 
+2330348,JZ11GKF,Lagiyono,k2pi,Sragen,Jateng,Indonesia 
+2330360,JZ11JNL,BudiSantosa,k2pi,Blora,Jateng,Indonesia 
+2330395,JZ11TGN,Sudianto,k2pi,Tegal,Jateng,Indonesia 
+2330417,JZ11BFL,Basuki,k2pi,Pati,Jateng,Indonesia 
+2330423,JZ11MMB,MuhammadHusain,k2pi,Pati,Jateng,Indonesia 
+2330433,JZ11GLH,MilzamRifqi,k2pi,Semarang,Jateng,Indonesia 
+2330520,JZ11CRK,Azhari,k2pi,Surakarta,Jateng,Indonesia 
+2330604,JZ11MJV,Selamet,k2pi,Pati,Jateng,Indonesia 
+2330625,JZ11BIQ,Indradi,k2pi,Karanganyar,Jateng,Indonesia 
+2330644,JZ11ERA,HariyadiWibowo,k2pi,Kendal,Jateng,Indonesia 
+2330671,JZ11FCF,IgnSutopo Teguh Nugroho,k2pi,Surakarta,Jateng,Indonesia 
+2330846,JZ11JEH,PujiHartanto,k2pi,Pemalang,Jateng,Indonesia 
+2330854,JZ11XGO,KristantaDixa Prabawa,k2pi,Purbalingga,Jateng,Indonesia 
+2330952,JZ11IGP,AdiPratomo,k2pi,Pekalongan,Jateng,Indonesia 
+2330968,JZ11IUZ,MuhammadKurniawan,k2pi,Semarang,Jateng,Indonesia 
+2330989,JZ11HQZ,BasukiSantoso,k2pi,Klaten,Jateng,Indonesia 
+2330992,JZ11FBX,AndreNurcahya,k2pi,Boyolali,Jateng,Indonesia 
+2331034,JZ11IVY,ArisHaryono,k2pi,Blora,Jateng,Indonesia 
+2331037,JZ11WFE,Sukaryono,k2pi,Blora,Jateng,Indonesia 
+2331066,JZ11FRA,AntoniDestian Hidayat,k2pi,Salatiga,Jateng,Indonesia 
+2331081,JZ11JBG,M_Yusuf,k2pi,Pekalongan,Jateng,Indonesia 
+2331091,JZ11IWX,Sunaryo,k2pi,Purworejo,Jateng,Indonesia 
+2331094,JZ11GAF,WalanYudiana,k2pi,Tegal,Jateng,Indonesia 
+2331114,JZ11VBD,SugengHariadi,k2pi,Kebumen,Jateng,Indonesia 
 2340061,JZ12AXC,BambangAnggoro Nugroho,k2pi,Sleman,YOGYAKARTA,Indonesia 
 2340074,JZ12BFW,StarkyAji,k2pi,Yogyakarta,YOGYAKARTA,Indonesia 
 2340140,JZ12HFT,JakaSatmoko,k2pi,Kulon Progo,YOGYAKARTA,Indonesia 
@@ -456,59 +457,59 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2340945,JZ12ARG,WulframMargono,k2pi,Sleman,YOGYAKARTA,Indonesia 
 2340978,JZ12ACN,AnthoniCahyo Noorsakti,k2pi,Bantul,YOGYAKARTA,Indonesia 
 2341062,JZ12CAI,AntonFatahillah,k2pi,Sleman,YOGYAKARTA,Indonesia 
-2350023,JZ13FJD,AhmadDarmawan,k2pi,Bojonegoro,Jawa Timur,Indonesia 
-2350043,JZ13CKB,HeraPagiana,k2pi,Trenggalek,Jawa Timur,Indonesia 
-2350048,JZ13CUZ,PrasetyoArdi Nugroho,k2pi,Ponorogo,Jawa Timur,Indonesia 
-2350059,JZ13AIV,Sarjono,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350078,JZ13FCH,SubhanFajar Sidik,k2pi,Bangkalan,Jawa Timur,Indonesia 
-2350079,JZ13GUV,DodikWidya Adhitama,k2pi,Mojokerto,Jawa Timur,Indonesia 
-2350112,JZ13BFW,Moehermantoro,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350113,JZ13FVK,MohammadAfrizal Azizi,k2pi,Jombang,Jawa Timur,Indonesia 
-2350115,JZ13QRK,Haryadi,k2pi,Malang,Jawa Timur,Indonesia 
-2350124,JZ13FUT,SuryoAgung Rurianto,k2pi,Pasuruan,Jawa Timur,Indonesia 
-2350138,JZ13VHU,UtomoSoedarminto,k2pi,Malang,Jawa Timur,Indonesia 
-2350181,JZ13AZL,Supriyadi,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350240,JZ13CAU,ChoirulHuda,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350246,JZ13AWY,WidaSusanto,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350260,JZ30TJV,IndraNicristiawan,k2pi,Madiun,Jawa Timur,Indonesia 
-2350261,JZ13HKD,HernadiHermanus,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350310,JZ13GCN,DanuWahyono Suwito,k2pi,Madiun,Jawa Timur,Indonesia 
-2350315,JZ13FQK,MuhHafid Akbar,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350318,JZ13DTE,Mulyadi,k2pi,Gresik,Jawa Timur,Indonesia 
-2350329,JZ13SIG,SeptianEko W,k2pi,Jember,Jawa Timur,Indonesia 
-2350377,JZ13FUS,Stevanus,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350378,JZ13EWB,ErikSugiharto,k2pi,Gresik,Jawa Timur,Indonesia 
-2350389,JZ13CAI,FranscescoFrielo Namora,k2pi,Gresik,Jawa Timur,Indonesia 
-2350498,JZ13HVN,IfandaJuniarta Nain,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350505,JZ13BLB,ImamSantoso,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350511,JZ13SIS,SiswadiSiswo Pranoto,k2pi,Malang,Jawa Timur,Indonesia 
-2350530,JZ13WBA,AhmadMudhofir,k2pi,Tuban,Jawa Timur,Indonesia 
-2350589,JZ13FSE,EzellThadeus,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350616,JZ13HKV,MohAbdul Aziz Al Malufi,k2pi,Malang,Jawa Timur,Indonesia 
-2350618,JZ13HWR,MochamadMachfud,k2pi,Malang,Jawa Timur,Indonesia 
-2350628,JZ13BAE,BimoParama Arta Novemi Anto,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-2350645,JZ13FSW,MohibAsrori,k2pi,Trenggalek,Jawa Timur,Indonesia 
-2350664,JZ13HRS,NurpatriaPuspayudha Putranagara Mahardhika,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-2350834,JZ13YIC,Sugiono,k2pi,Batu,Jawa Timur,Indonesia 
-2350835,JZ13BRC,AhmadNur Qoyim,k2pi,Malang,Jawa Timur,Indonesia 
-2350859,JZ13FDL,DanangSamsul Arifin,k2pi,Madiun,Jawa Timur,Indonesia 
-2350862,JZ13HUG,DenyPanca Putra,k2pi,Malang,Jawa Timur,Indonesia 
-2350935,JZ13DUV,MochamadRizal Amirudin,k2pi,Tulungagung,Jawa Timur,Indonesia 
-2350936,JZ13IJW,FitorBogi Irawan,k2pi,Banyuwangi,Jawa Timur,Indonesia 
-2350947,JZ13ABB,ReadyK. Mongi,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350980,JZ13GZK,AndyAnugrah,k2pi,Jember,Jawa Timur,Indonesia 
-2350987,JZ13IJP,AntonHendrawan,k2pi,Banyuwangi,Jawa Timur,Indonesia 
-2350994,JZ13IAC,HeruBaskara,k2pi,Surabaya,Jawa Timur,Indonesia 
-2350996,JZ13HXA,MuhammadFahtur Rosi,k2pi,Bondowoso,Jawa Timur,Indonesia 
-2351010,JZ13IBL,AriefAchomadin,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-2351012,JZ13IVG,EviSetiawan,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-2351013,JZ13HYW,AndyDwi Septanto,k2pi,Surabaya,Jawa Timur,Indonesia 
-2351015,JZ13IGC,AnangNugroho,k2pi,Banyuwangi,Jawa Timur,Indonesia 
-2351021,JZ13IRC,ZaldyHerdian Kurniawan,k2pi,Lamongan,Jawa Timur,Indonesia 
-2351022,JZ13IXL,JokoWijaksono,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-2351023,JZ13IZB,SigitWicaksono,k2pi,Surabaya,Jawa Timur,Indonesia 
-2351104,JZ13IGN,HadiFitriyanto,k2pi,Banyuwangi,Jawa Timur,Indonesia 
-2351119,JZ13IGG,DidikMudjiono,k2pi,Surabaya,Jawa Timur,Indonesia 
+2350023,JZ13FJD,AhmadDarmawan,k2pi,Bojonegoro,Jatim,Indonesia 
+2350043,JZ13CKB,HeraPagiana,k2pi,Trenggalek,Jatim,Indonesia 
+2350048,JZ13CUZ,PrasetyoArdi Nugroho,k2pi,Ponorogo,Jatim,Indonesia 
+2350059,JZ13AIV,Sarjono,k2pi,Surabaya,Jatim,Indonesia 
+2350078,JZ13FCH,SubhanFajar Sidik,k2pi,Bangkalan,Jatim,Indonesia 
+2350079,JZ13GUV,DodikWidya Adhitama,k2pi,Mojokerto,Jatim,Indonesia 
+2350112,JZ13BFW,Moehermantoro,k2pi,Surabaya,Jatim,Indonesia 
+2350113,JZ13FVK,MohammadAfrizal Azizi,k2pi,Jombang,Jatim,Indonesia 
+2350115,JZ13QRK,Haryadi,k2pi,Malang,Jatim,Indonesia 
+2350124,JZ13FUT,SuryoAgung Rurianto,k2pi,Pasuruan,Jatim,Indonesia 
+2350138,JZ13VHU,UtomoSoedarminto,k2pi,Malang,Jatim,Indonesia 
+2350181,JZ13AZL,Supriyadi,k2pi,Surabaya,Jatim,Indonesia 
+2350240,JZ13CAU,ChoirulHuda,k2pi,Surabaya,Jatim,Indonesia 
+2350246,JZ13AWY,WidaSusanto,k2pi,Surabaya,Jatim,Indonesia 
+2350260,JZ30TJV,IndraNicristiawan,k2pi,Madiun,Jatim,Indonesia 
+2350261,JZ13HKD,HernadiHermanus,k2pi,Surabaya,Jatim,Indonesia 
+2350310,JZ13GCN,DanuWahyono Suwito,k2pi,Madiun,Jatim,Indonesia 
+2350315,JZ13FQK,MuhHafid Akbar,k2pi,Surabaya,Jatim,Indonesia 
+2350318,JZ13DTE,Mulyadi,k2pi,Gresik,Jatim,Indonesia 
+2350329,JZ13SIG,SeptianEko W,k2pi,Jember,Jatim,Indonesia 
+2350377,JZ13FUS,Stevanus,k2pi,Surabaya,Jatim,Indonesia 
+2350378,JZ13EWB,ErikSugiharto,k2pi,Gresik,Jatim,Indonesia 
+2350389,JZ13CAI,FranscescoFrielo Namora,k2pi,Gresik,Jatim,Indonesia 
+2350498,JZ13HVN,IfandaJuniarta Nain,k2pi,Surabaya,Jatim,Indonesia 
+2350505,JZ13BLB,ImamSantoso,k2pi,Surabaya,Jatim,Indonesia 
+2350511,JZ13SIS,SiswadiSiswo Pranoto,k2pi,Malang,Jatim,Indonesia 
+2350530,JZ13WBA,AhmadMudhofir,k2pi,Tuban,Jatim,Indonesia 
+2350589,JZ13FSE,EzellThadeus,k2pi,Surabaya,Jatim,Indonesia 
+2350616,JZ13HKV,MohAbdul Aziz Al Malufi,k2pi,Malang,Jatim,Indonesia 
+2350618,JZ13HWR,MochamadMachfud,k2pi,Malang,Jatim,Indonesia 
+2350628,JZ13BAE,BimoParama Arta Novemi Anto,k2pi,Sidoarjo,Jatim,Indonesia 
+2350645,JZ13FSW,MohibAsrori,k2pi,Trenggalek,Jatim,Indonesia 
+2350664,JZ13HRS,NurpatriaPuspayudha Putranagara Mahardhika,k2pi,Sidoarjo,Jatim,Indonesia 
+2350834,JZ13YIC,Sugiono,k2pi,Batu,Jatim,Indonesia 
+2350835,JZ13BRC,AhmadNur Qoyim,k2pi,Malang,Jatim,Indonesia 
+2350859,JZ13FDL,DanangSamsul Arifin,k2pi,Madiun,Jatim,Indonesia 
+2350862,JZ13HUG,DenyPanca Putra,k2pi,Malang,Jatim,Indonesia 
+2350935,JZ13DUV,MochamadRizal Amirudin,k2pi,Tulungagung,Jatim,Indonesia 
+2350936,JZ13IJW,FitorBogi Irawan,k2pi,Banyuwangi,Jatim,Indonesia 
+2350947,JZ13ABB,ReadyK. Mongi,k2pi,Surabaya,Jatim,Indonesia 
+2350980,JZ13GZK,AndyAnugrah,k2pi,Jember,Jatim,Indonesia 
+2350987,JZ13IJP,AntonHendrawan,k2pi,Banyuwangi,Jatim,Indonesia 
+2350994,JZ13IAC,HeruBaskara,k2pi,Surabaya,Jatim,Indonesia 
+2350996,JZ13HXA,MuhammadFahtur Rosi,k2pi,Bondowoso,Jatim,Indonesia 
+2351010,JZ13IBL,AriefAchomadin,k2pi,Sidoarjo,Jatim,Indonesia 
+2351012,JZ13IVG,EviSetiawan,k2pi,Sidoarjo,Jatim,Indonesia 
+2351013,JZ13HYW,AndyDwi Septanto,k2pi,Surabaya,Jatim,Indonesia 
+2351015,JZ13IGC,AnangNugroho,k2pi,Banyuwangi,Jatim,Indonesia 
+2351021,JZ13IRC,ZaldyHerdian Kurniawan,k2pi,Lamongan,Jatim,Indonesia 
+2351022,JZ13IXL,JokoWijaksono,k2pi,Sidoarjo,Jatim,Indonesia 
+2351023,JZ13IZB,SigitWicaksono,k2pi,Surabaya,Jatim,Indonesia 
+2351104,JZ13IGN,HadiFitriyanto,k2pi,Banyuwangi,Jatim,Indonesia 
+2351119,JZ13IGG,DidikMudjiono,k2pi,Surabaya,Jatim,Indonesia 
 2360033,JZ30BOQ,Rendy,k2pi,Tangerang Sel,Banten,Indonesia 
 2360047,JZ30BNH,AlloysiusDitto Christianto,k2pi,Tangerang Sel,Banten,Indonesia 
 2360060,JZ30BPA,ErmanDela Rosa Villanueva,k2pi,Tangerang Sel,Banten,Indonesia 
@@ -524,6 +525,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2360916,JZ30BTU,IfanMiahrifal Suprayudin,k2pi,Tangerang,Banten,Indonesia 
 2360990,JZ30CFP,ImronHanafi,k2pi,Serang,Banten,Indonesia 
 2361036,JZ30CLA,FeryDiyan Murtono,k2pi,Tangerang,Banten,Indonesia 
+2361124,JZ30CFR ,Endro_Nugroho_,k2pi,Tangerang,Banten,Indonesia 
+2361125,JZ30TNX,Si_Rudy,k2pi,Tangerang,Banten,Indonesia 
+2361127,JZ30TGC,Yoni_Rusdiana,k2pi,Tangerang,Banten,Indonesia 
 2510012,JZ14ONK,I_WayanSuarsa,k2pi,Tabanan,Bali,Indonesia 
 2510017,JZ14RED,ErryDirta Budiyasa,k2pi,Badung,Bali,Indonesia 
 2510167,JZ14AYH,ReddiyantoSoenggawan,k2pi,Badung,Bali,Indonesia 
@@ -637,8 +641,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 3014014,PL14BM,BintonManurung,k2pi,Pelalawan,Riau,Indonesia 
 3014675,PL14HER,HerdiFebrianda Pratama,k2pi,Pekanbaru,Riau,Indonesia 
 3031832,PL31EKO,EkoWidjaja Ks,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
-3032293,PL32KLH,DonyChandra,k2pi,Bekasi,JAWA BARAT,Indonesia 
-3035987,PL35AH,AntonHendrawan,k2pi,Banyuwangi,Jawa Timur,Indonesia 
+3032293,PL32KLH,DonyChandra,k2pi,Bekasi,JABAR,Indonesia 
+3035987,PL35AH,AntonHendrawan,k2pi,Banyuwangi,Jatim,Indonesia 
 3036316,PL36KMD,YohanisSabar Tandiera,k2pi,Tangerang Sel,Banten,Indonesia 
 3036766,PL36BAP,BhismaAdhikara Purushana,k2pi,Tangerang Sel,Banten,Indonesia 
 3062144,PL62PFO,AlfiYusnando,k2pi,Kotawaringin Tmr,KALTENG,Indonesia 
@@ -649,37 +653,38 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 4031006,AB31JAG,B_AgusPriaman,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 4031046,AB31JBU,AgusPambudi,k2pi,Jakarta Brt,JAKARTA,Indonesia 
 4031725,AB31IN,IwanNugroho,k2pi,Jakarta Utr,JAKARTA,Indonesia 
-4032085,AB32KDH,BudiWaloejo,k2pi,Depok,JAWA BARAT,Indonesia 
-4032702,AB32AL,AbdulLatip,k2pi,Kuningan,JAWA BARAT,Indonesia 
-4032703,AB32AIS,AgungIndra Saputa,k2pi,Kuningan,JAWA BARAT,Indonesia 
-4032710,AB32KUS,E_Kuswara,k2pi,Subang,JAWA BARAT,Indonesia 
-4032713,AB32WCB,WahyuCandra Buana,k2pi,Kuningan,JAWA BARAT,Indonesia 
-4032717,AB32AM,AnjarMardianto,k2pi,Kuningan,JAWA BARAT,Indonesia 
-4032719,AB32EDI,EdiKurniadi,k2pi,Kuningan,JAWA BARAT,Indonesia 
-4032722,AB32MUK,Mukamad,k2pi,Cirebon,JAWA BARAT,Indonesia 
-4032724,AB32HAR,Hariyanto,k2pi,Kuningan,JAWA BARAT,Indonesia 
-4032726,AB32PAN,PanutAzori,k2pi,Kuningan,JAWA BARAT,Indonesia 
+4032085,AB32KDH,BudiWaloejo,k2pi,Depok,JABAR,Indonesia 
+4032702,AB32AL,AbdulLatip,k2pi,Kuningan,JABAR,Indonesia 
+4032703,AB32AIS,AgungIndra Saputa,k2pi,Kuningan,JABAR,Indonesia 
+4032710,AB32KUS,E_Kuswara,k2pi,Subang,JABAR,Indonesia 
+4032713,AB32WCB,WahyuCandra Buana,k2pi,Kuningan,JABAR,Indonesia 
+4032717,AB32AM,AnjarMardianto,k2pi,Kuningan,JABAR,Indonesia 
+4032719,AB32EDI,EdiKurniadi,k2pi,Kuningan,JABAR,Indonesia 
+4032722,AB32MUK,Mukamad,k2pi,Cirebon,JABAR,Indonesia 
+4032724,AB32HAR,Hariyanto,k2pi,Kuningan,JABAR,Indonesia 
+4032726,AB32PAN,PanutAzori,k2pi,Kuningan,JABAR,Indonesia 
 4034824,AB34AH,AnangHidayat,k2pi,Sleman,YOGYAKARTA,Indonesia 
-4035636,AB35MYM,MochamadChurianto,k2pi,Malang,Jawa Timur,Indonesia 
-4035862,AB35HUG,DenyPanca Putra,k2pi,Malang,Jawa Timur,Indonesia 
+4035636,AB35MYM,MochamadChurianto,k2pi,Malang,Jatim,Indonesia 
+4035862,AB35HUG,DenyPanca Putra,k2pi,Malang,Jatim,Indonesia 
 4096035,AB96TRI,TriBudi Irianto,k2pi,Sorong,PAPBADA,Indonesia 
 5000001,PC00DAB,CentralOffice K2Pi,k2pi,Jakarta Pusat,JAKARTA,Indonesia 
-5100003,YD2DVD,Krisno,k2pi,Banjarnegara,JAWA TENGAH,Indonesia 
-5100019,YC1ART,ArdiRisman,k2pi,Bogor,JAWA BARAT,Indonesia 
+5100003,YD2DVD,Krisno,k2pi,Banjarnegara,Jateng,Indonesia 
+5100019,YC1ART,ArdiRisman,k2pi,Bogor,JABAR,Indonesia 
 5100021,YD0APA,JauwCharlie Riyadi N,k2pi,Jakarta Brt,JAKARTA,Indonesia 
 5100025,YD0EEE,MarioWidiarto Sutantoputra,k2pi,Jakarta Utr,JAKARTA,Indonesia 
 5100031,YB0CSP,CahyoSatrio P,k2pi,Jakarta Sel,JAKARTA,Indonesia 
-5100038,YE1BNI,RadenSiswandi Tirtakusumah,k2pi,Bandung,JAWA BARAT,Indonesia 
+5100038,YE1BNI,RadenSiswandi Tirtakusumah,k2pi,Bandung,JABAR,Indonesia 
 5100047,YC5YC,Davidcy,k2pi,Pekanbaru,Riau,Indonesia 
-5100048,YD3AFS,BimoParama Arta Novemi Anto,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5100051,YC2LCZ,PramukaSupriyatmo,k2pi,Kudus,JAWA TENGAH,Indonesia 
-5100055,YD1DGI,Hadiyanto,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5100048,YD3AFS,BimoParama Arta Novemi Anto,k2pi,Sidoarjo,Jatim,Indonesia 
+5100051,YC2LCZ,PramukaSupriyatmo,k2pi,Kudus,Jateng,Indonesia 
+5100055,YD1DGI,Hadiyanto,k2pi,Bekasi,JABAR,Indonesia 
 5100058,YD0ANX,SuryaHidayat,k2pi,Jakarta Brt,JAKARTA,Indonesia 
-5100074,YD1DKW,YudiIrwan,k2pi,Bandung,JAWA BARAT,Indonesia 
-5100088,YB1ICC,JuliarAdiputro,k2pi,Depok,JAWA BARAT,Indonesia 
+5100074,YD1DKW,YudiIrwan,k2pi,Bandung,JABAR,Indonesia 
+5100075,YD1LEQ,Komara_Abdulkadir_,k2pi,Bandung,JABAR,Indonesia 
+5100088,YB1ICC,JuliarAdiputro,k2pi,Depok,JABAR,Indonesia 
 5100094,YB0DYY,DonnyHimawan,k2pi,Jakarta Sel,JAKARTA,Indonesia 
 5100095,YB0ACR,Winanto,k2pi,Jakarta Utr,JAKARTA,Indonesia 
-5100104,YC2SNK,StefanusAries Hendrayana Putra,k2pi,Surakarta,JAWA TENGAH,Indonesia 
+5100104,YC2SNK,StefanusAries Hendrayana Putra,k2pi,Surakarta,Jateng,Indonesia 
 5100106,YB7XMR,MuhammadRijadie,k2pi,Kutai Tmr,KALTIM,Indonesia 
 5100134,YC1RHN,MashuriUsman,k2pi,Tangerang,Banten,Indonesia 
 5100136,YD9BEJ,InyomanDarta,k2pi,Badung,Bali,Indonesia 
@@ -691,9 +696,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5100174,YC0AXC,HanafiHandoko,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5100175,YD0AWP,BonnyHardi Putra,k2pi,Jakarta Pusat,JAKARTA,Indonesia 
 5100182,YC0ASW,R_JeftaHeroe Porwanto,k2pi,Jakarta Utr,JAKARTA,Indonesia 
-5100186,YD1EMI,FeraPuji Hendriwianto,k2pi,Bogor,JAWA BARAT,Indonesia 
-5100188,YC3AFP,HaryoSuryo Pramono,k2pi,Surabaya,Jawa Timur,Indonesia 
-5100210,YC1EKP,Anwari,k2pi,Cirebon,JAWA BARAT,Indonesia 
+5100186,YD1EMI,FeraPuji Hendriwianto,k2pi,Bogor,JABAR,Indonesia 
+5100188,YC3AFP,HaryoSuryo Pramono,k2pi,Surabaya,Jatim,Indonesia 
+5100210,YC1EKP,Anwari,k2pi,Cirebon,JABAR,Indonesia 
 5100216,YB6IOV,MuhammadHafizh Nasution,k2pi,Medan,SUMUT,Indonesia 
 5100224,YD5NMM,JohanGozali,k2pi,Pekanbaru,Riau,Indonesia 
 5100225,YD6HQN,HendrawanWijaya,k2pi,Medan,SUMUT,Indonesia 
@@ -705,145 +710,145 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5100261,YB5NDJ,SyamsulAlam,k2pi,Pelalawan,Riau,Indonesia 
 5100270,YD5NCH,DenyAfrizan,k2pi,Pelalawan,Riau,Indonesia 
 5100294,YC0AQN,AlifianRachmansyah,k2pi,Jakarta Sel,JAKARTA,Indonesia 
-5100295,YB3SLY,AsliSamadi,k2pi,Madiun,Jawa Timur,Indonesia 
+5100295,YB3SLY,AsliSamadi,k2pi,Madiun,Jatim,Indonesia 
 5100304,YD0BCS,DannyMulya,k2pi,Jakarta Sel,JAKARTA,Indonesia 
 5100307,YD5NDK,BayuKurnia,k2pi,Pelalawan,Riau,Indonesia 
 5100309,YC5NCU,BambangWijaya,k2pi,Pelalawan,Riau,Indonesia 
 5100314,YD6VXO,GiminSyafri,k2pi,Medan,SUMUT,Indonesia 
 5100338,YC6DR,DedySyafrial,k2pi,Langsa,Aceh,Indonesia 
 5100343,YC6ROY,EddySusanto,k2pi,Labuhanbatu,SUMUT,Indonesia 
-5100347,YB2AUP,Nukalix,k2pi,Pati,JAWA TENGAH,Indonesia 
-5100360,YB2RPO,PancaPamungkas,k2pi,Semarang,JAWA TENGAH,Indonesia 
+5100347,YB2AUP,Nukalix,k2pi,Pati,Jateng,Indonesia 
+5100360,YB2RPO,PancaPamungkas,k2pi,Semarang,Jateng,Indonesia 
 5100362,YD6HRD,Karwan,k2pi,Deli Serdang,SUMUT,Indonesia 
 5100365,YD0APM ,RickySutanta ,k2pi,Jakarta Brt,JAKARTA,Indonesia 
-5100368,YC1MCD,Nenda,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5100368,YC1MCD,Nenda,k2pi,Bekasi,JABAR,Indonesia 
 5100376,YB8SCP,VictorTengker,k2pi,Minahasa,SULUT,Indonesia 
-5100386,YB3DE,RaEko Hari Pambudi,k2pi,Surabaya,Jawa Timur,Indonesia 
-5100389,YB3RVA,TriatmadjaMasiyok,k2pi,Sidoarjo,Jawa Timur,Indonesia 
+5100386,YB3DE,RaEko Hari Pambudi,k2pi,Surabaya,Jatim,Indonesia 
+5100389,YB3RVA,TriatmadjaMasiyok,k2pi,Sidoarjo,Jatim,Indonesia 
 5100392,YB7DNA,AhmadDinawan,k2pi,Pontianak,KALBAR,Indonesia 
 5100424,YD0SIW,IwanSantoso,k2pi,Jakarta Utr,JAKARTA,Indonesia 
-5100426,YG2BTU,YuniorNedy Setiawan,k2pi,Semarang,JAWA TENGAH,Indonesia 
+5100426,YG2BTU,YuniorNedy Setiawan,k2pi,Semarang,Jateng,Indonesia 
 5100427,YD6LJK,MuhammadHaris,k2pi,Medan,SUMUT,Indonesia 
 5100434,YD5NMN,Himanto,k2pi,Kuantan Singingi,Riau,Indonesia 
-5100438,YG1AZZ,MahyulFata,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5100443,YF1ARX,AhmadHilyadi,k2pi,Depok,JAWA BARAT,Indonesia 
-5100458,YE1BBB,ClarenceShane Rikoemahoe,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5100438,YG1AZZ,MahyulFata,k2pi,Bekasi,JABAR,Indonesia 
+5100443,YF1ARX,AhmadHilyadi,k2pi,Depok,JABAR,Indonesia 
+5100458,YE1BBB,ClarenceShane Rikoemahoe,k2pi,Bekasi,JABAR,Indonesia 
 5100460,YC9ABD,AnakAgung Bagus Dewangkara,k2pi,Denpasar,Bali,Indonesia 
-5100461,YD3CCG,HariCahyo Santoso,k2pi,Bojonegoro,Jawa Timur,Indonesia 
-5100465,YC3LVE,WidiharsoFz Drs,k2pi,Malang,Jawa Timur,Indonesia 
+5100461,YD3CCG,HariCahyo Santoso,k2pi,Bojonegoro,Jatim,Indonesia 
+5100465,YC3LVE,WidiharsoFz Drs,k2pi,Malang,Jatim,Indonesia 
 5100468,YB6JMM,M_AsywinsyahPutra,k2pi,Deli Serdang,SUMUT,Indonesia 
 5100470,YD9HQY,AhmadFatoni,k2pi,Mataram,NTB,Indonesia 
 5100471,YD9HKW,Suharto,k2pi,Mataram,NTB,Indonesia 
 5100474,YD5NFZ,Susiyanto,k2pi,Pelalawan,Riau,Indonesia 
 5100481,YD6HTK,DarwinPutra,k2pi,Medan,SUMUT,Indonesia 
-5100484,YB2TDP,TotokSukamto,k2pi,Rembang,JAWA TENGAH,Indonesia 
+5100484,YB2TDP,TotokSukamto,k2pi,Rembang,Jateng,Indonesia 
 5100489,YG0THE,ArintokoNugroho,k2pi,Tangerang Sel,Banten,Indonesia 
-5100490,YC1FYL,AtinSurelawatin,k2pi,Subang,JAWA BARAT,Indonesia 
+5100490,YC1FYL,AtinSurelawatin,k2pi,Subang,JABAR,Indonesia 
 5100492,YB1TS,BenyaminMartani,k2pi,Tangerang Sel,Banten,Indonesia 
 5100504,YD0BAG,SudrajatNurarifin,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5100506,YC6POC,DarulAmany,k2pi,Langkat,SUMUT,Indonesia 
-5100513,YD1BEK,LudovicPandhita A D,k2pi,Bogor,JAWA BARAT,Indonesia 
-5100540,YC3CNV,AnangSusanto,k2pi,Jombang,Jawa Timur,Indonesia 
+5100513,YD1BEK,LudovicPandhita A D,k2pi,Bogor,JABAR,Indonesia 
+5100540,YC3CNV,AnangSusanto,k2pi,Jombang,Jatim,Indonesia 
 5100548,YC0NLL,TekadWidodo Setiawan,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
-5100557,YC2PAB,Jumaroh,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5100559,YD1FWM,EkaWijaya,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5100563,YD1EOC,TotoSantoso,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5100567,YD3BHZ,WiyanaTjahjana,k2pi,Probolinggo,Jawa Timur,Indonesia 
-5100569,YD2JEH,PujiHartanto,k2pi,Pemalang,JAWA TENGAH,Indonesia 
-5100579,YC2EOA,EdyHidayatno,k2pi,Pekalongan,JAWA TENGAH,Indonesia 
-5100583,YB1EJC,AkhmadMuliawan,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5100585,YD2CVL,RikhunKheri Saputra,k2pi,Pemalang,JAWA TENGAH,Indonesia 
-5100608,YG3CTD,HenriKurniawan,k2pi,Bondowoso,Jawa Timur,Indonesia 
+5100557,YC2PAB,Jumaroh,k2pi,Semarang,Jateng,Indonesia 
+5100559,YD1FWM,EkaWijaya,k2pi,Cirebon,JABAR,Indonesia 
+5100563,YD1EOC,TotoSantoso,k2pi,Cirebon,JABAR,Indonesia 
+5100567,YD3BHZ,WiyanaTjahjana,k2pi,Probolinggo,Jatim,Indonesia 
+5100569,YD2JEH,PujiHartanto,k2pi,Pemalang,Jateng,Indonesia 
+5100579,YC2EOA,EdyHidayatno,k2pi,Pekalongan,Jateng,Indonesia 
+5100583,YB1EJC,AkhmadMuliawan,k2pi,Cirebon,JABAR,Indonesia 
+5100585,YD2CVL,RikhunKheri Saputra,k2pi,Pemalang,Jateng,Indonesia 
+5100608,YG3CTD,HenriKurniawan,k2pi,Bondowoso,Jatim,Indonesia 
 5100623,YB5RU,RimonUsman,k2pi,Pekanbaru,Riau,Indonesia 
 5100655,YC0RVQ,RahmadRizani,k2pi,Jakarta Brt,JAKARTA,Indonesia 
-5100666,YG1BJJ,Mariyanto,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5100677,YB2CPQ,IndraHari Setiawan,k2pi,Klaten,JAWA TENGAH,Indonesia 
-5100678,YC1JGE,HusniMubarok,k2pi,Ciamis,JAWA BARAT,Indonesia 
-5100697,YC1CDK,ArifRahman,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5100710,YF2AWN,Djuprijanto,k2pi,Rembang,JAWA TENGAH,Indonesia 
+5100666,YG1BJJ,Mariyanto,k2pi,Bekasi,JABAR,Indonesia 
+5100677,YB2CPQ,IndraHari Setiawan,k2pi,Klaten,Jateng,Indonesia 
+5100678,YC1JGE,HusniMubarok,k2pi,Ciamis,JABAR,Indonesia 
+5100697,YC1CDK,ArifRahman,k2pi,Cirebon,JABAR,Indonesia 
+5100710,YF2AWN,Djuprijanto,k2pi,Rembang,Jateng,Indonesia 
 5100711,YG3ACN,JohansHerman Karyaadi,k2pi,Jakarta Utr,JAKARTA,Indonesia 
 5100714,YD6HDK,YustinusE Waruwu,k2pi,Sibolga,SUMUT,Indonesia 
-5100715,YG3ANX,SuryoAgung Rurianto,k2pi,Pasuruan,Jawa Timur,Indonesia 
+5100715,YG3ANX,SuryoAgung Rurianto,k2pi,Pasuruan,Jatim,Indonesia 
 5100716,YD5NOS,RioArwandita,k2pi,Dumai,Riau,Indonesia 
-5100718,YF3AJE,AhmadDarmawan,k2pi,Bojonegoro,Jawa Timur,Indonesia 
-5100720,YB3CII,BetantyoWisnu Hernawan,k2pi,Bangkalan,Jawa Timur,Indonesia 
+5100718,YF3AJE,AhmadDarmawan,k2pi,Bojonegoro,Jatim,Indonesia 
+5100720,YB3CII,BetantyoWisnu Hernawan,k2pi,Bangkalan,Jatim,Indonesia 
 5100740,YB8TB,BambangAgussetia,k2pi,Manado,SULUT,Indonesia 
-5100746,YC3CZV,MochamadFebrian Reonaldo,k2pi,Kediri,Jawa Timur,Indonesia 
+5100746,YC3CZV,MochamadFebrian Reonaldo,k2pi,Kediri,Jatim,Indonesia 
 5100747,YD2VKB,StarkyAji,k2pi,Yogyakarta,YOGYAKARTA,Indonesia 
-5100762,YC3BAF,UtomoSoedarminto,k2pi,Malang,Jawa Timur,Indonesia 
-5100766,YF1BSH,AgusDani Sulistianto,k2pi,Depok,JAWA BARAT,Indonesia 
+5100762,YC3BAF,UtomoSoedarminto,k2pi,Malang,Jatim,Indonesia 
+5100766,YF1BSH,AgusDani Sulistianto,k2pi,Depok,JABAR,Indonesia 
 5100767,YB8DNT,MuhammadSyamsul Gafur,k2pi,Makassar,SULSEL,Indonesia 
-5100773,YF3AZL,SubhanFajar Sidik,k2pi,Bangkalan,Jawa Timur,Indonesia 
-5100774,YG3AZM,Sarjono,k2pi,Surabaya,Jawa Timur,Indonesia 
+5100773,YF3AZL,SubhanFajar Sidik,k2pi,Bangkalan,Jatim,Indonesia 
+5100774,YG3AZM,Sarjono,k2pi,Surabaya,Jatim,Indonesia 
 5100782,YC5NBA,BahrilAmal,k2pi,Pekanbaru,Riau,Indonesia 
-5100785,YF1BKB,R_BudiHidayat,k2pi,Bandung,JAWA BARAT,Indonesia 
+5100785,YF1BKB,R_BudiHidayat,k2pi,Bandung,JABAR,Indonesia 
 5100788,YC7NUP,UripPamuji,k2pi,Banjarmasin,KALSEL,Indonesia 
-5100792,YD3ATQ,JimmySugiarto,k2pi,Malang,Jawa Timur,Indonesia 
-5100797,YC3BQZ,DodyHeru Pratomo,k2pi,Surabaya,Jawa Timur,Indonesia 
+5100792,YD3ATQ,JimmySugiarto,k2pi,Malang,Jatim,Indonesia 
+5100797,YC3BQZ,DodyHeru Pratomo,k2pi,Surabaya,Jatim,Indonesia 
 5100801,YB0RFS,IskandarZulkarnaen,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5100803,YC7UVU,Priyanto,k2pi,Balikpapan,KALTIM,Indonesia 
-5100804,YC2MPF,FransPranoto,k2pi,Semarang,JAWA TENGAH,Indonesia 
+5100804,YC2MPF,FransPranoto,k2pi,Semarang,Jateng,Indonesia 
 5100805,YC7UJQ,ImamWahyudi,k2pi,Kutai Tmr,KALTIM,Indonesia 
-5100809,YD1ANA,GymnastiarAdy Alawy,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5100809,YD1ANA,GymnastiarAdy Alawy,k2pi,Bekasi,JABAR,Indonesia 
 5100819,YB0OIL,AdhiantoSardjono,k2pi,Jakarta Pusat,JAKARTA,Indonesia 
 5100820,YD6HAX,KuswandiArief,k2pi,Batu Bara,SUMUT,Indonesia 
 5100824,YD6SVL,Nurdin,k2pi,Medan,SUMUT,Indonesia 
 5100827,YD0AGI,AhmadJaja,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5100845,YB9BA,WayanAstawa,k2pi,Bangli,Bali,Indonesia 
-5100862,YC2FTC,KukuhFebriono,k2pi,Kebumen,JAWA TENGAH,Indonesia 
+5100862,YC2FTC,KukuhFebriono,k2pi,Kebumen,Jateng,Indonesia 
 5100863,YB8QF,JohnFitzgerald Rembet,k2pi,Manado,SULUT,Indonesia 
-5100865,YC2OYD,IwanHermawan,k2pi,Semarang,JAWA TENGAH,Indonesia 
+5100865,YC2OYD,IwanHermawan,k2pi,Semarang,Jateng,Indonesia 
 5100866,YG4SLI,DworoUdono,k2pi,Bandar Lampung,Lampung,Indonesia 
 5100869,YH5NE,CentralOffice K2Pi,k2pi,Pelalawan,Riau,Indonesia 
 5100872,YC0PVG,AndiJaswandi,k2pi,Jakarta Brt,JAKARTA,Indonesia 
 5100873,YB0MLE,GmRosarijanto,k2pi,Jakarta Brt,JAKARTA,Indonesia 
-5100876,YB2BGU,FirmanFridayanto,k2pi,Blora,JAWA TENGAH,Indonesia 
-5100877,YB2CRN,Sugiharto,k2pi,Purworejo,JAWA TENGAH,Indonesia 
-5100878,YG1BJZ,AgusYulianto,k2pi,Bandung,JAWA BARAT,Indonesia 
+5100876,YB2BGU,FirmanFridayanto,k2pi,Blora,Jateng,Indonesia 
+5100877,YB2CRN,Sugiharto,k2pi,Purworejo,Jateng,Indonesia 
+5100878,YG1BJZ,AgusYulianto,k2pi,Bandung,JABAR,Indonesia 
 5100880,YD9RHS,TriBudi Irianto,k2pi,Sorong,PAPBADA,Indonesia 
 5100892,YD9AVB,PutuWibawa Arjana Kertha,k2pi,Bangli,Bali,Indonesia 
 5100893,YD0BQO,AbdullahSyafei,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5100894,YB8RQQ,EronAlberto Tambani,k2pi,Minahasa Utr,SULUT,Indonesia 
-5100910,YG1ARG,TribhuwanaPl,k2pi,Bandung,JAWA BARAT,Indonesia 
+5100910,YG1ARG,TribhuwanaPl,k2pi,Bandung,JABAR,Indonesia 
 5100917,YD2VLD,SunardiDwiputranto,k2pi,Sleman,YOGYAKARTA,Indonesia 
 5100918,YD9BBU,HirmawanTirta Yudha,k2pi,Buleleng,Bali,Indonesia 
-5100919,YD1AHK,FakichUdin,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5100919,YD1AHK,FakichUdin,k2pi,Bekasi,JABAR,Indonesia 
 5100923,YB7WZ,SyahbandiRasyid,k2pi,Banjarbaru,KALSEL,Indonesia 
 5100925,YD5NDQ,WanChairuddin Saleh,k2pi,Bengkalis,Riau,Indonesia 
 5100927,YD0BCA,AbdulRahman,k2pi,Jakarta Utr,JAKARTA,Indonesia 
-5100929,YD2DXI,MabekniYulianto,k2pi,Blora,JAWA TENGAH,Indonesia 
+5100929,YD2DXI,MabekniYulianto,k2pi,Blora,Jateng,Indonesia 
 5100931,YC0BPV,B_AgusPriaman,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5100932,YD2VLE,AnthoniCahyo Noorsakti,k2pi,Bantul,YOGYAKARTA,Indonesia 
-5100935,YG3BRO,FirmanHidayat,k2pi,Surabaya,Jawa Timur,Indonesia 
-5100936,YC3BRB,MuhHafid Akbar,k2pi,Surabaya,Jawa Timur,Indonesia 
+5100935,YG3BRO,FirmanHidayat,k2pi,Surabaya,Jatim,Indonesia 
+5100936,YC3BRB,MuhHafid Akbar,k2pi,Surabaya,Jatim,Indonesia 
 5100941,YC1SDZ,AlloysiusDitto Christianto,k2pi,Tangerang Sel,Banten,Indonesia 
-5100946,YE2BDN,PaulusSetiabudi,k2pi,Blora,JAWA TENGAH,Indonesia 
-5100949,YC2FCL,AbdullahJaidi,k2pi,Pekalongan,JAWA TENGAH,Indonesia 
-5100956,YG3BTY,ChoirulHuda,k2pi,Surabaya,Jawa Timur,Indonesia 
-5100960,YG2BTP,CahyonoDwikartiputra,k2pi,Magelang,JAWA TENGAH,Indonesia 
+5100946,YE2BDN,PaulusSetiabudi,k2pi,Blora,Jateng,Indonesia 
+5100949,YC2FCL,AbdullahJaidi,k2pi,Pekalongan,Jateng,Indonesia 
+5100956,YG3BTY,ChoirulHuda,k2pi,Surabaya,Jatim,Indonesia 
+5100960,YG2BTP,CahyonoDwikartiputra,k2pi,Magelang,Jateng,Indonesia 
 5100961,YC6GG,Mursal,k2pi,Langsa,Aceh,Indonesia 
 5100965,YC1SDM,Mahendra,k2pi,Tangerang Sel,Banten,Indonesia 
 5100966,YC1RBY,IndiphaYalamayosa,k2pi,Tangerang Sel,Banten,Indonesia 
 5100970,YD0AKJ,YohanesDwi Dian Pornomo,k2pi,Jakarta Brt,JAKARTA,Indonesia 
-5100980,YE3BMK,BaraWidiananta,k2pi,Surabaya,Jawa Timur,Indonesia 
-5100984,YG2BSV,DimaPriwahyudi,k2pi,Grobogan,JAWA TENGAH,Indonesia 
+5100980,YE3BMK,BaraWidiananta,k2pi,Surabaya,Jatim,Indonesia 
+5100984,YG2BSV,DimaPriwahyudi,k2pi,Grobogan,Jateng,Indonesia 
 5100986,YC0RED,SetyadiPramono,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5100987,YD2UMH,RaindyPrima,k2pi,Sleman,YOGYAKARTA,Indonesia 
-5100995,YC2AOA,Suratmin,k2pi,Blora,JAWA TENGAH,Indonesia 
+5100995,YC2AOA,Suratmin,k2pi,Blora,Jateng,Indonesia 
 5100996,YD2UNL,PeTri Octavianto,k2pi,Yogyakarta,YOGYAKARTA,Indonesia 
-5100998,YD3HNL,AdilNur Sumiatno,k2pi,Trenggalek,Jawa Timur,Indonesia 
+5100998,YD3HNL,AdilNur Sumiatno,k2pi,Trenggalek,Jatim,Indonesia 
 5101025,YB0GIN,GinanjarTaufiq,k2pi,Jakarta Utr,JAKARTA,Indonesia 
-5101035,YD1DJZ,AgusSugianto,k2pi,Cirebon,JAWA BARAT,Indonesia 
+5101035,YD1DJZ,AgusSugianto,k2pi,Cirebon,JABAR,Indonesia 
 5101045,YD0BEV,UraKurnia Firnanda,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
-5101046,YG1BAY,SaidiIbrahim,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5101051,YD1BKI,DeddyKusnur Sandi,k2pi,Bandung,JAWA BARAT,Indonesia 
+5101046,YG1BAY,SaidiIbrahim,k2pi,Bekasi,JABAR,Indonesia 
+5101051,YD1BKI,DeddyKusnur Sandi,k2pi,Bandung,JABAR,Indonesia 
 5101054,YC0RZC,AgusSantoso,k2pi,Jakarta Sel,JAKARTA,Indonesia 
 5101058,YD0BVW,RifqiAhmadi Perdana,k2pi,Jakarta Sel,JAKARTA,Indonesia 
-5101061,YG2AGB,HeppySukro,k2pi,Magelang,JAWA TENGAH,Indonesia 
-5101074,YB1BTG,NanangSuryana,k2pi,Depok,JAWA BARAT,Indonesia 
+5101061,YG2AGB,HeppySukro,k2pi,Magelang,Jateng,Indonesia 
+5101074,YB1BTG,NanangSuryana,k2pi,Depok,JABAR,Indonesia 
 5101079,YD1SGS,CharlieTjahjady,k2pi,Tangerang Sel,Banten,Indonesia 
 5101081,YD0BHY,UlungTamtomo,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
-5101082,YG1BIX ,QidamChor0Din,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5101082,YG1BIX ,QidamChor0Din,k2pi,Bekasi,JABAR,Indonesia 
 5101083,YD1RJN,FerynaAriany Siregar,k2pi,Tangerang Sel,Banten,Indonesia 
 5101086,YD0BWP,AbrahamNoke,k2pi,Jakarta Sel,JAKARTA,Indonesia 
 5101092,YD9IGP,Suparwan,k2pi,Mataram,NTB,Indonesia 
@@ -857,7 +862,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5101109,YD8RJD,FaithSabatio Undap,k2pi,Tomohon,SULUT,Indonesia 
 5101110,YD0BKU,T_MuhyilRgina,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5101111,YB8UQN,AndriawanAndri,k2pi,Kotamobagu,SULUT,Indonesia 
-5101112,YB2LLH,Harjono,k2pi,Magelang,JAWA TENGAH,Indonesia 
+5101112,YB2LLH,Harjono,k2pi,Magelang,Jateng,Indonesia 
 5101115,YD0AHK,HappyAprianto,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5101118,YB6MMR,Anthony,k2pi,Deli Serdang,SUMUT,Indonesia 
 5101121,YG5NHT,EdiPurnomo,k2pi,Batam,KEPRI,Indonesia 
@@ -865,48 +870,48 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5101128,YB8ROU,FerryKumajas,k2pi,Tomohon,SULUT,Indonesia 
 5101129,YC8RCX,SerliModeong,k2pi,Bolng Mngdw Tmr,SULUT,Indonesia 
 5101133,YB4BYA,JoniAikal Putra,k2pi,Bungo,Jambi,Indonesia 
-5101135,YD2OGD,SlametSugiyo,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5101136,YD3AVE,HendroPoerwantoko,k2pi,Malang,Jawa Timur,Indonesia 
-5101138,YB3BBF,BambangFeriyanto,k2pi,Situbondo,Jawa Timur,Indonesia 
-5101152,YG1BOH,AdiHardiyono,k2pi,Bandung,JAWA BARAT,Indonesia 
+5101135,YD2OGD,SlametSugiyo,k2pi,Surakarta,Jateng,Indonesia 
+5101136,YD3AVE,HendroPoerwantoko,k2pi,Malang,Jatim,Indonesia 
+5101138,YB3BBF,BambangFeriyanto,k2pi,Situbondo,Jatim,Indonesia 
+5101152,YG1BOH,AdiHardiyono,k2pi,Bandung,JABAR,Indonesia 
 5101161,YD0APT,Zawawi,k2pi,Jakarta Sel,JAKARTA,Indonesia 
-5101168,YD1ELA,AriefWibowo,k2pi,Bogor,JAWA BARAT,Indonesia 
+5101168,YD1ELA,AriefWibowo,k2pi,Bogor,JABAR,Indonesia 
 5101170,YB8UFY,Suryanto,k2pi,Kotamobagu,SULUT,Indonesia 
-5101172,YD1RWG,YogaMuhamad Sugama,k2pi,Bogor,JAWA BARAT,Indonesia 
-5101173,YG1BNY,GinanjarEko Russetyadi,k2pi,Cirebon,JAWA BARAT,Indonesia 
+5101172,YD1RWG,YogaMuhamad Sugama,k2pi,Bogor,JABAR,Indonesia 
+5101173,YG1BNY,GinanjarEko Russetyadi,k2pi,Cirebon,JABAR,Indonesia 
 5101174,YD8RBU,FadlyMakkah,k2pi,Bolng Mngdw Sel,SULUT,Indonesia 
-5101176,YC2BDZ,SatriyoToto Wibowo,k2pi,Salatiga,JAWA TENGAH,Indonesia 
+5101176,YC2BDZ,SatriyoToto Wibowo,k2pi,Salatiga,Jateng,Indonesia 
 5101184,YB0TNS,TonnyNotosetyanto,k2pi,Jakarta Sel,JAKARTA,Indonesia 
-5101186,YD2CUK,MarsudiTri Guntoro,k2pi,Semarang,JAWA TENGAH,Indonesia 
+5101186,YD2CUK,MarsudiTri Guntoro,k2pi,Semarang,Jateng,Indonesia 
 5101188,YD6AOM,FakriSaputra,k2pi,Banda Aceh,Aceh,Indonesia 
-5101189,YG2BXS,AgungSatriyo Dwi Rudi Saputro,k2pi,Pemalang,JAWA TENGAH,Indonesia 
-5101190,YG2CBF,BambangBudi Prayitno,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5101195,YB2CCX,MuhammadSoleh,k2pi,Magelang,JAWA TENGAH,Indonesia 
+5101189,YG2BXS,AgungSatriyo Dwi Rudi Saputro,k2pi,Pemalang,Jateng,Indonesia 
+5101190,YG2CBF,BambangBudi Prayitno,k2pi,Semarang,Jateng,Indonesia 
+5101195,YB2CCX,MuhammadSoleh,k2pi,Magelang,Jateng,Indonesia 
 5101196,YD1RZY,AhmadFalembani,k2pi,Tangerang Sel,Banten,Indonesia 
 5101197,YD2UJI,BambangPramusinto,k2pi,Sleman,YOGYAKARTA,Indonesia 
 5101198,YD0BWM,TatangSafari,k2pi,Jakarta Utr,JAKARTA,Indonesia 
-5101201,YB2BYS,GatotWibowo,k2pi,Pati,JAWA TENGAH,Indonesia 
-5101202,YD2GLP,PriyambodoInoe Kartopati,k2pi,Salatiga,JAWA TENGAH,Indonesia 
+5101201,YB2BYS,GatotWibowo,k2pi,Pati,Jateng,Indonesia 
+5101202,YD2GLP,PriyambodoInoe Kartopati,k2pi,Salatiga,Jateng,Indonesia 
 5101204,YD0BXV,H_IswadiSe,k2pi,Jakarta Utr,JAKARTA,Indonesia 
 5101205,YD0BXR,DhetyoDwiyoga Fibrasto,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5101208,YC9DN,DennySutio,k2pi,Denpasar,Bali,Indonesia 
-5101209,YD2CEL,EdiSusilo,k2pi,Semarang,JAWA TENGAH,Indonesia 
+5101209,YD2CEL,EdiSusilo,k2pi,Semarang,Jateng,Indonesia 
 5101210,YC9AFT,KetutSuliada Kusana,k2pi,Buleleng,Bali,Indonesia 
 5101213,YD8EJX,A_Ibrahim,k2pi,Makassar,SULSEL,Indonesia 
-5101215,YD0XCI,AmbarKrydanto,k2pi,Bogor,JAWA BARAT,Indonesia 
+5101215,YD0XCI,AmbarKrydanto,k2pi,Bogor,JABAR,Indonesia 
 5101218,YB8TJJ,BobbyMarchel Tambingon,k2pi,Minahasa,SULUT,Indonesia 
-5101219,YB2MBY,KusnoAdi Haryanto,k2pi,Brebes,JAWA TENGAH,Indonesia 
+5101219,YB2MBY,KusnoAdi Haryanto,k2pi,Brebes,Jateng,Indonesia 
 5101220,YB9OBQ,AsnatLodia Tita,k2pi,Kupang,NTT,Indonesia 
 5101225,YD7VCT,IriyanGunawan,k2pi,Samarinda,KALTIM,Indonesia 
-5101226,YC1OM,UndangSolihin,k2pi,Garut,JAWA BARAT,Indonesia 
+5101226,YC1OM,UndangSolihin,k2pi,Garut,JABAR,Indonesia 
 5101234,YD0BBI,Sudarmono,k2pi,Jakarta Utr,JAKARTA,Indonesia 
 5101239,YD1SNX,MuhammadGunawan,k2pi,Tangerang Sel,Banten,Indonesia 
 5101241,YD8RVN,AntonKasim,k2pi,Manado,SULUT,Indonesia 
-5101243,YD1CVX,LeliNuryanti,k2pi,Karawang,JAWA BARAT,Indonesia 
-5101245,YG1BXP,AhmadHaryanto,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5101243,YD1CVX,LeliNuryanti,k2pi,Karawang,JABAR,Indonesia 
+5101245,YG1BXP,AhmadHaryanto,k2pi,Bekasi,JABAR,Indonesia 
 5101248,YC9AVD,MadeSugiarta,k2pi,Buleleng,Bali,Indonesia 
-5101250,YC1MYV,ImatRuchimat,k2pi,Garut,JAWA BARAT,Indonesia 
-5101251,YD2BBH,RobbyAgung Wijaya,k2pi,Semarang,JAWA TENGAH,Indonesia 
+5101250,YC1MYV,ImatRuchimat,k2pi,Garut,JABAR,Indonesia 
+5101251,YD2BBH,RobbyAgung Wijaya,k2pi,Semarang,Jateng,Indonesia 
 5101252,YD9BWW,I_KomangBudiartana,k2pi,Denpasar,Bali,Indonesia 
 5101253,YG8RAB,KarmanBakari,k2pi,Pahuwato,Gorontalo,Indonesia 
 5101258,YB7MCQ,MuhammadAl Amin Spdi,k2pi,Hulu Sungai Tgh,KALSEL,Indonesia 
@@ -919,164 +924,168 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5101279,YC0ARY,DenniA Mulyawan,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5101283,YD8VAF,JihanUsamah Bin Abbas,k2pi,Ambon,Maluku,Indonesia 
 5101288,YD8BYU,AbdulAzis,k2pi,Bantaeng,SULSEL,Indonesia 
-5101292,YC1AXE,AgusSupriyadi,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5101294,YG2AUN,TrioAji Utomo,k2pi,Banyumas,JAWA TENGAH,Indonesia 
+5101292,YC1AXE,AgusSupriyadi,k2pi,Cirebon,JABAR,Indonesia 
+5101294,YG2AUN,TrioAji Utomo,k2pi,Banyumas,Jateng,Indonesia 
 5101297,YB0BDC,AgusRusdiono,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
-5101300,YD2CFW,GhaffarelAdira Kautsar,k2pi,Surakarta,JAWA TENGAH,Indonesia 
+5101300,YD2CFW,GhaffarelAdira Kautsar,k2pi,Surakarta,Jateng,Indonesia 
 5101304,YC9LPG,PaulinusAnton Gare,k2pi,Ende,NTT,Indonesia 
 5101308,YG4SAP,WazirNuri,k2pi,Lampung Tgh,Lampung,Indonesia 
 5101316,YD0BUC,VeronicaSriningrahayu,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
-5101318,YG2CCA,Azhari,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5101319,YG2BOR,YehezkielVide Christsanto,k2pi,Banyumas,JAWA TENGAH,Indonesia 
-5101321,YG2CBT,JokoRaharjo,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5101328,YG2BUW,AriSantosa Pamungkas,k2pi,Klaten,JAWA TENGAH,Indonesia 
+5101318,YG2CCA,Azhari,k2pi,Surakarta,Jateng,Indonesia 
+5101319,YG2BOR,YehezkielVide Christsanto,k2pi,Banyumas,Jateng,Indonesia 
+5101321,YG2CBT,JokoRaharjo,k2pi,Surakarta,Jateng,Indonesia 
+5101328,YG2BUW,AriSantosa Pamungkas,k2pi,Klaten,Jateng,Indonesia 
 5101330,YC7WCE,MaulanaArdhira,k2pi,Kutai Tmr,KALTIM,Indonesia 
 5101334,YB0AKK,AgusSantoso,k2pi,Jakarta Sel,JAKARTA,Indonesia 
-5101336,YF1ANU,YudiDahlan,k2pi,Karawang,JAWA BARAT,Indonesia 
+5101336,YF1ANU,YudiDahlan,k2pi,Karawang,JABAR,Indonesia 
 5101337,YD0ALS,RudiSjam,k2pi,Jakarta Pusat,JAKARTA,Indonesia 
-5101338,YF1CWQ,H_HidayatullohSalim,k2pi,Karawang,JAWA BARAT,Indonesia 
-5101342,YH1AQ,OrlokKab Bekasi,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5101344,YB3BAB,SudibyoLaib Supeno,k2pi,Surabaya,Jawa Timur,Indonesia 
-5101348,YD2TGD,HanifNurhidayat Isgun,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5101350,YC2NFD,AgungKurniawan Tjandra Widjaja,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5101351,YG3FWQ,AwamFadillah,k2pi,Surabaya,Jawa Timur,Indonesia 
-5101352,YB1CPS,P_Setiawan,k2pi,Subang,JAWA BARAT,Indonesia 
+5101338,YF1CWQ,H_HidayatullohSalim,k2pi,Karawang,JABAR,Indonesia 
+5101342,YH1AQ,OrlokKab Bekasi,k2pi,Bekasi,JABAR,Indonesia 
+5101344,YB3BAB,SudibyoLaib Supeno,k2pi,Surabaya,Jatim,Indonesia 
+5101348,YD2TGD,HanifNurhidayat Isgun,k2pi,Tegal,Jateng,Indonesia 
+5101350,YC2NFD,AgungKurniawan Tjandra Widjaja,k2pi,Surakarta,Jateng,Indonesia 
+5101351,YG3FWQ,AwamFadillah,k2pi,Surabaya,Jatim,Indonesia 
+5101352,YB1CPS,P_Setiawan,k2pi,Subang,JABAR,Indonesia 
 5101355,YC8USA,JemmyWahani,k2pi,Kotamobagu,SULUT,Indonesia 
-5101359,YH1AP,OrlokKarawang,k2pi,Karawang,JAWA BARAT,Indonesia 
+5101359,YH1AP,OrlokKarawang,k2pi,Karawang,JABAR,Indonesia 
 5101362,YD5NIF,DelviSuwandi,k2pi,Pelalawan,Riau,Indonesia 
-5101367,YG2BYR,SaesarioEskalutfi Prabowo,k2pi,Pemalang,JAWA TENGAH,Indonesia 
-5101368,YC2SDP,ArifBudi Susilo,k2pi,Semarang,JAWA TENGAH,Indonesia 
+5101367,YG2BYR,SaesarioEskalutfi Prabowo,k2pi,Pemalang,Jateng,Indonesia 
+5101368,YC2SDP,ArifBudi Susilo,k2pi,Semarang,Jateng,Indonesia 
 5101369,YD5BCW,ErryNurdin,k2pi,Pasaman,SUMBAR,Indonesia 
-5101370,YD2SKF,FirmanPrayoga,k2pi,Tegal,JAWA TENGAH,Indonesia 
+5101370,YD2SKF,FirmanPrayoga,k2pi,Tegal,Jateng,Indonesia 
 5101372,YD6SAT,ReinhardMuara Agustinus Siregar,k2pi,Deli Serdang,SUMUT,Indonesia 
-5101376,YG1BYZ,RiezzaGenta Buana,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5101377,YG1BYY,HendraSuhanda,k2pi,Karawang,JAWA BARAT,Indonesia 
-5101379,YD1ARY,DwiArie Setyanto,k2pi,Karawang,JAWA BARAT,Indonesia 
-5101383,YC2AVQ,Jumari,k2pi,Pati,JAWA TENGAH,Indonesia 
-5101384,yc2lkb,Bukori,k2pi,Pati,JAWA TENGAH,Indonesia 
+5101376,YG1BYZ,RiezzaGenta Buana,k2pi,Bekasi,JABAR,Indonesia 
+5101377,YG1BYY,HendraSuhanda,k2pi,Karawang,JABAR,Indonesia 
+5101379,YD1ARY,DwiArie Setyanto,k2pi,Karawang,JABAR,Indonesia 
+5101383,YC2AVQ,Jumari,k2pi,Pati,Jateng,Indonesia 
+5101384,yc2lkb,Bukori,k2pi,Pati,Jateng,Indonesia 
 5101385,YD0ANE,HeldianPurwanto,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
-5101388,YG2BUO,MuhammadHusain,k2pi,Pati,JAWA TENGAH,Indonesia 
-5101393,YG2CFW,BasukiWibawa,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5101405,YH1AX,OrlokKota Bekasi,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5101406,YG2AWV,HariyadiWibowo,k2pi,Kendal,JAWA TENGAH,Indonesia 
+5101388,YG2BUO,MuhammadHusain,k2pi,Pati,Jateng,Indonesia 
+5101393,YG2CFW,BasukiWibawa,k2pi,Semarang,Jateng,Indonesia 
+5101405,YH1AX,OrlokKota Bekasi,k2pi,Bekasi,JABAR,Indonesia 
+5101406,YG2AWV,HariyadiWibowo,k2pi,Kendal,Jateng,Indonesia 
 5101413,YD0SPF,AangIndra Lesmana,k2pi,Jakarta Brt,JAKARTA,Indonesia 
 5101415,YD5NIE,BiranAffandi Yusriono,k2pi,Pelalawan,Riau,Indonesia 
 5101416,YD5NGJ,RikoHendri,k2pi,Pelalawan,Riau,Indonesia 
 5101418,YD5NHG,HeriSuseno,k2pi,Pelalawan,Riau,Indonesia 
-5101420,YD3NQZ,AriesSetyawan,k2pi,Probolinggo,Jawa Timur,Indonesia 
+5101420,YD3NQZ,AriesSetyawan,k2pi,Probolinggo,Jatim,Indonesia 
 5101429,YD0BXI,AdeMastika,k2pi,Jakarta Utr,JAKARTA,Indonesia 
-5101430,YD1AIT,IrwanFanani,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5101430,YD1AIT,IrwanFanani,k2pi,Bekasi,JABAR,Indonesia 
 5101435,YD7YTB,HendrawanRiki Prihanto,k2pi,Kutai Tmr,KALTIM,Indonesia 
-5101439,YC2OOW,AgusKristanta,k2pi,Temanggung,JAWA TENGAH,Indonesia 
+5101439,YC2OOW,AgusKristanta,k2pi,Temanggung,Jateng,Indonesia 
 5101440,YC0BRD,GianeshaPratama,k2pi,Jakarta Sel,JAKARTA,Indonesia 
 5101444,YD9APS,I_GedeSugih Artha,k2pi,Denpasar,Bali,Indonesia 
-5101445,YC2RDO,Muchlasin,k2pi,Temanggung,JAWA TENGAH,Indonesia 
-5101448,YG3EEY,R_SugengRahardjo,k2pi,Probolinggo,Jawa Timur,Indonesia 
-5101451,YG1BYK,EkoPuji Hariyanto,k2pi,Indramayu,JAWA BARAT,Indonesia 
-5101458,YD2IRI,Trisnanto,k2pi,Pemalang,JAWA TENGAH,Indonesia 
+5101445,YC2RDO,Muchlasin,k2pi,Temanggung,Jateng,Indonesia 
+5101448,YG3EEY,R_SugengRahardjo,k2pi,Probolinggo,Jatim,Indonesia 
+5101451,YG1BYK,EkoPuji Hariyanto,k2pi,Indramayu,JABAR,Indonesia 
+5101458,YD2IRI,Trisnanto,k2pi,Pemalang,Jateng,Indonesia 
 5101465,YB0SHR,SaharaSultan,k2pi,Jakarta Utr,JAKARTA,Indonesia 
-5101467,YG1BBP,RaswanGunawan,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5101469,YE3AIZ,ImamSofingi,k2pi,Tulungagung,Jawa Timur,Indonesia 
-5101476,YB2HRN,HarunWinardi,k2pi,Temanggung,JAWA TENGAH,Indonesia 
-5101484,YG2CIV,MuhamadTaufik,k2pi,Magelang,JAWA TENGAH,Indonesia 
-5101485,YG1AKH,IwanRapsodi,k2pi,Depok,JAWA BARAT,Indonesia 
-5101494,YD3AXS,LavernaParsha Kusumaningtyas,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5101496,YD1EOL,AanRusdiana,k2pi,Kuningan,JAWA BARAT,Indonesia 
-5101498,YG2AQY,FaizalPramudito Adi Sarno,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5101499,YG1CBG,RianWibawa,k2pi,Bandung,JAWA BARAT,Indonesia 
-5101504,YB3QH,SukimanKahar Abdullah,k2pi,Malang,Jawa Timur,Indonesia 
-5101513,YB2OPT,Sartono,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5101514,YG2BLX,AbdulMuin,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5101516,YC2NOJ,Supardi.Sh,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5101519,YD3BHX,AgusWahyudi,k2pi,Sampang,Jawa Timur,Indonesia 
+5101467,YG1BBP,RaswanGunawan,k2pi,Bekasi,JABAR,Indonesia 
+5101469,YE3AIZ,ImamSofingi,k2pi,Tulungagung,Jatim,Indonesia 
+5101476,YB2HRN,HarunWinardi,k2pi,Temanggung,Jateng,Indonesia 
+5101484,YG2CIV,MuhamadTaufik,k2pi,Magelang,Jateng,Indonesia 
+5101485,YG1AKH,IwanRapsodi,k2pi,Depok,JABAR,Indonesia 
+5101494,YD3AXS,LavernaParsha Kusumaningtyas,k2pi,Sidoarjo,Jatim,Indonesia 
+5101496,YD1EOL,AanRusdiana,k2pi,Kuningan,JABAR,Indonesia 
+5101498,YG2AQY,FaizalPramudito Adi Sarno,k2pi,Surakarta,Jateng,Indonesia 
+5101499,YG1CBG,RianWibawa,k2pi,Bandung,JABAR,Indonesia 
+5101504,YB3QH,SukimanKahar Abdullah,k2pi,Malang,Jatim,Indonesia 
+5101513,YB2OPT,Sartono,k2pi,Tegal,Jateng,Indonesia 
+5101514,YG2BLX,AbdulMuin,k2pi,Tegal,Jateng,Indonesia 
+5101516,YC2NOJ,Supardi.Sh,k2pi,Tegal,Jateng,Indonesia 
+5101519,YD3BHX,AgusWahyudi,k2pi,Sampang,Jatim,Indonesia 
 5101520,YD2UXG,Sunar,k2pi,Sleman,YOGYAKARTA,Indonesia 
-5101523,YC2TGN,Sudianto,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5101525,YC2EGL,Triono,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5101529,YD2SAR,Sartono,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5101530,YD1AQG,JohanSumantri,k2pi,Cianjur,JAWA BARAT,Indonesia 
+5101523,YC2TGN,Sudianto,k2pi,Tegal,Jateng,Indonesia 
+5101525,YC2EGL,Triono,k2pi,Tegal,Jateng,Indonesia 
+5101529,YD2SAR,Sartono,k2pi,Tegal,Jateng,Indonesia 
+5101530,YD1AQG,JohanSumantri,k2pi,Cianjur,JABAR,Indonesia 
 5101533,YB8IBD,SalminSahidin,k2pi,Kendari,SULTRA,Indonesia 
-5101534,YG1CAA,FerdinandMesias Santi,k2pi,Bogor,JAWA BARAT,Indonesia 
+5101534,YG1CAA,FerdinandMesias Santi,k2pi,Bogor,JABAR,Indonesia 
 5101541,YD9CYH,RezaMuharram Harahap,k2pi,Badung,Bali,Indonesia 
-5101542,YD3DJR,IsodorusHendrowahjono,k2pi,Surabaya,Jawa Timur,Indonesia 
-5101549,YC2LZZ,MoeksinDarmoko,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5101554,YD2DVQ,Winarsono,k2pi,Blora,JAWA TENGAH,Indonesia 
+5101542,YD3DJR,IsodorusHendrowahjono,k2pi,Surabaya,Jatim,Indonesia 
+5101549,YC2LZZ,MoeksinDarmoko,k2pi,Tegal,Jateng,Indonesia 
+5101554,YD2DVQ,Winarsono,k2pi,Blora,Jateng,Indonesia 
 5101558,YD7HAS,MuhammadNaufal Ramadhan,k2pi,Banjarmasin,KALSEL,Indonesia 
-5101561,YD2RSU,LestariYuli Astuti,k2pi,Brebes,JAWA TENGAH,Indonesia 
-5101562,YD2BUN,Mujtahidin,k2pi,Brebes,JAWA TENGAH,Indonesia 
-5101563,YG2BPI,IntanNurhandayani,k2pi,Brebes,JAWA TENGAH,Indonesia 
-5101564,YC2PUO,YaminYudianto,k2pi,Brebes,JAWA TENGAH,Indonesia 
+5101561,YD2RSU,LestariYuli Astuti,k2pi,Brebes,Jateng,Indonesia 
+5101562,YD2BUN,Mujtahidin,k2pi,Brebes,Jateng,Indonesia 
+5101563,YG2BPI,IntanNurhandayani,k2pi,Brebes,Jateng,Indonesia 
+5101564,YC2PUO,YaminYudianto,k2pi,Brebes,Jateng,Indonesia 
 5101568,YD6HMM,AndiS Harahap,k2pi,Padang Sidempuan,SUMUT,Indonesia 
-5101570,YC2EFI,EffiRijanti W,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5101574,YD1KWW,SamsuBahri,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5101580,YD1ACV,TjetjepRb,k2pi,Karawang,JAWA BARAT,Indonesia 
-5101585,YD3ADN,SantosoEko Junaidhy,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5101586,YD3FMV,HerwindoSulistyo Putro,k2pi,Surabaya,Jawa Timur,Indonesia 
-5101588,YC2RVW,RichardSugiarto L,k2pi,Tegal,JAWA TENGAH,Indonesia 
+5101570,YC2EFI,EffiRijanti W,k2pi,Tegal,Jateng,Indonesia 
+5101574,YD1KWW,SamsuBahri,k2pi,Bekasi,JABAR,Indonesia 
+5101580,YD1ACV,TjetjepRb,k2pi,Karawang,JABAR,Indonesia 
+5101585,YD3ADN,SantosoEko Junaidhy,k2pi,Sidoarjo,Jatim,Indonesia 
+5101586,YD3FMV,HerwindoSulistyo Putro,k2pi,Surabaya,Jatim,Indonesia 
+5101588,YC2RVW,RichardSugiarto L,k2pi,Tegal,Jateng,Indonesia 
 5101589,YD0BDX,ChairulFajar,k2pi,Jakarta Sel,JAKARTA,Indonesia 
 5101591,YD0BXD,SunaryoMadhadi,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
-5101595,YG1ARH,AbuHudzaefah,k2pi,Bandung,JAWA BARAT,Indonesia 
-5101596,YB1FAV,MochSarip Hidayat,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5101595,YG1ARH,AbuHudzaefah,k2pi,Bandung,JABAR,Indonesia 
+5101596,YB1FAV,MochSarip Hidayat,k2pi,Bekasi,JABAR,Indonesia 
 5101604,YC9EDB,ErryDirta Budiyasa,k2pi,Badung,Bali,Indonesia 
-5101606,YD2DAY,JayengFerdi Setiawan,k2pi,Banjarnegara,JAWA TENGAH,Indonesia 
-5101610,YD1ACE,Waridin,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5101606,YD2DAY,JayengFerdi Setiawan,k2pi,Banjarnegara,Jateng,Indonesia 
+5101610,YD1ACE,Waridin,k2pi,Bekasi,JABAR,Indonesia 
 5101617,YD6ASQ,RyanAchdiadsyah,k2pi,Banda Aceh,Aceh,Indonesia 
-5101618,YD1AFC,MiseilZaida Khandra,k2pi,Karawang,JAWA BARAT,Indonesia 
+5101618,YD1AFC,MiseilZaida Khandra,k2pi,Karawang,JABAR,Indonesia 
 5101621,YD0BZQ,LilikPrayitno,k2pi,Jakarta Brt,JAKARTA,Indonesia 
 5101622,YD0BFW,Rokhman,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5101628,YC0KCK,SriSubekti Yullia,k2pi,Jakarta Sel,JAKARTA,Indonesia 
-5101631,YG2ACZ,AlexanderJoko Sulistyo,k2pi,Surakarta,JAWA TENGAH,Indonesia 
+5101631,YG2ACZ,AlexanderJoko Sulistyo,k2pi,Surakarta,Jateng,Indonesia 
 5101635,YB2VRG,WulframMargono,k2pi,Sleman,YOGYAKARTA,Indonesia 
 5101636,YD8NKV,JerryKalvari Pelensa,k2pi,Poso,SULTENG,Indonesia 
-5101637,YG2ABP,Narso,k2pi,Banjarnegara,JAWA TENGAH,Indonesia 
+5101637,YG2ABP,Narso,k2pi,Banjarnegara,Jateng,Indonesia 
 5101640,YG9AGU,I_WayanPongki Setiawan,k2pi,Badung,Bali,Indonesia 
 5101645,YG1RAW,AgustinusDeny Christyanto,k2pi,Tangerang,Banten,Indonesia 
+5101650,YC1WEU,Adi_Ashodieq,k2pi,Tangerang,Banten,Indonesia 
 5101652,YG9AGS,WayanBudiartha,k2pi,Denpasar,Bali,Indonesia 
-5101654,YD2SMG,MuhammadKurniawan,k2pi,Semarang,JAWA TENGAH,Indonesia 
+5101654,YD2SMG,MuhammadKurniawan,k2pi,Semarang,Jateng,Indonesia 
 5101658,YD6SRR,AsrulPranto Putra Rambe,k2pi,Medan,SUMUT,Indonesia 
-5101663,YC2NSE,MuhYohn Kenedy,k2pi,Kebumen,JAWA TENGAH,Indonesia 
+5101663,YC2NSE,MuhYohn Kenedy,k2pi,Kebumen,Jateng,Indonesia 
 5101669,YG1RBM,SamuelEzra Gunawan,k2pi,Tangerang Sel,Banten,Indonesia 
 5101676,YD0RAB,StephanusPutra Nurdin,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
 5101691,YC7KZS,MuhammadNur Taufiqurrahman,k2pi,Banjarbaru,KALSEL,Indonesia 
 5101692,YD9IGQ,Awaluddin,k2pi,Mataram,NTB,Indonesia 
 5101695,YD6HMY,MuhammadZaldi,k2pi,Medan,SUMUT,Indonesia 
 5101703,YC9HWI,Mulyaddin,k2pi,Mataram,NTB,Indonesia 
-5101704,YD1EMU,Purbadi,k2pi,Cirebon,JAWA BARAT,Indonesia 
+5101704,YD1EMU,Purbadi,k2pi,Cirebon,JABAR,Indonesia 
 5101705,YD6HMU,KhresnhaPutra Utama,k2pi,Medan,SUMUT,Indonesia 
 5101707,YC8GPH,GopalNur M,k2pi,Palopo,SULSEL,Indonesia 
 5101708,YD6HXJ,FajrinNur Musyamsu,k2pi,Tapanuli Tgh,SUMUT,Indonesia 
 5101709,YC9GBS,Marjan,k2pi,Lombok Brt,NTB,Indonesia 
 5101710,YD6HBL,IbnuHajar Imam Satya,k2pi,Deli Serdang,SUMUT,Indonesia 
 5101712,YD6HFS,MuhammadFadly Akbar Sembiring,k2pi,Deli Serdang,SUMUT,Indonesia 
-5101713,YD2CTK,SyafrudinAdhi Candra,k2pi,Semarang,JAWA TENGAH,Indonesia 
+5101713,YD2CTK,SyafrudinAdhi Candra,k2pi,Semarang,Jateng,Indonesia 
 5101716,YC9GBQ,Muslihuddin,k2pi,Lombok Brt,NTB,Indonesia 
-5101717,YD1AFS,FauzanLuthfi Agustin,k2pi,Depok,JAWA BARAT,Indonesia 
+5101717,YD1AFS,FauzanLuthfi Agustin,k2pi,Depok,JABAR,Indonesia 
 5101720,YG7UMK,MochammadNaffian,k2pi,Bulungan,KALTARA,Indonesia 
-5101722,YD1CAX,MuhamadUwin Dinal Haqqi,k2pi,Bogor,JAWA BARAT,Indonesia 
+5101722,YD1CAX,MuhamadUwin Dinal Haqqi,k2pi,Bogor,JABAR,Indonesia 
 5101725,YD7HPE,Ardannoor,k2pi,Banjarmasin,KALSEL,Indonesia 
-5101742,YC3AEB,HeruBaskara Se,k2pi,Surabaya,Jawa Timur,Indonesia 
+5101742,YC3AEB,HeruBaskara Se,k2pi,Surabaya,Jatim,Indonesia 
 5101749,YD5NZE,Alfian,k2pi,Pekanbaru,Riau,Indonesia 
-5101753,YC1FNO,SriSuhartini,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5101754,YC1OCA,Mahmudi,k2pi,Cirebon,JAWA BARAT,Indonesia 
+5101753,YC1FNO,SriSuhartini,k2pi,Cirebon,JABAR,Indonesia 
+5101754,YC1OCA,Mahmudi,k2pi,Cirebon,JABAR,Indonesia 
 5101760,YD4AAE,DiroOktava,k2pi,Tebo,Jambi,Indonesia 
 5101761,YD5NHI,IqbalMuhammad Ridho,k2pi,Pekanbaru,Riau,Indonesia 
-5101762,YG3CKM,EviSetiawan,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5101765,YD3ADF,CarezzaArdhy Setiaji,k2pi,Sidoarjo,Jawa Timur,Indonesia 
+5101762,YG3CKM,EviSetiawan,k2pi,Sidoarjo,Jatim,Indonesia 
+5101765,YD3ADF,CarezzaArdhy Setiaji,k2pi,Sidoarjo,Jatim,Indonesia 
 5101773,YD6HHD,Zulkarnain,k2pi,Medan,SUMUT,Indonesia 
-5101784,YG1CHM,S_ArisYulianto,k2pi,Bogor,JAWA BARAT,Indonesia 
-5101786,YF3AOK,MohChasbullah,k2pi,Pasuruan,Jawa Timur,Indonesia 
+5101784,YG1CHM,S_ArisYulianto,k2pi,Bogor,JABAR,Indonesia 
+5101786,YF3AOK,MohChasbullah,k2pi,Pasuruan,Jatim,Indonesia 
 5101788,YD6HXX,KurniaFransiskus Sitepu,k2pi,Serdang Bedagai,SUMUT,Indonesia 
 5101793,YD5NUV,EricLesmana,k2pi,Pekanbaru,Riau,Indonesia 
-5101795,YG1CHS,IchyaUlumudin,k2pi,Bekasi,JAWA BARAT,Indonesia 
+5101795,YG1CHS,IchyaUlumudin,k2pi,Bekasi,JABAR,Indonesia 
 5101796,YD2VUK,AntonFatahillah,k2pi,Sleman,YOGYAKARTA,Indonesia 
-5101798,YD2IJC,BudimanHendrato,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5101800,YD2ATZ,M_HeriMiryanto,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5101801,YD2ALT,Handoko,k2pi,Sukoharjo,JAWA TENGAH,Indonesia 
+5101797,YD3ADI ,Panca_,k2pi,Malang,Jatim,Indonesia 
+5101798,YD2IJC,BudimanHendrato,k2pi,Surakarta,Jateng,Indonesia 
+5101800,YD2ATZ,M_HeriMiryanto,k2pi,Semarang,Jateng,Indonesia 
+5101801,YD2ALT,Handoko,k2pi,Sukoharjo,Jateng,Indonesia 
 5101805,YD0JNK,YudiWahyudin,k2pi,Jakarta Pusat,JAKARTA,Indonesia 
 5101807,YB5NDR,Syahril,k2pi,Bengkalis,Riau,Indonesia 
 5101809,YC2YAY,AndaWijanarko,k2pi,Sleman,YOGYAKARTA,Indonesia 
 5101817,YG5NMS,EkaMaydesa Putra,k2pi,Batam,KEPRI,Indonesia 
 5101820,YB8RA,AntoniusMaramis,k2pi,Tomohon,SULUT,Indonesia 
 5101826,YD5BGN,RioTrismayandi,k2pi,Payakumbuh,SUMBAR,Indonesia 
+5101834,YB5DOD,Doddy_Syuhendra,k2pi,Solok Sel,SUMBAR,Indonesia 
+5101847,YB1TCA,Entis_Hadist_Sukmawan,k2pi,Tangerang,Banten,Indonesia 
 5108888,YD5NPC,SutanP Lubis,k2pi,Pekanbaru,Riau,Indonesia 
 5110000,PC11TS3,#NAME?,k2pi,Aceh Brt Daya,Aceh,Indonesia 
 5110022,PC11ZUL,ZulkarnainYunus,k2pi,Lhokeumawe,Aceh,Indonesia 
@@ -1144,6 +1153,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5130712,PC13IS,ZulIndra,k2pi,Pasaman Brt,SUMBAR,Indonesia 
 5131116,PC15RIO,RioTrismayandi,k2pi,Payakumbuh,SUMBAR,Indonesia 
 5131120,PC13AM,AlfadiMartaPutra,k2pi,Padang,SUMBAR,Indonesia 
+5131121,PC13DOD,Doddy_Syuhendra,k2pi,Solok Sel,SUMBAR,Indonesia 
 5140002,PC14HM,R_HelmiMidjaja,k2pi,Pelalawan,Riau,Indonesia 
 5140004,PC14WAN,WanChairuddin Saleh,k2pi,Bengkalis,Riau,Indonesia 
 5140009,PC14DA,DenyAfrizan,k2pi,Pelalawan,Riau,Indonesia 
@@ -1281,174 +1291,175 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5311088,PC31ADE,AdeSurya Pranata,k2pi,Jakarta Sel,JAKARTA,Indonesia 
 5311096,PC31YW,YudiWahyudin,k2pi,Jakarta Pusat,JAKARTA,Indonesia 
 5311115,PC31SUN,SunaryoMadhadi,k2pi,Jakarta Tmr,JAKARTA,Indonesia 
-5320031,PC32BC,BudiCahyadi,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320044,RM32IB,SaidiIbrahim,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320075,PC32ANT,AgusYulianto,k2pi,Depok,JAWA BARAT,Indonesia 
-5320096,PC32DR,RaddyIrmawan,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320121,PC32KER,I_NyomanArmana,k2pi,Sukabumi,JAWA BARAT,Indonesia 
-5320134,JZ10LAEM,AdityaChrismanto,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320137,PC32KFH,ImanuelFrederick Christo,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320179,PC32KGX,Syaiful,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320285,PC32ARI,AnwariArichepot,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320294,PC32KLI,SidiqPurnomo,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320295,PC32KLJ,HarisYulianto,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320296,PC32HBB,BahirulBahar,k2pi,Depok,JAWA BARAT,Indonesia 
-5320346,PC32BYI,YudiIrwan,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320357,PC32KNT,MuhammadRafi Affan,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320386,PC32KOW,MochammadSofyan,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320399,PC32DKS,DeddyKusnur Sandi,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320403,PC32TRB,TjetjepRb,k2pi,Karawang,JAWA BARAT,Indonesia 
-5320404,PC32GIE,GinanjarEko Russetyadi,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320405,PC32KPP,Manto,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320413,PC32ABY,R_BudiHidayat,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320414,PC32KPY,AkhmadMuliawan,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320441,PC32KQZ,Cahyadi,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320442,PC32KRA,YudiSyarief,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320443,PC32KRB,Maryono,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320445,PC32KRD,Sukirno,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320446,PC32KRE,RodinSyamsul Hak,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320449,PC32IBO,AgusDani Sulistianto,k2pi,Depok,JAWA BARAT,Indonesia 
-5320452,PC32KRJ,FranzYudhi Prasetyo,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320460,PC32US,UndangSolihin,k2pi,Garut,JAWA BARAT,Indonesia 
-5320461,PC32DEN,DenyDaniel,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320534,PC32GUS,AgusSugianto,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320597,PC32BBB,ClarenceShane Rikoemahoe,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320670,PC32ICC,JuliarAdiputro,k2pi,Depok,JAWA BARAT,Indonesia 
-5320674,PC32AIT,IrwanFanani,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320676,PC32FHM,FahmiMubarok,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320677,PC32BYK,EkoPuji Hariyanto,k2pi,Indramayu,JAWA BARAT,Indonesia 
-5320682,PC32BBP,RaswanGunawan,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320699,PC32FER,FerdinandMesias Santi,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320700,PC32EMI,FeraPuji Hendriwianto,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320704,DN32EMJ,EmnarMaeso Jenar,k2pi,Kuningan,JAWA BARAT,Indonesia 
-5320708,RM32DA,D_Anjasto,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320709,DN32AR,ApfitiadiRamadhan,k2pi,Kuningan,JAWA BARAT,Indonesia 
-5320728,PC32SB,SetioBudiarso,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320739,PC32BS,BambangSetianto,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320741,PC32CAA,FerdinandMesias Santi,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320745,PC32IR,IwanRapsodi,k2pi,Depok,JAWA BARAT,Indonesia 
-5320747,PC32DFN,DiarFathir Nurusafar,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320751,PC32AAN,AanRusdiana,k2pi,Kuningan,JAWA BARAT,Indonesia 
-5320756,PC32RW,RianWibawa,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320760,PC32AW,AriefWibowo,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320764,PC32DAD,Dadang,k2pi,Tasikmalaya,JAWA BARAT,Indonesia 
-5320774,PC32DH,DianHermawan,k2pi,Ciamis,JAWA BARAT,Indonesia 
-5320776,PC32MGY,M_GunturYadi,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320780,PC32AEP,ArifinEko Prasetyo,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320783,PC32SAM,Samsudin,k2pi,Depok,JAWA BARAT,Indonesia 
-5320789,PC32SM,SuripnoMarwanto,k2pi,Depok,JAWA BARAT,Indonesia 
-5320791,PC32AT,AkhmadTaslim,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320817,PC32JS,JohanSumantri,k2pi,Cianjur,JAWA BARAT,Indonesia 
-5320821,PC32LUK,IndraIswara Lukman,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320863,PC32AKR,AmbarKrydanto,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320878,PC32EJM,Suyatno,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320885,PC32HH,MuhammadHanif Habibi Handayani,k2pi,Depok,JAWA BARAT,Indonesia 
-5320886,PC32HS,HariSupriadi,k2pi,Ciamis,JAWA BARAT,Indonesia 
-5320887,PC32ABU,AbuHudzaefah,k2pi,Bandung,JAWA BARAT,Indonesia 
-5320894,PC32FAV,MochSarip Hidayat,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320895,PC32KWW,SamsuBahri,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320899,PC32ADI,AdiSudarto,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320902,PC32AR,ArifRahman,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320908,PC31ARX,AhmadHilyadi,k2pi,Depok,JAWA BARAT,Indonesia 
-5320911,PC32MAR,Mariyanto,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320913,PC32AFC,MiseilZaida Khandra,k2pi,Karawang,JAWA BARAT,Indonesia 
-5320930,PC32DTN,ZaldyRachmat Susatya,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320934,PC32BJS,Kumedi,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5320944,PC32FYL,AtinSurelawatin,k2pi,Subang,JAWA BARAT,Indonesia 
-5320953,PC32HXF,Purbadi,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320964,PC32EMU,Purbadi,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320969,PC32AFS,FauzanLuthfi Agustin,k2pi,Depok,JAWA BARAT,Indonesia 
-5320981,PC32JWI,OctoDwi Dososuro,k2pi,Depok,JAWA BARAT,Indonesia 
-5320982,PC32CAX,MuhamadUwin Dinal Haqqi,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320983,PC32GFC,S_ArisYulianto,k2pi,Bogor,JAWA BARAT,Indonesia 
-5320997,PC32CDK,ArifRahman,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320998,PC32SRI,SriSuhartini,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5320999,PC32OCA,Mahmudi,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5321000,PC32LLN,MarcusWelly,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5321035,PC32ACE,Waridin,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5321069,PC32EKO,N_EkoAjiwihanto,k2pi,Bogor,JAWA BARAT,Indonesia 
-5321076,PC32CHS,IchyaUlumudin,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5321078,PC32IN,IndraIswara,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5321083,PC32YAI,ArbainBudi Raharjo,k2pi,Bekasi,JAWA BARAT,Indonesia 
-5321108,PC32EKY,Irawan,k2pi,Cianjur,JAWA BARAT,Indonesia 
-5321117,PC32IB,Holidibrahim,k2pi,Cirebon,JAWA BARAT,Indonesia 
-5330049,PC33BSL,BambangPramudya Aditomo,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330117,PC33LEN,AbdulHasan,k2pi,Cilacap,JAWA TENGAH,Indonesia 
-5330212,PC33LID,JokoSutanto,k2pi,Klaten,JAWA TENGAH,Indonesia 
-5330323,PC33LML,Nuryanto,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330348,PC33LNK,Lagiyono,k2pi,Sragen,JAWA TENGAH,Indonesia 
-5330360,PC33BSB,BudiSantosa,k2pi,Blora,JAWA TENGAH,Indonesia 
-5330390,PC33JALU,FirmanPrayoga,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330395,PC33TGN,Sudianto,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330508,YH3376,Rpu-GatewayAnalog Lokal Kota Tegal,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330518,PC33JKO,JokoRaharjo,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5330605,PC33LXH,Subroto,k2pi,Karanganyar,JAWA TENGAH,Indonesia 
-5330625,PC33IND,Indradi,k2pi,Karanganyar,JAWA TENGAH,Indonesia 
-5330644,PC33HW,HariyadiWibowo,k2pi,Kendal,JAWA TENGAH,Indonesia 
-5330671,PC32FCF,IgnSutopo Teguh Nugroho,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5330723,PC33SAH,StefanusAries Hendrayana Putra,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5330732,PC33MT,MuhamadTaufik,k2pi,Magelang,JAWA TENGAH,Indonesia 
-5330743,PC33BOR,YehezkielVide Christsanto,k2pi,Banyumas,JAWA TENGAH,Indonesia 
-5330744,PC33TRI,Trisnanto,k2pi,Pemalang,JAWA TENGAH,Indonesia 
-5330748,PC33ESP,SaesarioEskalutfi Prabowo,k2pi,Pemalang,JAWA TENGAH,Indonesia 
-5330753,PC33ADI,FaizalPramudito Adi Sarno,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5330768,PC33PRI,PriyambodoInoe Kartopati,k2pi,Salatiga,JAWA TENGAH,Indonesia 
-5330800,PC33OPT,Sartono,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330802,PC33NOJ,Supardi.Sh,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330804,PC33TRN,Triono,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330805,PC33PRM,PramukaSupriyatmo,k2pi,Kudus,JAWA TENGAH,Indonesia 
-5330808,PC33SAR,Sartono,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330811,PC33JUM,Jumaroh,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5330820,PC33AM,AbdulMuin,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330822,PC33AJ,AbdullahJaidi,k2pi,Pekalongan,JAWA TENGAH,Indonesia 
-5330823,PC33MBY,KusnoAdi Haryanto,k2pi,Brebes,JAWA TENGAH,Indonesia 
-5330825,PC32HAR,Harjono,k2pi,Magelang,JAWA TENGAH,Indonesia 
-5330841,PC33MD,MoeksinDarmoko,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330842,PC33WIN,Winarsono,k2pi,Blora,JAWA TENGAH,Indonesia 
-5330846,PC33JEH,PujiHartanto,k2pi,Pemalang,JAWA TENGAH,Indonesia 
-5330851,PC33BAS,BasukiWibawa,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5330852,PC33HRN,HarunWinardi,k2pi,Temanggung,JAWA TENGAH,Indonesia 
-5330853,PC33CVL,RikhunKheri Saputra,k2pi,Pemalang,JAWA TENGAH,Indonesia 
-5330854,PC33XGO,KristantaDixa Prabawa,k2pi,Purbalingga,JAWA TENGAH,Indonesia 
-5330855,PC33YUL,LestariYuli Astuti,k2pi,Brebes,JAWA TENGAH,Indonesia 
-5330856,PC33NUR,IntanNurhandayani,k2pi,Brebes,JAWA TENGAH,Indonesia 
-5330857,PC33PUO,YaminYudianto,k2pi,Brebes,JAWA TENGAH,Indonesia 
-5330858,PC33BUN,Mujtahidin,k2pi,Brebes,JAWA TENGAH,Indonesia 
-5330874,PC33SLH,MuhammadSoleh,k2pi,Magelang,JAWA TENGAH,Indonesia 
-5330877,PC33EFI,EffiRijanti W,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330881,PC33RS,RichardSugiarto L,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5330882,PC33HS,HeppySukro,k2pi,Magelang,JAWA TENGAH,Indonesia 
-5330884,PC33SS,SlametSugiyo,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5330904,PC33IN,IndraHari Setiawan,k2pi,Klaten,JAWA TENGAH,Indonesia 
-5330906,PC33DAY,JayengFerdi Setiawan,k2pi,Banjarnegara,JAWA TENGAH,Indonesia 
-5330910,PC33RDO,Muchlasin,k2pi,Temanggung,JAWA TENGAH,Indonesia 
-5330912,PC33MNA,MuhammadNur Avifuddin,k2pi,Sukoharjo,JAWA TENGAH,Indonesia 
-5330914,PC32GAK,GhaffarelAdira Kautsar,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5330923,PC33ABP,Narso,k2pi,Banjarnegara,JAWA TENGAH,Indonesia 
-5330929,PC33BBH,RobbyAgung Wijaya,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5330942,PC33FTC,KukuhFebriono,k2pi,Kebumen,JAWA TENGAH,Indonesia 
-5330943,PC33NSE,MuhYohn Kenedy,k2pi,Kebumen,JAWA TENGAH,Indonesia 
-5330952,PC33IGP,AdiPratomo,k2pi,Pekalongan,JAWA TENGAH,Indonesia 
-5330965,PC33OOW,AgusKristanta,k2pi,Temanggung,JAWA TENGAH,Indonesia 
-5330967,PC33CTK,SyafrudinAdhi Candra,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5330968,PC33SMG,MuhammadKurniawan,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5330988,PC33ACZ,AlexanderJoko Sulistyo,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5330989,PC33HQZ,BasukiSantoso,k2pi,Klaten,JAWA TENGAH,Indonesia 
-5330992,PC33FBX,AndreNurcahya,k2pi,Boyolali,JAWA TENGAH,Indonesia 
-5331031,PC32ABS,ArifBudi Susilo,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5331034,PC33AH,ArisHaryono,k2pi,Blora,JAWA TENGAH,Indonesia 
-5331037,PC33YON,Sukaryono,k2pi,Blora,JAWA TENGAH,Indonesia 
-5331038,PC33EDY,EdyHidayatno,k2pi,Pekalongan,JAWA TENGAH,Indonesia 
-5331066,PC33ADH,AntoniDestian Hidayat,k2pi,Salatiga,JAWA TENGAH,Indonesia 
-5331081,PC33MY,M_Yusuf,k2pi,Pekalongan,JAWA TENGAH,Indonesia 
-5331082,PC33HAN,Handoko,k2pi,Sukoharjo,JAWA TENGAH,Indonesia 
-5331085,PC33IJC,BudimanHendrato,k2pi,Surakarta,JAWA TENGAH,Indonesia 
-5331090,PC33ATZ,M_HeriMiryanto,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5331091,PC33SUN,Sunaryo,k2pi,Purworejo,JAWA TENGAH,Indonesia 
-5331094,PC33GAF,WalanYudiana,k2pi,Tegal,JAWA TENGAH,Indonesia 
-5331103,PC33PWT,Niko,k2pi,Purwokerto,JAWA TENGAH,Indonesia 
-5331112,PC33IW,IwanHermawan,k2pi,Semarang,JAWA TENGAH,Indonesia 
-5331114,PC33SG,SugengHariadi,k2pi,Kebumen,JAWA TENGAH,Indonesia 
+5320031,PC32BC,BudiCahyadi,k2pi,Bandung,JABAR,Indonesia 
+5320044,RM32IB,SaidiIbrahim,k2pi,Bekasi,JABAR,Indonesia 
+5320075,PC32ANT,AgusYulianto,k2pi,Depok,JABAR,Indonesia 
+5320096,PC32DR,RaddyIrmawan,k2pi,Bandung,JABAR,Indonesia 
+5320121,PC32KER,I_NyomanArmana,k2pi,Sukabumi,JABAR,Indonesia 
+5320134,JZ10LAEM,AdityaChrismanto,k2pi,Bekasi,JABAR,Indonesia 
+5320137,PC32KFH,ImanuelFrederick Christo,k2pi,Bekasi,JABAR,Indonesia 
+5320179,PC32KGX,Syaiful,k2pi,Bogor,JABAR,Indonesia 
+5320285,PC32ARI,AnwariArichepot,k2pi,Cirebon,JABAR,Indonesia 
+5320294,PC32KLI,SidiqPurnomo,k2pi,Bandung,JABAR,Indonesia 
+5320295,PC32KLJ,HarisYulianto,k2pi,Bandung,JABAR,Indonesia 
+5320296,PC32HBB,BahirulBahar,k2pi,Depok,JABAR,Indonesia 
+5320346,PC32BYI,YudiIrwan,k2pi,Bandung,JABAR,Indonesia 
+5320357,PC32KNT,MuhammadRafi Affan,k2pi,Bekasi,JABAR,Indonesia 
+5320386,PC32KOW,MochammadSofyan,k2pi,Bandung,JABAR,Indonesia 
+5320399,PC32DKS,DeddyKusnur Sandi,k2pi,Bandung,JABAR,Indonesia 
+5320403,PC32TRB,TjetjepRb,k2pi,Karawang,JABAR,Indonesia 
+5320404,PC32GIE,GinanjarEko Russetyadi,k2pi,Cirebon,JABAR,Indonesia 
+5320405,PC32KPP,Manto,k2pi,Bekasi,JABAR,Indonesia 
+5320413,PC32ABY,R_BudiHidayat,k2pi,Bandung,JABAR,Indonesia 
+5320414,PC32KPY,AkhmadMuliawan,k2pi,Cirebon,JABAR,Indonesia 
+5320441,PC32KQZ,Cahyadi,k2pi,Cirebon,JABAR,Indonesia 
+5320442,PC32KRA,YudiSyarief,k2pi,Cirebon,JABAR,Indonesia 
+5320443,PC32KRB,Maryono,k2pi,Cirebon,JABAR,Indonesia 
+5320445,PC32KRD,Sukirno,k2pi,Cirebon,JABAR,Indonesia 
+5320446,PC32KRE,RodinSyamsul Hak,k2pi,Cirebon,JABAR,Indonesia 
+5320449,PC32IBO,AgusDani Sulistianto,k2pi,Depok,JABAR,Indonesia 
+5320452,PC32KRJ,FranzYudhi Prasetyo,k2pi,Bogor,JABAR,Indonesia 
+5320460,PC32US,UndangSolihin,k2pi,Garut,JABAR,Indonesia 
+5320461,PC32DEN,DenyDaniel,k2pi,Bogor,JABAR,Indonesia 
+5320534,PC32GUS,AgusSugianto,k2pi,Cirebon,JABAR,Indonesia 
+5320597,PC32BBB,ClarenceShane Rikoemahoe,k2pi,Bekasi,JABAR,Indonesia 
+5320670,PC32ICC,JuliarAdiputro,k2pi,Depok,JABAR,Indonesia 
+5320674,PC32AIT,IrwanFanani,k2pi,Bekasi,JABAR,Indonesia 
+5320676,PC32FHM,FahmiMubarok,k2pi,Bandung,JABAR,Indonesia 
+5320677,PC32BYK,EkoPuji Hariyanto,k2pi,Indramayu,JABAR,Indonesia 
+5320682,PC32BBP,RaswanGunawan,k2pi,Bekasi,JABAR,Indonesia 
+5320699,PC32FER,FerdinandMesias Santi,k2pi,Bogor,JABAR,Indonesia 
+5320700,PC32EMI,FeraPuji Hendriwianto,k2pi,Bogor,JABAR,Indonesia 
+5320704,DN32EMJ,EmnarMaeso Jenar,k2pi,Kuningan,JABAR,Indonesia 
+5320708,RM32DA,D_Anjasto,k2pi,Bekasi,JABAR,Indonesia 
+5320709,DN32AR,ApfitiadiRamadhan,k2pi,Kuningan,JABAR,Indonesia 
+5320728,PC32SB,SetioBudiarso,k2pi,Bekasi,JABAR,Indonesia 
+5320739,PC32BS,BambangSetianto,k2pi,Bekasi,JABAR,Indonesia 
+5320741,PC32CAA,FerdinandMesias Santi,k2pi,Bogor,JABAR,Indonesia 
+5320745,PC32IR,IwanRapsodi,k2pi,Depok,JABAR,Indonesia 
+5320747,PC32DFN,DiarFathir Nurusafar,k2pi,Bandung,JABAR,Indonesia 
+5320751,PC32AAN,AanRusdiana,k2pi,Kuningan,JABAR,Indonesia 
+5320756,PC32RW,RianWibawa,k2pi,Bandung,JABAR,Indonesia 
+5320760,PC32AW,AriefWibowo,k2pi,Bogor,JABAR,Indonesia 
+5320764,PC32DAD,Dadang,k2pi,Tasikmalaya,JABAR,Indonesia 
+5320774,PC32DH,DianHermawan,k2pi,Ciamis,JABAR,Indonesia 
+5320776,PC32MGY,M_GunturYadi,k2pi,Bekasi,JABAR,Indonesia 
+5320780,PC32AEP,ArifinEko Prasetyo,k2pi,Bekasi,JABAR,Indonesia 
+5320783,PC32SAM,Samsudin,k2pi,Depok,JABAR,Indonesia 
+5320789,PC32SM,SuripnoMarwanto,k2pi,Depok,JABAR,Indonesia 
+5320791,PC32AT,AkhmadTaslim,k2pi,Bekasi,JABAR,Indonesia 
+5320817,PC32JS,JohanSumantri,k2pi,Cianjur,JABAR,Indonesia 
+5320821,PC32LUK,IndraIswara Lukman,k2pi,Bekasi,JABAR,Indonesia 
+5320863,PC32AKR,AmbarKrydanto,k2pi,Bogor,JABAR,Indonesia 
+5320878,PC32EJM,Suyatno,k2pi,Bogor,JABAR,Indonesia 
+5320885,PC32HH,MuhammadHanif Habibi Handayani,k2pi,Depok,JABAR,Indonesia 
+5320886,PC32HS,HariSupriadi,k2pi,Ciamis,JABAR,Indonesia 
+5320887,PC32ABU,AbuHudzaefah,k2pi,Bandung,JABAR,Indonesia 
+5320894,PC32FAV,MochSarip Hidayat,k2pi,Bekasi,JABAR,Indonesia 
+5320895,PC32KWW,SamsuBahri,k2pi,Bekasi,JABAR,Indonesia 
+5320899,PC32ADI,AdiSudarto,k2pi,Bogor,JABAR,Indonesia 
+5320902,PC32AR,ArifRahman,k2pi,Cirebon,JABAR,Indonesia 
+5320908,PC31ARX,AhmadHilyadi,k2pi,Depok,JABAR,Indonesia 
+5320911,PC32MAR,Mariyanto,k2pi,Bekasi,JABAR,Indonesia 
+5320913,PC32AFC,MiseilZaida Khandra,k2pi,Karawang,JABAR,Indonesia 
+5320930,PC32DTN,ZaldyRachmat Susatya,k2pi,Bogor,JABAR,Indonesia 
+5320934,PC32BJS,Kumedi,k2pi,Bekasi,JABAR,Indonesia 
+5320944,PC32FYL,AtinSurelawatin,k2pi,Subang,JABAR,Indonesia 
+5320953,PC32HXF,Purbadi,k2pi,Cirebon,JABAR,Indonesia 
+5320964,PC32EMU,Purbadi,k2pi,Cirebon,JABAR,Indonesia 
+5320969,PC32AFS,FauzanLuthfi Agustin,k2pi,Depok,JABAR,Indonesia 
+5320981,PC32JWI,OctoDwi Dososuro,k2pi,Depok,JABAR,Indonesia 
+5320982,PC32CAX,MuhamadUwin Dinal Haqqi,k2pi,Bogor,JABAR,Indonesia 
+5320983,PC32GFC,S_ArisYulianto,k2pi,Bogor,JABAR,Indonesia 
+5320997,PC32CDK,ArifRahman,k2pi,Cirebon,JABAR,Indonesia 
+5320998,PC32SRI,SriSuhartini,k2pi,Cirebon,JABAR,Indonesia 
+5320999,PC32OCA,Mahmudi,k2pi,Cirebon,JABAR,Indonesia 
+5321000,PC32LLN,MarcusWelly,k2pi,Bekasi,JABAR,Indonesia 
+5321035,PC32ACE,Waridin,k2pi,Bekasi,JABAR,Indonesia 
+5321069,PC32EKO,N_EkoAjiwihanto,k2pi,Bogor,JABAR,Indonesia 
+5321076,PC32CHS,IchyaUlumudin,k2pi,Bekasi,JABAR,Indonesia 
+5321078,PC32IN,IndraIswara,k2pi,Bekasi,JABAR,Indonesia 
+5321083,PC32YAI,ArbainBudi Raharjo,k2pi,Bekasi,JABAR,Indonesia 
+5321108,PC32EKY,Irawan,k2pi,Cianjur,JABAR,Indonesia 
+5321117,PC32IB,Holidibrahim,k2pi,Cirebon,JABAR,Indonesia 
+5321129,PC32KOM,Komara_Abdulkadir_,k2pi,Bandung,JABAR,Indonesia 
+5330049,PC33BSL,BambangPramudya Aditomo,k2pi,Tegal,Jateng,Indonesia 
+5330117,PC33LEN,AbdulHasan,k2pi,Cilacap,Jateng,Indonesia 
+5330212,PC33LID,JokoSutanto,k2pi,Klaten,Jateng,Indonesia 
+5330323,PC33LML,Nuryanto,k2pi,Tegal,Jateng,Indonesia 
+5330348,PC33LNK,Lagiyono,k2pi,Sragen,Jateng,Indonesia 
+5330360,PC33BSB,BudiSantosa,k2pi,Blora,Jateng,Indonesia 
+5330390,PC33JALU,FirmanPrayoga,k2pi,Tegal,Jateng,Indonesia 
+5330395,PC33TGN,Sudianto,k2pi,Tegal,Jateng,Indonesia 
+5330508,YH3376,Rpu-GatewayAnalog Lokal Kota Tegal,k2pi,Tegal,Jateng,Indonesia 
+5330518,PC33JKO,JokoRaharjo,k2pi,Surakarta,Jateng,Indonesia 
+5330605,PC33LXH,Subroto,k2pi,Karanganyar,Jateng,Indonesia 
+5330625,PC33IND,Indradi,k2pi,Karanganyar,Jateng,Indonesia 
+5330644,PC33HW,HariyadiWibowo,k2pi,Kendal,Jateng,Indonesia 
+5330671,PC32FCF,IgnSutopo Teguh Nugroho,k2pi,Surakarta,Jateng,Indonesia 
+5330723,PC33SAH,StefanusAries Hendrayana Putra,k2pi,Surakarta,Jateng,Indonesia 
+5330732,PC33MT,MuhamadTaufik,k2pi,Magelang,Jateng,Indonesia 
+5330743,PC33BOR,YehezkielVide Christsanto,k2pi,Banyumas,Jateng,Indonesia 
+5330744,PC33TRI,Trisnanto,k2pi,Pemalang,Jateng,Indonesia 
+5330748,PC33ESP,SaesarioEskalutfi Prabowo,k2pi,Pemalang,Jateng,Indonesia 
+5330753,PC33ADI,FaizalPramudito Adi Sarno,k2pi,Surakarta,Jateng,Indonesia 
+5330768,PC33PRI,PriyambodoInoe Kartopati,k2pi,Salatiga,Jateng,Indonesia 
+5330800,PC33OPT,Sartono,k2pi,Tegal,Jateng,Indonesia 
+5330802,PC33NOJ,Supardi.Sh,k2pi,Tegal,Jateng,Indonesia 
+5330804,PC33TRN,Triono,k2pi,Tegal,Jateng,Indonesia 
+5330805,PC33PRM,PramukaSupriyatmo,k2pi,Kudus,Jateng,Indonesia 
+5330808,PC33SAR,Sartono,k2pi,Tegal,Jateng,Indonesia 
+5330811,PC33JUM,Jumaroh,k2pi,Semarang,Jateng,Indonesia 
+5330820,PC33AM,AbdulMuin,k2pi,Tegal,Jateng,Indonesia 
+5330822,PC33AJ,AbdullahJaidi,k2pi,Pekalongan,Jateng,Indonesia 
+5330823,PC33MBY,KusnoAdi Haryanto,k2pi,Brebes,Jateng,Indonesia 
+5330825,PC32HAR,Harjono,k2pi,Magelang,Jateng,Indonesia 
+5330841,PC33MD,MoeksinDarmoko,k2pi,Tegal,Jateng,Indonesia 
+5330842,PC33WIN,Winarsono,k2pi,Blora,Jateng,Indonesia 
+5330846,PC33JEH,PujiHartanto,k2pi,Pemalang,Jateng,Indonesia 
+5330851,PC33BAS,BasukiWibawa,k2pi,Semarang,Jateng,Indonesia 
+5330852,PC33HRN,HarunWinardi,k2pi,Temanggung,Jateng,Indonesia 
+5330853,PC33CVL,RikhunKheri Saputra,k2pi,Pemalang,Jateng,Indonesia 
+5330854,PC33XGO,KristantaDixa Prabawa,k2pi,Purbalingga,Jateng,Indonesia 
+5330855,PC33YUL,LestariYuli Astuti,k2pi,Brebes,Jateng,Indonesia 
+5330856,PC33NUR,IntanNurhandayani,k2pi,Brebes,Jateng,Indonesia 
+5330857,PC33PUO,YaminYudianto,k2pi,Brebes,Jateng,Indonesia 
+5330858,PC33BUN,Mujtahidin,k2pi,Brebes,Jateng,Indonesia 
+5330874,PC33SLH,MuhammadSoleh,k2pi,Magelang,Jateng,Indonesia 
+5330877,PC33EFI,EffiRijanti W,k2pi,Tegal,Jateng,Indonesia 
+5330881,PC33RS,RichardSugiarto L,k2pi,Tegal,Jateng,Indonesia 
+5330882,PC33HS,HeppySukro,k2pi,Magelang,Jateng,Indonesia 
+5330884,PC33SS,SlametSugiyo,k2pi,Surakarta,Jateng,Indonesia 
+5330904,PC33IN,IndraHari Setiawan,k2pi,Klaten,Jateng,Indonesia 
+5330906,PC33DAY,JayengFerdi Setiawan,k2pi,Banjarnegara,Jateng,Indonesia 
+5330910,PC33RDO,Muchlasin,k2pi,Temanggung,Jateng,Indonesia 
+5330912,PC33MNA,MuhammadNur Avifuddin,k2pi,Sukoharjo,Jateng,Indonesia 
+5330914,PC32GAK,GhaffarelAdira Kautsar,k2pi,Surakarta,Jateng,Indonesia 
+5330923,PC33ABP,Narso,k2pi,Banjarnegara,Jateng,Indonesia 
+5330929,PC33BBH,RobbyAgung Wijaya,k2pi,Semarang,Jateng,Indonesia 
+5330942,PC33FTC,KukuhFebriono,k2pi,Kebumen,Jateng,Indonesia 
+5330943,PC33NSE,MuhYohn Kenedy,k2pi,Kebumen,Jateng,Indonesia 
+5330952,PC33IGP,AdiPratomo,k2pi,Pekalongan,Jateng,Indonesia 
+5330965,PC33OOW,AgusKristanta,k2pi,Temanggung,Jateng,Indonesia 
+5330967,PC33CTK,SyafrudinAdhi Candra,k2pi,Semarang,Jateng,Indonesia 
+5330968,PC33SMG,MuhammadKurniawan,k2pi,Semarang,Jateng,Indonesia 
+5330988,PC33ACZ,AlexanderJoko Sulistyo,k2pi,Surakarta,Jateng,Indonesia 
+5330989,PC33HQZ,BasukiSantoso,k2pi,Klaten,Jateng,Indonesia 
+5330992,PC33FBX,AndreNurcahya,k2pi,Boyolali,Jateng,Indonesia 
+5331031,PC32ABS,ArifBudi Susilo,k2pi,Semarang,Jateng,Indonesia 
+5331034,PC33AH,ArisHaryono,k2pi,Blora,Jateng,Indonesia 
+5331037,PC33YON,Sukaryono,k2pi,Blora,Jateng,Indonesia 
+5331038,PC33EDY,EdyHidayatno,k2pi,Pekalongan,Jateng,Indonesia 
+5331066,PC33ADH,AntoniDestian Hidayat,k2pi,Salatiga,Jateng,Indonesia 
+5331081,PC33MY,M_Yusuf,k2pi,Pekalongan,Jateng,Indonesia 
+5331082,PC33HAN,Handoko,k2pi,Sukoharjo,Jateng,Indonesia 
+5331085,PC33IJC,BudimanHendrato,k2pi,Surakarta,Jateng,Indonesia 
+5331090,PC33ATZ,M_HeriMiryanto,k2pi,Semarang,Jateng,Indonesia 
+5331091,PC33SUN,Sunaryo,k2pi,Purworejo,Jateng,Indonesia 
+5331094,PC33GAF,WalanYudiana,k2pi,Tegal,Jateng,Indonesia 
+5331103,PC33PWT,Niko,k2pi,Purwokerto,Jateng,Indonesia 
+5331112,PC33IW,IwanHermawan,k2pi,Semarang,Jateng,Indonesia 
+5331114,PC33SG,SugengHariadi,k2pi,Kebumen,Jateng,Indonesia 
 5340140,PC34MOK,JakaSatmoko,k2pi,Kulon Progo,YOGYAKARTA,Indonesia 
 5340794,PC34DWI,SunardiDwiputranto,k2pi,Sleman,YOGYAKARTA,Indonesia 
 5340797,PC34RP,RaindyPrima,k2pi,Sleman,YOGYAKARTA,Indonesia 
@@ -1461,72 +1472,73 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5341079,PC34AF,AntonFatahillah,k2pi,Sleman,YOGYAKARTA,Indonesia 
 5341099,PC34YOS,YosephEko Martono,k2pi,Yogyakarta,YOGYAKARTA,Indonesia 
 5341102,PC34YAY,AndaWijanarko,k2pi,Sleman,YOGYAKARTA,Indonesia 
-5350023,PC35WAN,AhmadDarmawan,k2pi,Bojonegoro,Jawa Timur,Indonesia 
-5350048,PC35PAN,PrasetyoArdi Nugroho,k2pi,Ponorogo,Jawa Timur,Indonesia 
-5350079,PC35DWA,DodikWidya Adhitama,k2pi,Mojokerto,Jawa Timur,Indonesia 
-5350110,PC35BQZ,DodyHeru Pratomo,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350124,PC35ANX,SuryoAgung Rurianto,k2pi,Pasuruan,Jawa Timur,Indonesia 
-5350136,PC35MFG,Soewito,k2pi,Malang,Jawa Timur,Indonesia 
-5350219,PC35MIL,Darmawan-888Com,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350249,PC35BRB,MuhHafid Akbar,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350262,PC35MKB,Murdiono,k2pi,Lamongan,Jawa Timur,Indonesia 
-5350318,PC35MUL,Mulyadi,k2pi,Gresik,Jawa Timur,Indonesia 
-5350361,PC35AVE,HendroPoerwantoko,k2pi,Malang,Jawa Timur,Indonesia 
-5350379,PC35MOP,TriCahyo Prasetyo,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350498,PC35MTD,IfandaJuniarta Nain,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350505,PC35BLB,ImamSantoso,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350585,PC35BMK,BaraWidiananta,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350664,PC35NUR,NurpatriaPuspayudha Putranagara Mahardhika,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5350673,PC35EEY,R_SugengRahardjo,k2pi,Probolinggo,Jawa Timur,Indonesia 
-5350688,PC35FEB,MochamadFebrian Reonaldo,k2pi,Kediri,Jawa Timur,Indonesia 
-5350701,PC35HSP,HaryoSuryo Pramono,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350727,PC35AIZ,ImamSofingi,k2pi,Tulungagung,Jawa Timur,Indonesia 
-5350765,PC35SKA,SukimanKahar Abdullah,k2pi,Malang,Jawa Timur,Indonesia 
-5350767,PC35WID,WidiharsoFz Drs,k2pi,Malang,Jawa Timur,Indonesia 
-5350793,PC35LPK,LavernaParsha Kusumaningtyas,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5350813,PC35BTW,BetantyoWisnu Hernawan,k2pi,Bangkalan,Jawa Timur,Indonesia 
-5350814,PC33AW,AgusWahyudi,k2pi,Sampang,Jawa Timur,Indonesia 
-5350834,PC35JON,Sugiono,k2pi,Batu,Jawa Timur,Indonesia 
-5350835,PC35BRC,AhmadNur Qoyim,k2pi,Malang,Jawa Timur,Indonesia 
-5350847,PC35CTD,HenriKurniawan,k2pi,Bondowoso,Jawa Timur,Indonesia 
-5350849,PC35DJR,IsodorusHendrowahjono,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350859,PC35SAM,DanangSamsul Arifin,k2pi,Madiun,Jawa Timur,Indonesia 
-5350860,PC35MEI,DeniMei Arifin,k2pi,Gresik,Jawa Timur,Indonesia 
-5350875,PC35TRI,TriatmadjaMasiyok,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5350879,PC35HER,HerwindoSulistyo Putro,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350888,PC35PNC,Panca,k2pi,Malang,Jawa Timur,Indonesia 
-5350898,PC35EKO,SantosoEko Junaidhy,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5350935,PC35DUV,MochamadRizal Amirudin,k2pi,Tulungagung,Jawa Timur,Indonesia 
-5350936,PC35IJW,FitorBogi Irawan,k2pi,Banyuwangi,Jawa Timur,Indonesia 
-5350947,PC35ABB,ReadyK. Mongi,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350980,PC35GZK,AndyAnugrah,k2pi,Jember,Jawa Timur,Indonesia 
-5350994,PC35AEB,HeruBaskara Se,k2pi,Surabaya,Jawa Timur,Indonesia 
-5350995,PC35AFS,BimoParama Arta Novemi Anto,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5350996,PC35HXA,MuhammadFahtur Rosi,k2pi,Bondowoso,Jawa Timur,Indonesia 
-5351005,PC35ADF,CarezzaArdhy Setiaji,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5351010,PC35ARF,AriefAchomadin,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5351011,PC35AAN,AanHerbawono,k2pi,Surabaya,Jawa Timur,Indonesia 
-5351013,PC35ANDK,AndyDwi Septanto,k2pi,Surabaya,Jawa Timur,Indonesia 
-5351015,PC35AN,AnangNugroho,k2pi,Banyuwangi,Jawa Timur,Indonesia 
-5351016,PC35ABC,DwiMulyanto,k2pi,Surabaya,Jawa Timur,Indonesia 
-5351017,PC35LUKA,Yunani,k2pi,Surabaya,Jawa Timur,Indonesia 
-5351018,PC35SIL,SoesiloIskak,k2pi,Tulungagung,Jawa Timur,Indonesia 
-5351019,PC35SGT,SigitWicaksono,k2pi,Surabaya,Jawa Timur,Indonesia 
-5351020,PC35REL,RanoRezaldy,k2pi,Surabaya,Jawa Timur,Indonesia 
-5351021,PC35AL,ZaldyHerdian Kurniawan,k2pi,Lamongan,Jawa Timur,Indonesia 
-5351022,PC35IXL,JokoWijaksono,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5351025,PC35ATC,Sutajianto,k2pi,Surabaya,Jawa Timur,Indonesia 
-5351026,PC35DW,DwiHermanto,k2pi,Surabaya,Jawa Timur,Indonesia 
-5351030,PC35SCU,AchmadDzikry Amrillah,k2pi,Jombang,Jawa Timur,Indonesia 
-5351063,PC35AOK,MohChasbullah,k2pi,Pasuruan,Jawa Timur,Indonesia 
-5351064,PC35DS,DennySagita,k2pi,Bojonegoro,Jawa Timur,Indonesia 
-5351067,PC35WHP,HaryGunawan,k2pi,Sidoarjo,Jawa Timur,Indonesia 
-5351086,PC35JCR,NanangMardiyanto,k2pi,Mojokerto,Jawa Timur,Indonesia 
-5351097,PC35AS,AgusSetijono,k2pi,Surabaya,Jawa Timur,Indonesia 
-5351104,PC35RIF,HadiFitriyanto,k2pi,Banyuwangi,Jawa Timur,Indonesia 
-5351105,PC35NAY,M_NayakaPradipta Bagaskara,k2pi,Malang,Jawa Timur,Indonesia 
-5351118,PC35IRF,IrfanFanani,k2pi,Kediri,Jawa Timur,Indonesia 
-5351119,PC35DM,DidikMudjiono,k2pi,Surabaya,Jawa Timur,Indonesia 
+5350023,PC35WAN,AhmadDarmawan,k2pi,Bojonegoro,Jatim,Indonesia 
+5350048,PC35PAN,PrasetyoArdi Nugroho,k2pi,Ponorogo,Jatim,Indonesia 
+5350079,PC35DWA,DodikWidya Adhitama,k2pi,Mojokerto,Jatim,Indonesia 
+5350110,PC35BQZ,DodyHeru Pratomo,k2pi,Surabaya,Jatim,Indonesia 
+5350124,PC35ANX,SuryoAgung Rurianto,k2pi,Pasuruan,Jatim,Indonesia 
+5350136,PC35MFG,Soewito,k2pi,Malang,Jatim,Indonesia 
+5350219,PC35MIL,Darmawan-888Com,k2pi,Surabaya,Jatim,Indonesia 
+5350249,PC35BRB,MuhHafid Akbar,k2pi,Surabaya,Jatim,Indonesia 
+5350262,PC35MKB,Murdiono,k2pi,Lamongan,Jatim,Indonesia 
+5350318,PC35MUL,Mulyadi,k2pi,Gresik,Jatim,Indonesia 
+5350361,PC35AVE,HendroPoerwantoko,k2pi,Malang,Jatim,Indonesia 
+5350379,PC35MOP,TriCahyo Prasetyo,k2pi,Surabaya,Jatim,Indonesia 
+5350498,PC35MTD,IfandaJuniarta Nain,k2pi,Surabaya,Jatim,Indonesia 
+5350505,PC35BLB,ImamSantoso,k2pi,Surabaya,Jatim,Indonesia 
+5350585,PC35BMK,BaraWidiananta,k2pi,Surabaya,Jatim,Indonesia 
+5350664,PC35NUR,NurpatriaPuspayudha Putranagara Mahardhika,k2pi,Sidoarjo,Jatim,Indonesia 
+5350673,PC35EEY,R_SugengRahardjo,k2pi,Probolinggo,Jatim,Indonesia 
+5350688,PC35FEB,MochamadFebrian Reonaldo,k2pi,Kediri,Jatim,Indonesia 
+5350701,PC35HSP,HaryoSuryo Pramono,k2pi,Surabaya,Jatim,Indonesia 
+5350727,PC35AIZ,ImamSofingi,k2pi,Tulungagung,Jatim,Indonesia 
+5350765,PC35SKA,SukimanKahar Abdullah,k2pi,Malang,Jatim,Indonesia 
+5350767,PC35WID,WidiharsoFz Drs,k2pi,Malang,Jatim,Indonesia 
+5350793,PC35LPK,LavernaParsha Kusumaningtyas,k2pi,Sidoarjo,Jatim,Indonesia 
+5350813,PC35BTW,BetantyoWisnu Hernawan,k2pi,Bangkalan,Jatim,Indonesia 
+5350814,PC33AW,AgusWahyudi,k2pi,Sampang,Jatim,Indonesia 
+5350834,PC35JON,Sugiono,k2pi,Batu,Jatim,Indonesia 
+5350835,PC35BRC,AhmadNur Qoyim,k2pi,Malang,Jatim,Indonesia 
+5350847,PC35CTD,HenriKurniawan,k2pi,Bondowoso,Jatim,Indonesia 
+5350849,PC35DJR,IsodorusHendrowahjono,k2pi,Surabaya,Jatim,Indonesia 
+5350859,PC35SAM,DanangSamsul Arifin,k2pi,Madiun,Jatim,Indonesia 
+5350860,PC35MEI,DeniMei Arifin,k2pi,Gresik,Jatim,Indonesia 
+5350875,PC35TRI,TriatmadjaMasiyok,k2pi,Sidoarjo,Jatim,Indonesia 
+5350879,PC35HER,HerwindoSulistyo Putro,k2pi,Surabaya,Jatim,Indonesia 
+5350888,PC35PNC,Panca,k2pi,Malang,Jatim,Indonesia 
+5350898,PC35EKO,SantosoEko Junaidhy,k2pi,Sidoarjo,Jatim,Indonesia 
+5350935,PC35DUV,MochamadRizal Amirudin,k2pi,Tulungagung,Jatim,Indonesia 
+5350936,PC35IJW,FitorBogi Irawan,k2pi,Banyuwangi,Jatim,Indonesia 
+5350947,PC35ABB,ReadyK. Mongi,k2pi,Surabaya,Jatim,Indonesia 
+5350980,PC35GZK,AndyAnugrah,k2pi,Jember,Jatim,Indonesia 
+5350994,PC35AEB,HeruBaskara Se,k2pi,Surabaya,Jatim,Indonesia 
+5350995,PC35AFS,BimoParama Arta Novemi Anto,k2pi,Sidoarjo,Jatim,Indonesia 
+5350996,PC35HXA,MuhammadFahtur Rosi,k2pi,Bondowoso,Jatim,Indonesia 
+5351005,PC35ADF,CarezzaArdhy Setiaji,k2pi,Sidoarjo,Jatim,Indonesia 
+5351010,PC35ARF,AriefAchomadin,k2pi,Sidoarjo,Jatim,Indonesia 
+5351011,PC35AAN,AanHerbawono,k2pi,Surabaya,Jatim,Indonesia 
+5351013,PC35ANDK,AndyDwi Septanto,k2pi,Surabaya,Jatim,Indonesia 
+5351015,PC35AN,AnangNugroho,k2pi,Banyuwangi,Jatim,Indonesia 
+5351016,PC35ABC,DwiMulyanto,k2pi,Surabaya,Jatim,Indonesia 
+5351017,PC35LUKA,Yunani,k2pi,Surabaya,Jatim,Indonesia 
+5351018,PC35SIL,SoesiloIskak,k2pi,Tulungagung,Jatim,Indonesia 
+5351019,PC35SGT,SigitWicaksono,k2pi,Surabaya,Jatim,Indonesia 
+5351020,PC35REL,RanoRezaldy,k2pi,Surabaya,Jatim,Indonesia 
+5351021,PC35AL,ZaldyHerdian Kurniawan,k2pi,Lamongan,Jatim,Indonesia 
+5351022,PC35IXL,JokoWijaksono,k2pi,Sidoarjo,Jatim,Indonesia 
+5351025,PC35ATC,Sutajianto,k2pi,Surabaya,Jatim,Indonesia 
+5351026,PC35DW,DwiHermanto,k2pi,Surabaya,Jatim,Indonesia 
+5351030,PC35SCU,AchmadDzikry Amrillah,k2pi,Jombang,Jatim,Indonesia 
+5351063,PC35AOK,MohChasbullah,k2pi,Pasuruan,Jatim,Indonesia 
+5351064,PC35DS,DennySagita,k2pi,Bojonegoro,Jatim,Indonesia 
+5351067,PC35WHP,HaryGunawan,k2pi,Sidoarjo,Jatim,Indonesia 
+5351086,PC35JCR,NanangMardiyanto,k2pi,Mojokerto,Jatim,Indonesia 
+5351097,PC35AS,AgusSetijono,k2pi,Surabaya,Jatim,Indonesia 
+5351104,PC35RIF,HadiFitriyanto,k2pi,Banyuwangi,Jatim,Indonesia 
+5351105,PC35NAY,M_NayakaPradipta Bagaskara,k2pi,Malang,Jatim,Indonesia 
+5351118,PC35IRF,IrfanFanani,k2pi,Kediri,Jatim,Indonesia 
+5351119,PC35DM,DidikMudjiono,k2pi,Surabaya,Jatim,Indonesia 
+5351123,PC35ADI,Panca_,k2pi,Malang,Jatim,Indonesia 
 5360047,PC36DIT,AlloysiusDitto Christianto,k2pi,Tangerang Sel,Banten,Indonesia 
 5360101,PC36TOS,JokoSusanto,k2pi,Tangerang,Banten,Indonesia 
 5360193,PC36KHL,#NAME?,k2pi,Tangerang,Banten,Indonesia 
@@ -1553,6 +1565,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5360990,PC36CFP,ImronHanafi,k2pi,Serang,Banten,Indonesia 
 5360993,PC36SAB,MarioAristo Sabirin,k2pi,Tangerang,Banten,Indonesia 
 5361036,PC36FER,FeryDiyan Murtono,k2pi,Tangerang,Banten,Indonesia 
+5361124,PC36EN,Endro_Nugroho_,k2pi,Tangerang,Banten,Indonesia 
+5361125,PC36TNX,Si_Rudy,k2pi,Tangerang,Banten,Indonesia 
+5361126,PC36ADI,Adi_Ashodieq,k2pi,Tangerang,Banten,Indonesia 
+5361127,PC36YR,Yoni_Rusdiana,k2pi,Tangerang,Banten,Indonesia 
+5361128,PC36TCA,Entis_Hadist_Sukmawan,k2pi,Tangerang,Banten,Indonesia 
 5510017,PC51ER,ErryDirta Budiyasa,k2pi,Badung,Bali,Indonesia 
 5510036,YD9CCY,I_WayanArnawa,k2pi,Buleleng,Bali,Indonesia 
 5510167,PC51RED,ReddiyantoSoenggawan,k2pi,Badung,Bali,Indonesia 
@@ -1663,111 +1680,111 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 6015806,DN15YA,YaserArafat,k2pi,Batanghari,Jambi,Indonesia 
 6031991,DN31CSP,CiptaSunyap Pringga,k2pi,Jakarta Pusat,JAKARTA,Indonesia 
 6034171,DN34LGP,Kuswanto,k2pi,Kulon Progo,YOGYAKARTA,Indonesia 
-6035147,DN35MFR,ImanRakhmadi,k2pi,Surabaya,Jawa Timur,Indonesia 
-6035921,DN35IRW,Irwansah,k2pi,Pasuruan,Jawa Timur,Indonesia 
+6035147,DN35MFR,ImanRakhmadi,k2pi,Surabaya,Jatim,Indonesia 
+6035921,DN35IRW,Irwansah,k2pi,Pasuruan,Jatim,Indonesia 
 6064084,DN64RDG,AgusPribadi,k2pi,Berau,KALTIM,Indonesia 
-9100001,91KMEGG,GILANG GUMILAR,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100002,91KMEKS,ASEP SAMSUL ISKA,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100003,91KMUDN (A),JAPAR SIDIK,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100004,91KMACB,ASEP,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100005,91KMASD,ASDAN,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100006,91KMEDC,DADANG,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100007,91KMADR,ANDI RAHMAN,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100008,91KMEBB,DENI MAULANA,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100009,91KMEBQ,ISMAT RAHMAT ISM,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100010,91KMEJU,MAULANA YUSUF,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100011,91KMEKB,ENGKAR BACHTIAR,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100012,91KMEUK,UNDANG KAMALUDIN,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100013,91KMEOO (A),OO SOFYAN,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100014,91KMEGQ (A),ENTIN SUMARTINI,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100015,91KMEDT (A),AI JUNAEDI,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
+9100001,91KMEGG,GILANG GUMILAR,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100002,91KMEKS,ASEP SAMSUL ISKA,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100003,91KMUDN (A),JAPAR SIDIK,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100004,91KMACB,ASEP,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100005,91KMASD,ASDAN,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100006,91KMEDC,DADANG,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100007,91KMADR,ANDI RAHMAN,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100008,91KMEBB,DENI MAULANA,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100009,91KMEBQ,ISMAT RAHMAT ISM,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100010,91KMEJU,MAULANA YUSUF,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100011,91KMEKB,ENGKAR BACHTIAR,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100012,91KMEUK,UNDANG KAMALUDIN,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100013,91KMEOO (A),OO SOFYAN,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100014,91KMEGQ (A),ENTIN SUMARTINI,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100015,91KMEDT (A),AI JUNAEDI,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
 9100016,91KMSPN,SUMPENO,kopdarmobile,PADANG SIDEMPUAN,SUMUT,Indonesia 
-9100017,91KMLLB,HADIYANTO,kopdarmobile,BEKASI,JAWA BARAT,Indonesia 
-9100018,91KMAXR,PURNAMA,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100019,91KMISO,ANWARI,kopdarmobile,CIREBON,JAWA BARAT,Indonesia 
-9100020,91KMAWW,MAHYUL FATA,kopdarmobile,CILACAP,JAWA TENGAH,Indonesia 
+9100017,91KMLLB,HADIYANTO,kopdarmobile,BEKASI,JABAR,Indonesia 
+9100018,91KMAXR,PURNAMA,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100019,91KMISO,ANWARI,kopdarmobile,CIREBON,JABAR,Indonesia 
+9100020,91KMAWW,MAHYUL FATA,kopdarmobile,CILACAP,Jateng,Indonesia 
 9100021,91KMMEG,INDRA SANIF,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
 9100022,91KMMQU,R. JEFTA HEROE P,kopdarmobile,JAKARTA UTARA,JAKARTA,Indonesia 
-9100023,91KMOGT,YOGI,kopdarmobile,SEMARANG,JAWA TENGAH,Indonesia 
+9100023,91KMOGT,YOGI,kopdarmobile,SEMARANG,Jateng,Indonesia 
 9100024,91KMBBB,M. FAHRIANNOR,kopdarmobile,BANJARMASIN,KALSEL,Indonesia 
-9100025,91KMOPG,SAYUTI MELIK,kopdarmobile,SEMARANG,JAWA TENGAH,Indonesia 
+9100025,91KMOPG,SAYUTI MELIK,kopdarmobile,SEMARANG,Jateng,Indonesia 
 9100026,91KMAHU,JOHAN GOZALI,kopdarmobile,PEKANBARU,RIAU,Indonesia 
 9100027,91KMCKR,GUNAWAN KOSASIH,kopdarmobile,JAKARTA BARAT,JAKARTA,Indonesia 
 9100028,91KMBAM,LIE BAMBANG HASY,kopdarmobile,JAKARTA BARAT,JAKARTA,Indonesia 
 9100029,91KMWIR,WIRAKTA KANCANA,kopdarmobile,JAKARTA PUSAT,JAKARTA,Indonesia 
-9100030,91KMBIS,BENI ISMAIL SALE,kopdarmobile,CIAMIS,JAWA BARAT,Indonesia 
-9100031,91KMDRS,IGNATIUS DRADJAT,kopdarmobile,MAGELANG,JAWA TENGAH,Indonesia 
-9100032,91KNDNY,STEFANUS DANDY,kopdarmobile,MAGELANG,JAWA TENGAH,Indonesia 
-9100033,91KMTYO,SUHARMANTYO,kopdarmobile,SURAKARTA,JAWA TENGAH,Indonesia 
+9100030,91KMBIS,BENI ISMAIL SALE,kopdarmobile,CIAMIS,JABAR,Indonesia 
+9100031,91KMDRS,IGNATIUS DRADJAT,kopdarmobile,MAGELANG,Jateng,Indonesia 
+9100032,91KNDNY,STEFANUS DANDY,kopdarmobile,MAGELANG,Jateng,Indonesia 
+9100033,91KMTYO,SUHARMANTYO,kopdarmobile,SURAKARTA,Jateng,Indonesia 
 9100034,91KMKIE,HENGKY,kopdarmobile,BANGKA,KEP BANGKA,Indonesia 
 9100035,91KMSWM,WANG HARTO,kopdarmobile,MATARAM,NTB,Indonesia 
 9100036,91KMYSS,YAKOBUS SULISTYO,kopdarmobile,JAKARTA PUSAT,JAKARTA,Indonesia 
 9100037,91KMEMY (A),DHANYAR WINDHARM,kopdarmobile,TOBA,SUMUT,Indonesia 
 9100038,91KMKAA,HANAFI HANDOKO,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
 9100039,91KMWAK,ABU SOFYAN,kopdarmobile,LANGKAT,SUMUT,Indonesia 
-9100040,91KMPPM,GEPPI GESWARDO,kopdarmobile,CIMAHI,JAWA BARAT,Indonesia 
+9100040,91KMPPM,GEPPI GESWARDO,kopdarmobile,CIMAHI,JABAR,Indonesia 
 9100041,91KMOWG,SUBROTO,kopdarmobile,MESUJI,LAMPUNG,Indonesia 
 9100042,91KMAAL (A),MATHEOS NOYA,kopdarmobile,AMBON,MALUKU,Indonesia 
 9100043,91KMEAR,ARDIANSYAH,kopdarmobile,LANGKAT,SUMUT,Indonesia 
 9100044,91KMPBA,ANDRIANI,kopdarmobile,SAMBAS,KALBAR,Indonesia 
-9100045,91KMNBM,SUHARTO,kopdarmobile,SURABAYA,JAWA TIMUR,Indonesia 
+9100045,91KMNBM,SUHARTO,kopdarmobile,SURABAYA,Jatim,Indonesia 
 9100046,91KMEAB,ALI AKBAR,kopdarmobile,LANGKAT,SUMUT,Indonesia 
-9100047,91KMRJE,Y ROBERTH ALFONS,kopdarmobile,SEMARANG,JAWA TENGAH,Indonesia 
+9100047,91KMRJE,Y ROBERTH ALFONS,kopdarmobile,SEMARANG,Jateng,Indonesia 
 9100048,91KMBAY,BARI NALDI PALIJ,kopdarmobile,AMBON,MALUKU,Indonesia 
 9100049,91KMBHP,BONNY HARDI PUTR,kopdarmobile,JAKARTA PUSAT,JAKARTA,Indonesia 
-9100050,91KMAJA (A),ANDI MUHAMMAD AN,kopdarmobile,SURABAYA,JAWA TIMUR,Indonesia 
-9100051,91KMFAR,MI'RAJ RIZKY HID,kopdarmobile,MAGELANG,JAWA TENGAH,Indonesia 
-9100052,91KMJRO,SUBHAN FAJAR SID,kopdarmobile,BANGKALAN,JAWA TIMUR,Indonesia 
-9100053,91KMDON,SARJONO,kopdarmobile,SURABAYA,JAWA TIMUR,Indonesia 
+9100050,91KMAJA (A),ANDI MUHAMMAD AN,kopdarmobile,SURABAYA,Jatim,Indonesia 
+9100051,91KMFAR,MI'RAJ RIZKY HID,kopdarmobile,MAGELANG,Jateng,Indonesia 
+9100052,91KMJRO,SUBHAN FAJAR SID,kopdarmobile,BANGKALAN,Jatim,Indonesia 
+9100053,91KMDON,SARJONO,kopdarmobile,SURABAYA,Jatim,Indonesia 
 9100054,91KMDAZ,AHMAD FATONI,kopdarmobile,MATARAM,NTB,Indonesia 
 9100055,91KMEPF,FERRY,kopdarmobile,PAYAKUMBUH,SUMBAR,Indonesia 
 9100056,91KMKTJ,WAYAN AGRO SETIY,kopdarmobile,MERAUKE,PAPUA,Indonesia 
-9100057,91KMFTB (A),BAMBANG INDRA MA,kopdarmobile,BOGOR,JAWA BARAT,Indonesia 
+9100057,91KMFTB (A),BAMBANG INDRA MA,kopdarmobile,BOGOR,JABAR,Indonesia 
 9100058,91KMKLW,HERTANTO PRASETY,kopdarmobile,MERAUKE,PAPUA,Indonesia 
-9100059,91KMSAM,SYAMSIR ALAM,kopdarmobile,BOGOR,JAWA BARAT,Indonesia 
+9100059,91KMSAM,SYAMSIR ALAM,kopdarmobile,BOGOR,JABAR,Indonesia 
 9100060,91KMPRA,WAHYUDI PRATAMA,kopdarmobile,PALANGKARAYA,KALTENG,Indonesia 
-9100061,91KMCWV,FIRZI GIF ALIF,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100062,91KMBLM,AGUS WAHYUDI,kopdarmobile,SAMPANG,JAWA TIMUR,Indonesia 
-9100063,91KMADE,IDA NYOMAN SEBAL,kopdarmobile,DEPOK,JAWA BARAT,Indonesia 
-9100064,91KMEXT,INDRA SALIMAN NU,kopdarmobile,BEKASI,JAWA BARAT,Indonesia 
+9100061,91KMCWV,FIRZI GIF ALIF,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100062,91KMBLM,AGUS WAHYUDI,kopdarmobile,SAMPANG,Jatim,Indonesia 
+9100063,91KMADE,IDA NYOMAN SEBAL,kopdarmobile,DEPOK,JABAR,Indonesia 
+9100064,91KMEXT,INDRA SALIMAN NU,kopdarmobile,BEKASI,JABAR,Indonesia 
 9100065,91KMART,I GEDE SUGIH ART,kopdarmobile,DENPASAR,BALI,Indonesia 
 9100066,91KMARI,SYAIFUL ANSHORI,kopdarmobile,BANDA ACEH,ACEH,Indonesia 
 9100067,91KMCOZ,HASNUR ZULFA,kopdarmobile,ACEH UTARA,ACEH,Indonesia 
 9100068,91KMTRI,TRI BUDI IRIANTO,kopdarmobile,SORONG,PAPBADA,Indonesia 
-9100069,91KMRAF,BETANTYO WISNU H,kopdarmobile,BANGKALAN,JAWA TIMUR,Indonesia 
+9100069,91KMRAF,BETANTYO WISNU H,kopdarmobile,BANGKALAN,Jatim,Indonesia 
 9100070,91KMAPI,MASRUR RIDWAN,kopdarmobile,AMBON,MALUKU,Indonesia 
 9100071,91KMAMR,AMIRRUL IMAN,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
-9100072,91KMSSG,ERIQ,kopdarmobile,SUMENEP,JAWA TIMUR,Indonesia 
-9100073,91KMAWR,MOHAMMAD REDY,kopdarmobile,PAMEKASAN,JAWA TIMUR,Indonesia 
-9100074,91KMFIR,FIRMAN HIDAYAT,kopdarmobile,SURABAYA,JAWA TIMUR,Indonesia 
+9100072,91KMSSG,ERIQ,kopdarmobile,SUMENEP,Jatim,Indonesia 
+9100073,91KMAWR,MOHAMMAD REDY,kopdarmobile,PAMEKASAN,Jatim,Indonesia 
+9100074,91KMFIR,FIRMAN HIDAYAT,kopdarmobile,SURABAYA,Jatim,Indonesia 
 9100075,91KMTOA,OKTALIO WAHYUDI,kopdarmobile,TANGERANG,BANTEN,Indonesia 
-9100076,91KMAAM,ASEP AHMAD MASYK,kopdarmobile,BANDUNG BARAT,JAWA BARAT,Indonesia 
+9100076,91KMAAM,ASEP AHMAD MASYK,kopdarmobile,BANDUNG BARAT,JABAR,Indonesia 
 9100077,91KMGAC,EDY SUPRIYANTO,kopdarmobile,MATARAM,NTB,Indonesia 
 9100078,91KMRED,REDDIYANTO SOENG,kopdarmobile,BADUNG,BALI,Indonesia 
 9100079,91KMBAS,AGUSTINUS SUREND,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
 9100080,91KMNTX,KHAIRUR RAZIQIN,kopdarmobile,NATUNA,KEPRI,Indonesia 
 9100081,91KMTHE,ARINTOKO NUGROHO,kopdarmobile,TANGERANG SELATA,BANTEN,Indonesia 
 9100082,91KMAGG,MOHAMAD FERDINAN,kopdarmobile,SORONG,PAPBADA,Indonesia 
-9100083,91KMKZT,FAUZAN,kopdarmobile,SUBANG,JAWA BARAT,Indonesia 
-9100084,91KMBEN,BENJAMIN MULIONO,kopdarmobile,CIREBON,JAWA BARAT,Indonesia 
+9100083,91KMKZT,FAUZAN,kopdarmobile,SUBANG,JABAR,Indonesia 
+9100084,91KMBEN,BENJAMIN MULIONO,kopdarmobile,CIREBON,JABAR,Indonesia 
 9100085,91KMAMW,AGUS PAMBUDI,kopdarmobile,JAKARTA BARAT ,JAKARTA,Indonesia 
-9100086,91KMEXA,MILLOVAN EKA AUG,kopdarmobile,SEMARANG,JAWA TENGAH,Indonesia 
-9100087,91KMAAA,MUGIONO,kopdarmobile,PEMALANG,JAWA TENGAH,Indonesia 
+9100086,91KMEXA,MILLOVAN EKA AUG,kopdarmobile,SEMARANG,Jateng,Indonesia 
+9100087,91KMAAA,MUGIONO,kopdarmobile,PEMALANG,Jateng,Indonesia 
 9100088,91KMBAN,BAMBANG ANGGORO ,kopdarmobile,SLEMAN,YOGYAKARTA,Indonesia 
 9100089,91KMAYP,ANDHIKA YUDA PUT,kopdarmobile,DELI SERDANG,SUMUT,Indonesia 
-9100090,91KMDAS,DWI ARIANTORO SU,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
+9100090,91KMDAS,DWI ARIANTORO SU,kopdarmobile,BANDUNG,JABAR,Indonesia 
 9100091,91KMAIM,HOLIL AZMI,kopdarmobile,PONTIANAK,KALBAR,Indonesia 
 9100092,91KMJOE ,JHONATAN MOLAKA,kopdarmobile,BANTUL,YOGYAKARTA,Indonesia 
 9100093,91KMEZT,JULI RIANTO,kopdarmobile,ACEH TIMUR,ACEH,Indonesia 
-9100094,91KMBBK,BENNY KUSWARTO,kopdarmobile,MALANG,JAWA TIMUR,Indonesia 
+9100094,91KMBBK,BENNY KUSWARTO,kopdarmobile,MALANG,Jatim,Indonesia 
 9100095,91KMDOR,DODI OKTARINO,kopdarmobile,TANGERANG SELATA,BANTEN,Indonesia 
 9100096,91KMACN,ANTHONI CAHYO NO,kopdarmobile,BANTUL,YOGYAKARTA,Indonesia 
 9100097,91KMAGP,AGUS PURWANTO,kopdarmobile,SERUYAN,KALTENG,Indonesia 
-9100098,91KMGRD,HUSIN HASAN,kopdarmobile,BANYUWANGI,JAWA TIMUR,Indonesia 
-9100099,91KMBSA,ACHMAD ABDULLAH,kopdarmobile,MALANG,JAWA TIMUR,Indonesia 
-9100100,91KMPBB,AGUS SRI HARTANT,kopdarmobile,SURAKARTA,JAWA TENGAH,Indonesia 
+9100098,91KMGRD,HUSIN HASAN,kopdarmobile,BANYUWANGI,Jatim,Indonesia 
+9100099,91KMBSA,ACHMAD ABDULLAH,kopdarmobile,MALANG,Jatim,Indonesia 
+9100100,91KMPBB,AGUS SRI HARTANT,kopdarmobile,SURAKARTA,Jateng,Indonesia 
 9100101,91KMONE,IRWAN SYARIFUDDI,kopdarmobile,ACEH TIMUR,ACEH,Indonesia 
-9100102,91KMBTC,RADDY IRMAWAN,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
+9100102,91KMBTC,RADDY IRMAWAN,kopdarmobile,BANDUNG,JABAR,Indonesia 
 9100103,91KMRDN,RADEN HERMANO MI,kopdarmobile,PELALAWAN,RIAU,Indonesia 
 9100104,91KMBDO,HENDRAWAN WIJAYA,kopdarmobile,MEDAN,SUMUT,Indonesia 
 9100105,91KMMAR,MARIO ARISTO SAB,kopdarmobile,TANGERANG,BANTEN,Indonesia 
@@ -1777,8 +1794,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9100109,91KMNCI,ARIYANTO,kopdarmobile,BALIKPAPAN,KALTIM,Indonesia 
 9100110,91KMEWR,ESWORO,kopdarmobile,SANGATTA,KALTIM,Indonesia 
 9100111,91KMLRR,IWAN SANTOSO,kopdarmobile,JAKARTA UTARA,JAKARTA,Indonesia 
-9100112,91KMIKA,FX ARIF GILARSUN,kopdarmobile,BEKASI,JAWA BARAT,Indonesia 
-9100113,91KMFEQ,BUDI CAHYADI,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
+9100112,91KMIKA,FX ARIF GILARSUN,kopdarmobile,BEKASI,JABAR,Indonesia 
+9100113,91KMFEQ,BUDI CAHYADI,kopdarmobile,BANDUNG,JABAR,Indonesia 
 9100114,91KMBFB,KUSWANDI ARIEF,kopdarmobile,BATU BARA,SUMUT,Indonesia 
 9100115,91KMJLW,JEFFRY LEKSMANA ,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
 9100116,91KMSAR,ABDUL LATIF,kopdarmobile,TANGERANG,BANTEN,Indonesia 
@@ -1790,58 +1807,58 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9100122,91KMMAA,MOHAMMAD AFRIZAL,kopdarmobile,TEMBAGAPURA,PAPUA TENGAH,Indonesia 
 9100123,91KMPOL,MUHAMAD SALEH,kopdarmobile,TARAKAN,KALTARA,Indonesia 
 9100124,91KMBUS,NURDIN,kopdarmobile,MEDAN,SUMUT,Indonesia 
-9100125,91KMBRL,SYAMSUL ARIFIN,kopdarmobile,BLITAR,JAWA TIMUR,Indonesia 
-9100126,91KMIIK,SOEWITO,kopdarmobile,MALANG,JAWA TIMUR,Indonesia 
-9100127,91KMATZ,ANGGA FIRMANSYAH,kopdarmobile,SUKOHARJO,JAWA TENGAH,Indonesia 
-9100128,91KMCAK,SATRIYA ADI UTAM,kopdarmobile,SURABAYA,JAWA TIMUR,Indonesia 
-9100129,91KMCUK,ITMAMUL WAFA,kopdarmobile,SURABAYA,JAWA TIMUR,Indonesia 
+9100125,91KMBRL,SYAMSUL ARIFIN,kopdarmobile,BLITAR,Jatim,Indonesia 
+9100126,91KMIIK,SOEWITO,kopdarmobile,MALANG,Jatim,Indonesia 
+9100127,91KMATZ,ANGGA FIRMANSYAH,kopdarmobile,SUKOHARJO,Jateng,Indonesia 
+9100128,91KMCAK,SATRIYA ADI UTAM,kopdarmobile,SURABAYA,Jatim,Indonesia 
+9100129,91KMCUK,ITMAMUL WAFA,kopdarmobile,SURABAYA,Jatim,Indonesia 
 9100130,91KMTNI,DIDIK NURHADI,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
 9100131,91KMWAR,WARTONO,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
 9100132,91KMBCW,AWANG SUMARDI,kopdarmobile,JAMBI,JAMBI,Indonesia 
-9100133,91KMKMK,ADE SENA PERMANA,kopdarmobile,BANDUNG BARAT,JAWA BARAT,Indonesia 
+9100133,91KMKMK,ADE SENA PERMANA,kopdarmobile,BANDUNG BARAT,JABAR,Indonesia 
 9100134,91KMJDM,JAMAL DAENG MATE,kopdarmobile,TANJUNG JABUNG T,JAMBI,Indonesia 
-9100135,91KMDBS,DENY BAYU SAEFUD,kopdarmobile,CIMAHI,JAWA BARAT,Indonesia 
+9100135,91KMDBS,DENY BAYU SAEFUD,kopdarmobile,CIMAHI,JABAR,Indonesia 
 9100136,91KMFQK,MUH. HAFID AKBAR,kopdarmobile,JAKARTA PUSAT,JAKARTA,Indonesia 
-9100137,91KMAPS,AGUNG PRIYO SUBR,kopdarmobile,BANDUNG BARAT,JAWA BARAT,Indonesia 
+9100137,91KMAPS,AGUNG PRIYO SUBR,kopdarmobile,BANDUNG BARAT,JABAR,Indonesia 
 9100138,91KMEDB,ERRY DIRTA BUDIY,kopdarmobile,BADUNG,BALI,Indonesia 
-9100139,91KMIWN,IWAN HERMAWAN,kopdarmobile,BEKASI,JAWA BARAT,Indonesia 
+9100139,91KMIWN,IWAN HERMAWAN,kopdarmobile,BEKASI,JABAR,Indonesia 
 9100140,91KMBRY,B. AGUS PRIAMAN,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
 9100141,91KMWZ,SYAHBANDI RASYID,kopdarmobile,BANJARMASIN,KALSEL,Indonesia 
 9100142,91KMVOK,I WAYAN RAKA SAN,kopdarmobile,TABANAN,BALI,Indonesia 
 9100143,91KMDKU,DANI AGUS DWIANT,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
 9100144,91KMAKA,ANDHIKA AKASSE,kopdarmobile,MAKASSAR,SULSEL,Indonesia 
 9100145,91KMNDY,ENDY,kopdarmobile,MEDAN,SUMUT,Indonesia 
-9100146,91KMABY,R. BUDI HIDAYAT,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
+9100146,91KMABY,R. BUDI HIDAYAT,kopdarmobile,BANDUNG,JABAR,Indonesia 
 9100147,91KMBCC,JHONAL THIO,kopdarmobile,MANOKWARI,PAPUA BARAT,Indonesia 
 9100148,91KMERL,ERLANGGA SAPUTRA,kopdarmobile,DENPASAR,BALI,Indonesia 
 9100149,91KMJOY,JOKO LAKSONO SUR,kopdarmobile,SLEMAN,YOGYAKARTA,Indonesia 
 9100150,91KMALI,M. ALIYANTO,kopdarmobile,TANJUNG JABUNG T,JAMBI,Indonesia 
-9100151,91KMHNN,ABDUL HANAN,kopdarmobile,TUBAN,JAWA TIMUR,Indonesia 
-9100152,91KMBSM,IWAN HERMAWAN,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
-9100153,91KMRRI,YUSUP SUHARNO,kopdarmobile,MADIUN,JAWA TIMUR,Indonesia 
+9100151,91KMHNN,ABDUL HANAN,kopdarmobile,TUBAN,Jatim,Indonesia 
+9100152,91KMBSM,IWAN HERMAWAN,kopdarmobile,BANDUNG,JABAR,Indonesia 
+9100153,91KMRRI,YUSUP SUHARNO,kopdarmobile,MADIUN,Jatim,Indonesia 
 9100154,91KMJOS,GLENN JOSHUA TAN,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
-9100155,91KMSAK,ADHI KURNIAWAN P,kopdarmobile,KUDUS,JAWA TENGAH,Indonesia 
-9100156,91KMZEN,AKHMAD ZAINI,kopdarmobile,PAMEKASAN,JAWA TIMUR,Indonesia 
+9100155,91KMSAK,ADHI KURNIAWAN P,kopdarmobile,KUDUS,Jateng,Indonesia 
+9100156,91KMZEN,AKHMAD ZAINI,kopdarmobile,PAMEKASAN,Jatim,Indonesia 
 9100157,91KMJAH,JUMADI,kopdarmobile,BENER MERIAH,ACEH,Indonesia 
-9100158,91KMDWA,DODIK WIDYA ADHI,kopdarmobile,MOJOKERTO,JAWA TIMUR,Indonesia 
-9100159,91KMHHL,LUTHFI HERRY PRA,kopdarmobile,DEPOK,JAWA BARAT,Indonesia 
+9100158,91KMDWA,DODIK WIDYA ADHI,kopdarmobile,MOJOKERTO,Jatim,Indonesia 
+9100159,91KMHHL,LUTHFI HERRY PRA,kopdarmobile,DEPOK,JABAR,Indonesia 
 9100160,91KMCOY,SAIFUL BAHRI,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
 9100161,91KMGBW,ASRARUDIN,kopdarmobile,SAMPIT,KALTENG,Indonesia 
 9100162,91KMAGS,AGUS SETIAWAN,kopdarmobile,DELI SERDANG,SUMUT,Indonesia 
 9100163,91KMDDF,DHETYO DWIYOGA F,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
 9100164,91KMDRO,RIMANTO,kopdarmobile,PEKANBARU,RIAU,Indonesia 
 9100165,91KMCRV,MUHAMMAD HARIS,kopdarmobile,MEDAN,SUMUT,Indonesia 
-9100166,91KMLAY,SAIDI IBRAHIM,kopdarmobile,BEKASI,JAWA BARAT,Indonesia 
+9100166,91KMLAY,SAIDI IBRAHIM,kopdarmobile,BEKASI,JABAR,Indonesia 
 9100167,91KMGDE,GDE SARDJANA,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
 9100168,91KMDED,DEDE DARMADI,kopdarmobile,BANGKA,KEP BANGKA,Indonesia 
 9100169,91KMBMM,MUHAMMAD ZALDI,kopdarmobile,MEDAN,SUMUT,Indonesia 
 9100170,91KMBAH,RIFKI,kopdarmobile,PADANG,SUMBAR,Indonesia 
 9100171,91KMAQW,I WAYAN PONGKI S,kopdarmobile,JAKARTA BARAT,JAKARTA,Indonesia 
-9100172,91KMRIS,ARDI RISMAN,kopdarmobile,BOGOR,JAWA BARAT,Indonesia 
+9100172,91KMRIS,ARDI RISMAN,kopdarmobile,BOGOR,JABAR,Indonesia 
 9100173,91KMNDJ,SYAMSUL ALAM,kopdarmobile,PELALAWAN,RIAU,Indonesia 
 9100174,91KMASD,OKKY SATRYA NUGR,kopdarmobile,BALIKPAPAN,KALTIM,Indonesia 
 9100175,91KMIEP,M. DANI,kopdarmobile,JAMBI,JAMBI,Indonesia 
-9100176,91KMNOC,HENDRO,kopdarmobile,MADIUN,JAWA TIMUR,Indonesia 
+9100176,91KMNOC,HENDRO,kopdarmobile,MADIUN,Jatim,Indonesia 
 9100177,91KMAVB,PUTU WIBAWA ARJA,kopdarmobile,BANGLI,BALI,Indonesia 
 9100178,91KMBOB,BOBBY TRI WIJAYA,kopdarmobile,SLEMAN,YOGYAKARTA,Indonesia 
 9100179,91KMBCG,ZULKARNAIN,kopdarmobile,MEDAN,SUMUT,Indonesia 
@@ -1850,39 +1867,39 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9100182,91KMBRA,RUDI HARYANTO,kopdarmobile,TANGERANG,BANTEN,Indonesia 
 9100183,91KMAND,ANDI PRABOWO,kopdarmobile,LEBAK,BANTEN,Indonesia 
 9100184,91KMSFI,TATANG SAFARI,kopdarmobile,JAKARTA UTARA,JAKARTA,Indonesia 
-9100185,91KMBWI,TRI RUMIADJI,kopdarmobile,BANYUWANGI,JAWA TIMUR,Indonesia 
+9100185,91KMBWI,TRI RUMIADJI,kopdarmobile,BANYUWANGI,Jatim,Indonesia 
 9100186,91KMYUD,HIRMAWAN TIRTA Y,kopdarmobile,BULELENG,BALI,Indonesia 
-9100187,91KMBSV,NURHADI,kopdarmobile,MADIUN,JAWA TIMUR,Indonesia 
-9100188,91KMCWW,IBNU MUSTANGIN,kopdarmobile,PURWOREJO,JAWA TENGAH,Indonesia 
-9100189,91KMDWU,SAMODRA PUSPITA ,kopdarmobile,PURBALINGGA,JAWA TENGAH,Indonesia 
+9100187,91KMBSV,NURHADI,kopdarmobile,MADIUN,Jatim,Indonesia 
+9100188,91KMCWW,IBNU MUSTANGIN,kopdarmobile,PURWOREJO,Jateng,Indonesia 
+9100189,91KMDWU,SAMODRA PUSPITA ,kopdarmobile,PURBALINGGA,Jateng,Indonesia 
 9100190,91KMAFI,IMRON HANAFI,kopdarmobile,SERANG,BANTEN,Indonesia 
 9100191,91KMKQS,I WAYAN AGUS SUD,kopdarmobile,BANGLI,BALI,Indonesia 
 9100192,91KMPLW,PUTU WIBAWA ARJA,kopdarmobile,BANGLI,BALI,Indonesia 
 9100193,91KMLTF,MUHAMMAD AMIRUDI,kopdarmobile,MUSI BANYUASIN,SUMSEL,Indonesia 
-9100194,91KMEBH,EKO PUJI HARIYAN,kopdarmobile,INDRAMAYU,JAWA BARAT,Indonesia 
+9100194,91KMEBH,EKO PUJI HARIYAN,kopdarmobile,INDRAMAYU,JABAR,Indonesia 
 9100195,91KMAWI,ASMAWI,kopdarmobile,KOLAKA ,SULTRA,Indonesia 
 9100196,91KMLEN,SONNY ARLEN,kopdarmobile,JAMBI,JAMBI,Indonesia 
 9100197,91KMFRM,FAHRUR ROZI,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
-9100198,91KMEUP,YUSUP SUHARNO,kopdarmobile,MADIUN ,JAWA TIMUR,Indonesia 
-9100199,91KMANW,WAWAN HARIYANTO,kopdarmobile,MALANG,JAWA TIMUR,Indonesia 
+9100198,91KMEUP,YUSUP SUHARNO,kopdarmobile,MADIUN ,Jatim,Indonesia 
+9100199,91KMANW,WAWAN HARIYANTO,kopdarmobile,MALANG,Jatim,Indonesia 
 9100200,91KMDDB,I WAYAN SOMAJAYA,kopdarmobile,KLUNGKUNG,BALI,Indonesia 
-9100201,91KMVWI,II DADANG,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
+9100201,91KMVWI,II DADANG,kopdarmobile,BANDUNG,JABAR,Indonesia 
 9100202,91KMBDR,LISTYO WARYADI,kopdarmobile,TANGERANG,BANTEN,Indonesia 
 9100203,91KMDMZ,SRI ADHI TAMTOMO,kopdarmobile,INDRAGIRI HILIR,RIAU,Indonesia 
-9100204,91KMKEI,ANDREAS BASUKI K,kopdarmobile,JEMBER,JAWA TIMUR,Indonesia 
+9100204,91KMKEI,ANDREAS BASUKI K,kopdarmobile,JEMBER,Jatim,Indonesia 
 9100205,91KMDIO,HERMANTO,kopdarmobile,INDRAGIRI HILIR,RIAU,Indonesia 
 9100206,91KMCYO,AGUNG CAHYO WIBO,kopdarmobile,BADUNG,BALI,Indonesia 
 9100207,91KMPLG,I MADE SUTRISNA ,kopdarmobile,BANGLI,BALI,Indonesia 
 9100208,91KMSFR,FIKRI RIZA,kopdarmobile,JAMBI,JAMBI,Indonesia 
-9100209,91KMZYN,PRIMA WIBAWA,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100210,91KMABP,ANDRI BUDI PRIAN,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100211,91KMNNN,NANDANG NUGRAHA,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
-9100212,91KMCXN,GINANJAR EKO RUS,kopdarmobile,CIREBON,JAWA BARAT,Indonesia 
+9100209,91KMZYN,PRIMA WIBAWA,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100210,91KMABP,ANDRI BUDI PRIAN,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100211,91KMNNN,NANDANG NUGRAHA,kopdarmobile,BANDUNG,JABAR,Indonesia 
+9100212,91KMCXN,GINANJAR EKO RUS,kopdarmobile,CIREBON,JABAR,Indonesia 
 9100213,91KMTSC,SANDY SIMARMATA,kopdarmobile,BATU BARA,SUMUT,Indonesia 
 9100214,91KMVAN,IBNU AFFAN,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
-9100215,91KMFOX,TONI BUTAR BUTAR,kopdarmobile,SIDOARJO,JAWA TIMUR,Indonesia 
+9100215,91KMFOX,TONI BUTAR BUTAR,kopdarmobile,SIDOARJO,Jatim,Indonesia 
 9100216,91KMETC,ADITYA PRANSANTA,kopdarmobile,PALANGKARAYA,KALTENG,Indonesia 
-9100217,91KMCSW,PARULIAN SIHOMBI,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
+9100217,91KMCSW,PARULIAN SIHOMBI,kopdarmobile,BANDUNG,JABAR,Indonesia 
 9100218,91KMMSI,MARCUS SILOOY,kopdarmobile,WAMENA,PAPUA PEGUNUNGAN,Indonesia 
 9100219,91KMEDW,EDWIN FEDELYS AL,kopdarmobile,BENGKAYANG,KALBAR,Indonesia 
 9100220,91KMNDO,BAMBANG SURYAPUT,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
@@ -1890,11 +1907,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9100222,91KMEOC,PUSDALOPS BNPB,kopdarmobile,JAKARTA,JAKARTA,Indonesia 
 9100223,91KMSPR,SAPRIDI,kopdarmobile,TANJUNG PINANG,KEPRI,Indonesia 
 9100224,91KMLHA,MOCH LUKMAN HAKI,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
-9100225,91KMRHR,REYKAZ HAFIDZH R,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
-9100226,91KMMJS,MUHAMMAD JOU SUL,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
+9100225,91KMRHR,REYKAZ HAFIDZH R,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
+9100226,91KMMJS,MUHAMMAD JOU SUL,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
 9100227,91KMBLC,BERNADUS WISNU P,kopdarmobile,DENPASAR,BALI,Indonesia 
-9100228,91KMHGA,TJETJEP RONY BUD,kopdarmobile,KARAWANG,JAWA BARAT,Indonesia 
-9100229,91KMDHS,DHONY HARTO SAPU,kopdarmobile,PURBALINGGA,JAWA TENGAH,Indonesia 
+9100228,91KMHGA,TJETJEP RONY BUD,kopdarmobile,KARAWANG,JABAR,Indonesia 
+9100229,91KMDHS,DHONY HARTO SAPU,kopdarmobile,PURBALINGGA,Jateng,Indonesia 
 9100230,91KMSAD,SADJIMAN,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
 9100231,91KMHAI,ENJUH,kopdarmobile,JAKARTA PUSAT,JAKARTA,Indonesia 
 9100232,91KMAPY,MUHAMAD SYOFYAN,kopdarmobile,INDRAGIRI HILIR,RIAU,Indonesia 
@@ -1903,28 +1920,28 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9100235,91KMBVF,SAIFUL AMRI,kopdarmobile,ACEH TIMUR,ACEH,Indonesia 
 9100236,91KMAUE,SAIFUL ASWAD,kopdarmobile,ACEH TIMUR,ACEH,Indonesia 
 9100237,91KMDOM,JAYA ANTHONI,kopdarmobile,ACEH TIMUR,ACEH,Indonesia 
-9100238,91KMIMA,ISMAIL MARZUKI,kopdarmobile,PEMALANG,JAWA TENGAH,Indonesia 
-9100239,91KMBGM,BUDI SANTOSA,kopdarmobile,BLORA,JAWA TENGAH,Indonesia 
+9100238,91KMIMA,ISMAIL MARZUKI,kopdarmobile,PEMALANG,Jateng,Indonesia 
+9100239,91KMBGM,BUDI SANTOSA,kopdarmobile,BLORA,Jateng,Indonesia 
 9100240,91KMBWV,MUHAMMAD HELMI,kopdarmobile,JAKARTA PUSAT,JAKARTA,Indonesia 
 9100241,91KMRDY,RUDY DWIANTORO,kopdarmobile,BADUNG,BALI,Indonesia 
 9100242,91KMGBB,HERU SOESANTO,kopdarmobile,BADUNG,BALI,Indonesia 
-9100243,91KMQZY,SUPRAPTO,kopdarmobile,BLORA,JAWA TENGAH,Indonesia 
+9100243,91KMQZY,SUPRAPTO,kopdarmobile,BLORA,Jateng,Indonesia 
 9100244,115KMADI,MUQTHADI RAMLI,kopdarmobile,DOHA,QATAR,Indonesia 
 9100245,91KMXXX,ERGAMICEL,kopdarmobile,PADANG,SUMBAR,Indonesia 
-9100246,91KMEBP,EKO ZULMI CASSAN,kopdarmobile,BOGOR,JAWA BARAT,Indonesia 
-9100247,91KMONI,FONY ISTANTO,kopdarmobile,BANYUWANGI,JAWA TIMUR,Indonesia 
+9100246,91KMEBP,EKO ZULMI CASSAN,kopdarmobile,BOGOR,JABAR,Indonesia 
+9100247,91KMONI,FONY ISTANTO,kopdarmobile,BANYUWANGI,Jatim,Indonesia 
 9100248,91KMKKR,NASRUN,kopdarmobile,KUBU RAYA,KALBAR,Indonesia 
-9100249,91KMRST,RESTU DWI APRIYO,kopdarmobile,KLATEN,JAWA TENGAH,Indonesia 
+9100249,91KMRST,RESTU DWI APRIYO,kopdarmobile,KLATEN,Jateng,Indonesia 
 9100250,91KMASH,IWAN NUGROHO,kopdarmobile,JAKARTA UTARA,JAKARTA,Indonesia 
-9100251,91KMAQL,IDJI PRIATNA,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
+9100251,91KMAQL,IDJI PRIATNA,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
 9100252,91KMALP,FAKRI SAPUTRA,kopdarmobile,BANDA ACEH,ACEH,Indonesia 
-9100253,91KMEWB,ERIK SUGIHARTO,kopdarmobile,GRESIK,JAWA TIMUR,Indonesia 
-9100254,91KMJND,MUHAMAD JUANDA,kopdarmobile,BOYOLALI,JAWA TENGAH,Indonesia 
+9100253,91KMEWB,ERIK SUGIHARTO,kopdarmobile,GRESIK,Jatim,Indonesia 
+9100254,91KMJND,MUHAMAD JUANDA,kopdarmobile,BOYOLALI,Jateng,Indonesia 
 9100255,91KMAZD,RAHMAT SUYATNA,kopdarmobile,SERANG,BANTEN,Indonesia 
-9100256,91KMAWF,SUGENG HARYANTO,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
+9100256,91KMAWF,SUGENG HARYANTO,kopdarmobile,BANDUNG,JABAR,Indonesia 
 9100257,91KMJAB,KOKO ALLAN PIRON,kopdarmobile,SLEMAN,YOGYAKARTA,Indonesia 
 9100258,91KMAAS,ASER,kopdarmobile,MAMASA,SULBAR,Indonesia 
-9100259,91KMCMP,TAN RANDY TANDIO,kopdarmobile,SURABAYA,JAWA TIMUR,Indonesia 
+9100259,91KMCMP,TAN RANDY TANDIO,kopdarmobile,SURABAYA,Jatim,Indonesia 
 9100260,91KMBGA,I MADE AGUS SUDI,kopdarmobile,BULELENG,BALI,Indonesia 
 9100261,91KMAPR,HANDY WIDJAJA,kopdarmobile,JAKARTA UTARA,JAKARTA,Indonesia 
 9100262,91KMKMA,MUHAMMAD AWAB AB,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
@@ -1937,17 +1954,17 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9100269,91KMBBO,NENGAH HARTANA,kopdarmobile,BANGLI,BALI,Indonesia 
 9100270,91KMVOC,R RONY ROBIANTO,kopdarmobile,JAKARTA BARAT,JAKARTA,Indonesia 
 9100271,91KMOKO,JAKA SATMOKO,kopdarmobile,KULON PROGO,YOGYAKARTA,Indonesia 
-9100272,91KMDBF,MARCUS WELLY KRI,kopdarmobile,BEKASI,JAWA BARAT,Indonesia 
+9100272,91KMDBF,MARCUS WELLY KRI,kopdarmobile,BEKASI,JABAR,Indonesia 
 9100273,91KMANA,ANANG HIDAYAT,kopdarmobile,SLEMAN,YOGYAKARTA,Indonesia 
 9100274,91KMOZL,FAKHRURRAZI,kopdarmobile,ACEH TIMUR,ACEH,Indonesia 
 9100275,91KMSSS,SUMADI,kopdarmobile,SLEMAN,YOGYAKARTA,Indonesia 
 9100276,91KMAMQ,DANIEL ANTHONI S,kopdarmobile,AMBON,MALUKU,Indonesia 
 9100277,91KMYES,I MADE GDE PARTH,kopdarmobile,GIANYAR,BALI,Indonesia 
 9100278,91KMGSM,SUHARTO,kopdarmobile,TANGERANG,BANTEN,Indonesia 
-9100279,91KMSKY,SEFI KHIRIJIL YA,kopdarmobile,CIREBON,JAWA BARAT,Indonesia 
-9100280,91KMPUG,PUGUH ARDHIANTO,kopdarmobile,SIDOARJO,JAWA TIMUR,Indonesia 
-9100281,91KMSAT,SATRIA RAMADHAN ,kopdarmobile,PURWOKERTO,JAWA TENGAH,Indonesia 
-9100282,91KMGRW,SUDIHARTO,kopdarmobile,KEBUMEN,JAWA TENGAH,Indonesia 
+9100279,91KMSKY,SEFI KHIRIJIL YA,kopdarmobile,CIREBON,JABAR,Indonesia 
+9100280,91KMPUG,PUGUH ARDHIANTO,kopdarmobile,SIDOARJO,Jatim,Indonesia 
+9100281,91KMSAT,SATRIA RAMADHAN ,kopdarmobile,PURWOKERTO,Jateng,Indonesia 
+9100282,91KMGRW,SUDIHARTO,kopdarmobile,KEBUMEN,Jateng,Indonesia 
 9100283,91KMEDI,ANDREAS EDI SUPR,kopdarmobile,BULELENG,BALI,Indonesia 
 9100284,91KMSIP,HASAN,kopdarmobile,JAKARTA UTARA,JAKARTA,Indonesia 
 9100285,91KMVSM,MOHAMAD IRVAN SA,kopdarmobile,KUTAI TIMUR,KALTIM,Indonesia 
@@ -1955,27 +1972,27 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9100287,91KMSFD,SAYID FUAD,kopdarmobile,BALIKPAPAN,KALTIM,Indonesia 
 9100288,91KMGVA,SIMON SIPENG,kopdarmobile,KUBU RAYA,KALBAR,Indonesia 
 9100289,91KMABG,BAMBANG RUDIANTO,kopdarmobile,MIMIKA,PAPUA TENGAH,Indonesia 
-9100290,91KMCBR,INDRA ISWARA LUK,kopdarmobile,BEKASI,JAWA BARAT,Indonesia 
-9100291,91KMMWD,MULYO WIDODO,kopdarmobile,MALANG,JAWA TIMUR,Indonesia 
-9100292,91KMGRT,SARIPUDIN,kopdarmobile,GARUT,JAWA BARAT,Indonesia 
-9100293,91KMABI,SEFI KHIRIJIL YA,kopdarmobile,CIREBON,JAWA BARAT,Indonesia 
+9100290,91KMCBR,INDRA ISWARA LUK,kopdarmobile,BEKASI,JABAR,Indonesia 
+9100291,91KMMWD,MULYO WIDODO,kopdarmobile,MALANG,Jatim,Indonesia 
+9100292,91KMGRT,SARIPUDIN,kopdarmobile,GARUT,JABAR,Indonesia 
+9100293,91KMABI,SEFI KHIRIJIL YA,kopdarmobile,CIREBON,JABAR,Indonesia 
 9100294,91KMIGO,EDY PAMUNGKAS,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
 9100295,91KMRYN,RYAN THAMRIN AR.,kopdarmobile,JAYAPURA,PAPUA,Indonesia 
-9100296,91KMZZZ,LAMBERTUS DWIONO,kopdarmobile,SEMARANG,JAWA TENGAH,Indonesia 
-9100297,91KMHRO,AKH. HARIYANTO,kopdarmobile,PAMEKASAN,JAWA TIMUR,Indonesia 
-9100298,91KMHWT,ADIN FACHRUDIN,kopdarmobile,DEPOK,JAWA BARAT,Indonesia 
-9100299,91KMAGO,AGUS SUPRAYITNO,kopdarmobile,CIREBON,JAWA BARAT,Indonesia 
-9100300,91KMFOG,SIGIT TRI JATMIK,kopdarmobile,BOGOR,JAWA BARAT,Indonesia 
+9100296,91KMZZZ,LAMBERTUS DWIONO,kopdarmobile,SEMARANG,Jateng,Indonesia 
+9100297,91KMHRO,AKH. HARIYANTO,kopdarmobile,PAMEKASAN,Jatim,Indonesia 
+9100298,91KMHWT,ADIN FACHRUDIN,kopdarmobile,DEPOK,JABAR,Indonesia 
+9100299,91KMAGO,AGUS SUPRAYITNO,kopdarmobile,CIREBON,JABAR,Indonesia 
+9100300,91KMFOG,SIGIT TRI JATMIK,kopdarmobile,BOGOR,JABAR,Indonesia 
 9100301,91KMILP,IRIANTO LABISA,kopdarmobile,MIMIKA,PAPUA TENGAH,Indonesia 
 9100302,91KMTPF,DODI HARYANTO,kopdarmobile,TANGERANG,BANTEN,Indonesia 
-9100303,91KMABB,MUHAMMAD ISHAQ,kopdarmobile,LUMAJANG,JAWA TIMUR,Indonesia 
-9100304,91KMGDS,FAJAR GUMILAR,kopdarmobile,TASIKMALAYA,JAWA BARAT,Indonesia 
+9100303,91KMABB,MUHAMMAD ISHAQ,kopdarmobile,LUMAJANG,Jatim,Indonesia 
+9100304,91KMGDS,FAJAR GUMILAR,kopdarmobile,TASIKMALAYA,JABAR,Indonesia 
 9100305,91KMAWL,AWALUDDIN YUNUS,kopdarmobile,LUWU TIMUR,SULSEL,Indonesia 
 9100306,91KMAZA,AHMAD REZA AULIA,kopdarmobile,TANGERANG,BANTEN,Indonesia 
 9100307,91KMRCF,RUDI HARTONO,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
 9100308,91KMJEF,JEFFRI RONI,kopdarmobile,BANDA ACEH,ACEH,Indonesia 
 9100309,91KMCAY,WILLY ISMANTRY,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
-9100310,91KMRZL,SYAFRIZAL AFFARD,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
+9100310,91KMRZL,SYAFRIZAL AFFARD,kopdarmobile,BANDUNG,JABAR,Indonesia 
 9100311,91KMFYK,PAIMAN (EYANG KA,kopdarmobile,LAMPUNG TENGAH,LAMPUNG,Indonesia 
 9100312,91KMSGT,PRADHANA NUGRAHA,kopdarmobile,TANGERANG SELATA,BANTEN,Indonesia 
 9100313,91KMBYU,C. BAYU AJI M,kopdarmobile,BANTUL,YOGYAKARTA,Indonesia 
@@ -1985,109 +2002,109 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9100317,91KMUYA,AHYAR ASDIN,kopdarmobile,KUTAI TIMUR,KALTIM,Indonesia 
 9100318,91KMHDS,HADI SUSANTO,kopdarmobile,ACEH BESAR,ACEH,Indonesia 
 9100319,91KMCYH,REZA MUHARRAM HA,kopdarmobile,PADANGSIDIMPUAN,SUMUT,Indonesia 
-9100320,91KMANG,ANANG NUGROHO,kopdarmobile,BANYUWANGI,JAWA TIMUR,Indonesia 
+9100320,91KMANG,ANANG NUGROHO,kopdarmobile,BANYUWANGI,Jatim,Indonesia 
 9100321,91KMIXX,AMBAR KRYDANTO,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
-9100322,91KMDDD,DODDY POERNAMADJ,kopdarmobile,SURABAYA,JAWA TIMUR,Indonesia 
-9100323,91KMNIK,AHITA CHANDRA RA,kopdarmobile,PURWOKERTO,JAWA TENGAH,Indonesia 
-9100324,91KMBDS,ATANG SUHENDAR,kopdarmobile,PANGANDARAN,JAWA BARAT,Indonesia 
-9100325,91KMKNR,KARTIKO NUR RAKH,kopdarmobile,KEBUMEN,JAWA TENGAH,Indonesia 
+9100322,91KMDDD,DODDY POERNAMADJ,kopdarmobile,SURABAYA,Jatim,Indonesia 
+9100323,91KMNIK,AHITA CHANDRA RA,kopdarmobile,PURWOKERTO,Jateng,Indonesia 
+9100324,91KMBDS,ATANG SUHENDAR,kopdarmobile,PANGANDARAN,JABAR,Indonesia 
+9100325,91KMKNR,KARTIKO NUR RAKH,kopdarmobile,KEBUMEN,Jateng,Indonesia 
 9100326,91KMBUL,ANDRIANSYAH,kopdarmobile,PALEMBANG,SUMSEL,Indonesia 
 9100327,91KMFIS,LUKMAN,kopdarmobile,SERANG,BANTEN,Indonesia 
-9100328,91KMIEA,FAISHAL TSAQIB,kopdarmobile,MADIUN,JAWA TIMUR,Indonesia 
-9100329,91KMVLS,ANANDA YUSUF ,kopdarmobile,BANDUNG BARAT,JAWA BARAT,Indonesia 
-9100330,91KMKEY,DONNY IRAWADI L,kopdarmobile,JOMBANG,JAWA TIMUR,Indonesia 
+9100328,91KMIEA,FAISHAL TSAQIB,kopdarmobile,MADIUN,Jatim,Indonesia 
+9100329,91KMVLS,ANANDA YUSUF ,kopdarmobile,BANDUNG BARAT,JABAR,Indonesia 
+9100330,91KMKEY,DONNY IRAWADI L,kopdarmobile,JOMBANG,Jatim,Indonesia 
 9100331,91KMAPO,ALI PURNOMO,kopdarmobile,JAKARTA PUSAT,JAKARTA,Indonesia 
 9100332,91KMLIM,RUDY LASUP,kopdarmobile,JAKARTA BARAT,JAKARTA,Indonesia 
 9100333,91KMSDK,LASKA HEVANDA,kopdarmobile,SERANG,BANTEN,Indonesia 
 9100334,91KMAUR,FAIZAL,kopdarmobile,PEKANBARU,RIAU,Indonesia 
 9100335,91KMARB,APRIYANTO,kopdarmobile,TABANAN,BALI,Indonesia 
 9100336,91KMMWS,MARIO WIDIARTO,kopdarmobile,JAKARTA UTARA,JAKARTA,Indonesia 
-9100337,91KMIFA,MUHAMMAD IFFA,kopdarmobile,SEMARANG,JAWA TENGAH,Indonesia 
-9100338,91KMSAC,SYAFRUDIN ADHI C,kopdarmobile,SEMARANG,JAWA TENGAH,Indonesia 
-9100339,91KMTON,ANTON HENDRAWAN,kopdarmobile,BANYUWANGI,JAWA TIMUR,Indonesia 
-9100340,91KMAKH,IWAN RAPSODI,kopdarmobile,DEPOK,JAWA BARAT,Indonesia 
-9100341,91KMETA,EKE TRIO ARTO,kopdarmobile,LAMONGAN,JAWA TIMUR,Indonesia 
+9100337,91KMIFA,MUHAMMAD IFFA,kopdarmobile,SEMARANG,Jateng,Indonesia 
+9100338,91KMSAC,SYAFRUDIN ADHI C,kopdarmobile,SEMARANG,Jateng,Indonesia 
+9100339,91KMTON,ANTON HENDRAWAN,kopdarmobile,BANYUWANGI,Jatim,Indonesia 
+9100340,91KMAKH,IWAN RAPSODI,kopdarmobile,DEPOK,JABAR,Indonesia 
+9100341,91KMETA,EKE TRIO ARTO,kopdarmobile,LAMONGAN,Jatim,Indonesia 
 9100342,91KMBNN,HENDRAWAN WIJAYA,kopdarmobile,MEDAN,SUMUT,Indonesia 
 9100343,91KMADS,ADI SANTOSO,kopdarmobile,LAMPUNG TIMUR,LAMPUNG,Indonesia 
 9100344,91KMYUS,YUSTINUS ELIAKIM,kopdarmobile,SIBOLGA,SUMUT,Indonesia 
-9100345,91KMBOS,MUHAMMAD KURNIAW,kopdarmobile,SEMARANG,JAWA TENGAH,Indonesia 
-9100346,91KMGSA,AHMAD AZAM KURNI,kopdarmobile,SEMARANG,JAWA TENGAH,Indonesia 
+9100345,91KMBOS,MUHAMMAD KURNIAW,kopdarmobile,SEMARANG,Jateng,Indonesia 
+9100346,91KMGSA,AHMAD AZAM KURNI,kopdarmobile,SEMARANG,Jateng,Indonesia 
 9100347,91KMCBS,DONNY HIMAWAN,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
 9100348,91KMDAN,DANI DWI PRASETY,kopdarmobile,TANGERANG SELATA,BANTEN,Indonesia 
-9100349,91KMEUR,AGUNG SLAMET HAR,kopdarmobile,CIREBON,JAWA BARAT,Indonesia 
+9100349,91KMEUR,AGUNG SLAMET HAR,kopdarmobile,CIREBON,JABAR,Indonesia 
 9100350,91KMEEN,HENDRY SYAWAL,kopdarmobile,DELI SERDANG,SUMUT,Indonesia 
 9100351,91KMSUS,SUSANTO,kopdarmobile,MEDAN,SUMUT,Indonesia 
-9100352,91KMJOK,JOKO WIJAKSONO,kopdarmobile,SIDOARJO,JAWA TIMUR,Indonesia 
-9100353,91KMMMM,EKO SETIJONO,kopdarmobile,WONOGIRI,JAWA TENGAH,Indonesia 
+9100352,91KMJOK,JOKO WIJAKSONO,kopdarmobile,SIDOARJO,Jatim,Indonesia 
+9100353,91KMMMM,EKO SETIJONO,kopdarmobile,WONOGIRI,Jateng,Indonesia 
 9100354,91KMDPP,DARMA P PERANGIN,kopdarmobile,MEDAN,SUMUT,Indonesia 
 9100355,91KMARG,WULFRAM MARGONO,kopdarmobile,SLEMAN,YOGYAKARTA,Indonesia 
 9100356,91KMFBI,F SULISTYANTO,kopdarmobile,MEDAN,SUMUT,Indonesia 
 9100357,91KMJKO,HENRY MUJOKO,kopdarmobile,JAKARTA UTARA,JAKARTA,Indonesia 
 9100358,91KMANF,ANTON FATAHILLAH,kopdarmobile,SLEMAN,YOGYAKARTA,Indonesia 
-9100359,91KMNNN,AGUNG TRIASDONO,kopdarmobile,WONOGIRI,JAWA TIMUR,Indonesia 
-9100360,91KMSAY,SEBASTIANUS ARIS,kopdarmobile,BOGOR,JAWA BARAT,Indonesia 
+9100359,91KMNNN,AGUNG TRIASDONO,kopdarmobile,WONOGIRI,Jatim,Indonesia 
+9100360,91KMSAY,SEBASTIANUS ARIS,kopdarmobile,BOGOR,JABAR,Indonesia 
 9100361,91KMOWO,FITRI ARIBOWO,kopdarmobile,LANGSA,ACEH,Indonesia 
 9100362,91KMUMK,MOCHAMMAD NAFFIA,kopdarmobile,BULUNGAN,KALTARA,Indonesia 
 9100363,91KMRIE,ARIE YUSRIAL,kopdarmobile,PADANG,SUMBAR,Indonesia 
-9100364,91KMIXM,DIAN HERMAWAN,kopdarmobile,CIAMIS,JAWA BARAT,Indonesia 
+9100364,91KMIXM,DIAN HERMAWAN,kopdarmobile,CIAMIS,JABAR,Indonesia 
 9100365,91KMAQP,NOVA INDRA,kopdarmobile,PADANG PANJANG,SUMBAR,Indonesia 
-9100366,91KMARS,ARIS HARYONO,kopdarmobile,BLORA,JAWA TENGAH,Indonesia 
-9100367,91KMDEA,DRAGAN AGRIYADI,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
+9100366,91KMARS,ARIS HARYONO,kopdarmobile,BLORA,Jateng,Indonesia 
+9100367,91KMDEA,DRAGAN AGRIYADI,kopdarmobile,BANDUNG,JABAR,Indonesia 
 9100368,91KMBCU,RIAN BARLI,kopdarmobile,JAKARTA TIMUR,JAKARTA,Indonesia 
 9100369,91KMGTR,MOHAMMAD BISRI,kopdarmobile,JAKARTA BARAT,JAKARTA,Indonesia 
 9100370,91KMAPM,RADI ALFURQANI,kopdarmobile,PADANG PANJANG,SUMBAR,Indonesia 
-9100371,91KMZRW,ZEPRI RAHMAT WITJAKSONO,kopdarmobile,SURABAYA,JAWA TIMUR,Indonesia 
-9100372,91KMRES,ARIES HERRY AFFANDY,kopdarmobile,MALANG,JAWA TIMUR,Indonesia 
-9100373,91KMAAX,FAJAR SETIAWAN,kopdarmobile,GRESIK,JAWA TIMUR,Indonesia 
+9100371,91KMZRW,ZEPRI RAHMAT WITJAKSONO,kopdarmobile,SURABAYA,Jatim,Indonesia 
+9100372,91KMRES,ARIES HERRY AFFANDY,kopdarmobile,MALANG,Jatim,Indonesia 
+9100373,91KMAAX,FAJAR SETIAWAN,kopdarmobile,GRESIK,Jatim,Indonesia 
 9100374,91KMAAB,JIMMY EDWARD,kopdarmobile,JAKARTA SELATAN,JAKARTA,Indonesia 
 9100375,91KMBOSS,HENDRA GUNAWAN,kopdarmobile,KOTAWARINGIN BARAT,KALTENG,Indonesia 
 9100376,91KMJHON,HOLILI,kopdarmobile,DELI SERDANG,SUMUT,Indonesia 
 9100377,91KMDEN,DENY SYAPUTRA,kopdarmobile,PADANG PANJANG,SUMBAR,Indonesia 
 9100378,91KMJOG,MUH. TSAQIB ABDUL AZIZ,kopdarmobile,SLEMAN,YOGYAKARTA,Indonesia 
 9100379,91KMNUR,NURDIN,kopdarmobile,JAKARTA BARAT,JAKARTA,Indonesia 
-9100380,91KMHTS,AGUS SUPRIYONO,kopdarmobile,BANYUWANGI,JAWA TIMUR,Indonesia 
-9100381,91KMPEP,CIPTA ENDYANA,kopdarmobile,BANDUNG,JAWA BARAT,Indonesia 
+9100380,91KMHTS,AGUS SUPRIYONO,kopdarmobile,BANYUWANGI,Jatim,Indonesia 
+9100381,91KMPEP,CIPTA ENDYANA,kopdarmobile,BANDUNG,JABAR,Indonesia 
 9100382,91KMUDY,MUDDASSIR,kopdarmobile,KEPULAUAN SELAYAR,SULSEL,Indonesia 
-9100383,91KMBGI,ALIFUSBAN INDRA CAHYA,kopdarmobile,BLITAR,JAWA TIMUR,Indonesia 
-9100384,91KMRPM,RUM PATRIA MISA,kopdarmobile,NGANJUK,JAWA TIMUR,Indonesia 
-9100385,91KMJRY,MOCH. DJERIER ATHBARY,kopdarmobile,SURABAYA,JAWA TIMUR,Indonesia 
+9100383,91KMBGI,ALIFUSBAN INDRA CAHYA,kopdarmobile,BLITAR,Jatim,Indonesia 
+9100384,91KMRPM,RUM PATRIA MISA,kopdarmobile,NGANJUK,Jatim,Indonesia 
+9100385,91KMJRY,MOCH. DJERIER ATHBARY,kopdarmobile,SURABAYA,Jatim,Indonesia 
 9100386,91KMRV,M. RAVI ABDULLAH,kopdarmobile,KOTABARU,KALSEL,Indonesia 
-9100387,91KMEYE,MARI PERMANA,kopdarmobile,DEPOK,JAWA BARAT,Indonesia 
+9100387,91KMEYE,MARI PERMANA,kopdarmobile,DEPOK,JABAR,Indonesia 
 9100388,91KMJOZ,YOSUA IMMANUEL,kopdarmobile,PONTIANAK,KALBAR,Indonesia 
-9100389,91KMGCN,DANU WAHYONO SUWITO,kopdarmobile,MADIUN,JAWA TIMUR,Indonesia 
-280001,JZ10EGG,GILANG GUMILAR,krapdmr,TASIKMALAYA,JAWA BARAT,Indonesia 
-280002,JZ10LLB,HADIYANTO,krapdmr,BEKASI,JAWA BARAT,Indonesia 
-280003,JZ13AIV,SARJONO,krapdmr,SURABAYA,JAWA TIMUR,Indonesia 
-280004,JZ13NBM,SUHARTO,krapdmr,SURABAYA,JAWA TIMUR,Indonesia 
-280005,JZ13AGU,FIRMAN HIDAYAT,krapdmr,SURABAYA,JAWA TIMUR,Indonesia 
+9100389,91KMGCN,DANU WAHYONO SUWITO,kopdarmobile,MADIUN,Jatim,Indonesia 
+280001,JZ10EGG,GILANG GUMILAR,krapdmr,TASIKMALAYA,JABAR,Indonesia 
+280002,JZ10LLB,HADIYANTO,krapdmr,BEKASI,JABAR,Indonesia 
+280003,JZ13AIV,SARJONO,krapdmr,SURABAYA,Jatim,Indonesia 
+280004,JZ13NBM,SUHARTO,krapdmr,SURABAYA,Jatim,Indonesia 
+280005,JZ13AGU,FIRMAN HIDAYAT,krapdmr,SURABAYA,Jatim,Indonesia 
 280006,JZ09AGV,AMIRRUL IMAN,krapdmr,JAKARTA,JAKARTA,Indonesia 
 280007,JZ02EAB,ALI AKBAR,krapdmr,LANGKAT,SUMUT,Indonesia 
 280008,JZ14AYH,REDDIYANTO SOENG,krapdmr,BADUNG,BALI,Indonesia 
 280009,JZ02EMY,DHANYAR WINDHARM,krapdmr,TOBA,SUMUT,Indonesia 
-280010,JZ10ISO,ANWARI,krapdmr,CIREBON,JAWA BARAT,Indonesia 
-280011,JZ10HZR,PURNAMA,krapdmr,TASIKMALAYA,JAWA BARAT,Indonesia 
-280012,JZ10GBZ,IWAN HERMAWAN,krapdmr,BEKASI,JAWA BARAT,Indonesia 
+280010,JZ10ISO,ANWARI,krapdmr,CIREBON,JABAR,Indonesia 
+280011,JZ10HZR,PURNAMA,krapdmr,TASIKMALAYA,JABAR,Indonesia 
+280012,JZ10GBZ,IWAN HERMAWAN,krapdmr,BEKASI,JABAR,Indonesia 
 280013,JZ15BW,LALU BALYA WIRAN,krapdmr,,,Indonesia 
 280014,JZ30TOA,OKTALIO WAHYUDI,krapdmr,,,Indonesia 
-280015,JZ13FCH,SUBHAN FAJAR SID,krapdmr,BANGKALAN,JAWA TIMUR,Indonesia 
+280015,JZ13FCH,SUBHAN FAJAR SID,krapdmr,BANGKALAN,Jatim,Indonesia 
 280016,JZ02AJF,ABU SOFYAN,krapdmr,,,Indonesia 
 280017,JZ35BDT,MUHAMMAD POWER Y,krapdmr,,PAPBADA,Indonesia 
-280018,JZ13BKQ,BETANTYO WISNU H,krapdmr,BANGKALAN,JAWA TIMUR,Indonesia 
+280018,JZ13BKQ,BETANTYO WISNU H,krapdmr,BANGKALAN,Jatim,Indonesia 
 280019,JZ35ACX,TRI BUDI IRIANTO,krapdmr,SORONG,PAPBADA,Indonesia 
 280020,JZ35AEY,MOHAMAD FERDINAN,krapdmr,,PAPBADA,Indonesia 
-280021,JZ10ARU,AYODYA HANINDITO,krapdmr,,JAWA BARAT,Indonesia 
-280022,JZ10DSC,AGUS RAHMAN HIDA,krapdmr,,JAWA BARAT,Indonesia 
-280023,JZ11AAA,MUGIONO,krapdmr,,JAWA TENGAH,Indonesia 
+280021,JZ10ARU,AYODYA HANINDITO,krapdmr,,JABAR,Indonesia 
+280022,JZ10DSC,AGUS RAHMAN HIDA,krapdmr,,JABAR,Indonesia 
+280023,JZ11AAA,MUGIONO,krapdmr,,Jateng,Indonesia 
 280024,JZ01COZ,HASNUL ZULFA HS,krapdmr,,,Indonesia 
 280025,JZ12AXC,BAMBANG ANGGORO ,krapdmr,SLEMAN,YOGYAKARTA,Indonesia 
-280026,JZ10HJA,UDIN ASRORUDIN,krapdmr,,JAWA BARAT,Indonesia 
+280026,JZ10HJA,UDIN ASRORUDIN,krapdmr,,JABAR,Indonesia 
 280027,JZ09AMW,AGUS PAMBUDI,krapdmr,,,Indonesia 
 280028,JZ35AP,ATOK PRASETYO,krapdmr,SORONG,PAPBADA,Indonesia 
-280029,JZ11LXJ,IR.T MAHYUL FATA,krapdmr,CILACAP,JAWA TENGAH,Indonesia 
+280029,JZ11LXJ,IR.T MAHYUL FATA,krapdmr,CILACAP,Jateng,Indonesia 
 280030,JZ09RAH,ABDULLAH SYAFEI,krapdmr,,,Indonesia 
 280031,JZ13CKB,HERA PAGIANA,krapdmr,,,Indonesia 
 280032,JZ35AAK,FIRST NURUL JULI,krapdmr,,PAPBADA,Indonesia 
-280033,JZ10FAFL,IR.RUDY SETYAWAN,krapdmr,,JAWA BARAT,Indonesia 
+280033,JZ10FAFL,IR.RUDY SETYAWAN,krapdmr,,JABAR,Indonesia 
 280034,JZ09AST,RAHMAD RIZANI,krapdmr,,,Indonesia 
 280035,JZ09ACI,NICO PRAWIRA,krapdmr,,,Indonesia 
 280036,JZ35BS,SUKATELIN,krapdmr,,PAPBADA,Indonesia 
@@ -2111,24 +2128,24 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280054,JZ29AFQ,AFRIANSYAH,krapdmr,,,Indonesia 
 280055,JZ30BHZ,KEVIN SUBAKTI,krapdmr,,,Indonesia 
 280056,JZ29BZS,SONY WILSTON IMB,krapdmr,,,Indonesia 
-280057,JZ11BTS,PARSONO,krapdmr,PEKALONGAN,JAWA TENGAH,Indonesia 
-280058,JZ10EKS,ASEP SAMSUL ISKA,krapdmr,,JAWA BARAT,Indonesia 
-280059,JZ10EDV,ANDI RAHMAN,krapdmr,,JAWA BARAT,Indonesia 
+280057,JZ11BTS,PARSONO,krapdmr,PEKALONGAN,Jateng,Indonesia 
+280058,JZ10EKS,ASEP SAMSUL ISKA,krapdmr,,JABAR,Indonesia 
+280059,JZ10EDV,ANDI RAHMAN,krapdmr,,JABAR,Indonesia 
 280060,JZ29BOR,RAMLAN ADRIAN,krapdmr,,,Indonesia 
 280061,JZ04MGW,GUSWERI,krapdmr,,,Indonesia 
-280062,JZ10EEB,JAPAR SIDIK,krapdmr,,JAWA BARAT,Indonesia 
-280063,JZ10EML,AGUS NUGRAHA,krapdmr,,JAWA BARAT,Indonesia 
+280062,JZ10EEB,JAPAR SIDIK,krapdmr,,JABAR,Indonesia 
+280063,JZ10EML,AGUS NUGRAHA,krapdmr,,JABAR,Indonesia 
 280064,JZ35VE,VICTOR EDYSON,krapdmr,,PAPBADA,Indonesia 
-280065,JZ10HBC,ASEP SADELI DAHL,krapdmr,,JAWA BARAT,Indonesia 
+280065,JZ10HBC,ASEP SADELI DAHL,krapdmr,,JABAR,Indonesia 
 280066,JZ12AVO,EKO SUSANTO,krapdmr,,,Indonesia 
 280067,JZ13DPX,NAUFAL HAFIZ SUB,krapdmr,,,Indonesia 
 280068,JZ13BNY,ZAINURI,krapdmr,,,Indonesia 
-280069,JZ10ESH,MARIYANTO,krapdmr,,JAWA BARAT,Indonesia 
-280070,JZ11WEZ,AKHMAD DHOHRI,krapdmr,,JAWA TENGAH,Indonesia 
+280069,JZ10ESH,MARIYANTO,krapdmr,,JABAR,Indonesia 
+280070,JZ11WEZ,AKHMAD DHOHRI,krapdmr,,Jateng,Indonesia 
 280071,JZ35SZE,FAJRI RAMADHANI,krapdmr,,PAPBADA,Indonesia 
 280072,JZ29AFP,MAULANA AKBAR FA,krapdmr,,,Indonesia 
 280073,JZ18ACK,SUTAN P. LUBIS,krapdmr,,,Indonesia 
-280074,JZ10EEI,E. GUNAWAN,krapdmr,,JAWA BARAT,Indonesia 
+280074,JZ10EEI,E. GUNAWAN,krapdmr,,JABAR,Indonesia 
 280075,JZ04AHU,JOHAN GOZALI,krapdmr,,,Indonesia 
 280076,JZ13AZL,SUPRIYADI,krapdmr,,,Indonesia 
 280077,JZ12ANT,YUDHA BAGAS RIZA,krapdmr,,,Indonesia 
@@ -2243,19 +2260,19 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280186,JZ02IDY,NGATEMIN,krapdmr,,,Indonesia 
 280187,JZ12ACN,ANTHONI CAHYO NO,krapdmr,,,Indonesia 
 280188,JZ29BCC,JHONAL THIO,krapdmr,MANOKWARI,PAPUA BARAT,Indonesia 
-280189,JZ10IBM,EKA WIJAYA,krapdmr,CIREBON,JAWA BARAT,Indonesia 
-280190,JZ10IAH,AKHMAD MULIAWAN,krapdmr,,JAWA BARAT,Indonesia 
+280189,JZ10IBM,EKA WIJAYA,krapdmr,CIREBON,JABAR,Indonesia 
+280190,JZ10IAH,AKHMAD MULIAWAN,krapdmr,,JABAR,Indonesia 
 280191,JZ02HFP,YUSTINUS WARUWU,krapdmr,,,Indonesia 
 280192,JZ05ENL,ZAINAL ABIDIN,krapdmr,,,Indonesia 
 280193,JZ13AHI,DONNY NUGROHO DW,krapdmr,,,Indonesia 
-280194,JZ10HPC,HENDRIK SAPUTRA,krapdmr,,JAWA BARAT,Indonesia 
+280194,JZ10HPC,HENDRIK SAPUTRA,krapdmr,,JABAR,Indonesia 
 280195,JZ27WTC,ZAENURI,krapdmr,,,Indonesia 
 280196,JZ05EGN,GUNANTO,krapdmr,,,Indonesia 
-280197,JZ10BYI,YUDI IRAWAN,krapdmr,,JAWA BARAT,Indonesia 
-280198,JZ10BTC,RADDY IRMAWAN,krapdmr,,JAWA BARAT,Indonesia 
+280197,JZ10BYI,YUDI IRAWAN,krapdmr,,JABAR,Indonesia 
+280198,JZ10BTC,RADDY IRMAWAN,krapdmr,,JABAR,Indonesia 
 280199,JZ13XSQ,MACHMUD,krapdmr,,,Indonesia 
 280200,JZ27AMT,SUDIARSO,krapdmr,,,Indonesia 
-280201,JZ10BLE,KOMARA ABDULKADI,krapdmr,,JAWA BARAT,Indonesia 
+280201,JZ10BLE,KOMARA ABDULKADI,krapdmr,,JABAR,Indonesia 
 280202,JZ31BAA,HOLIL AZMI,krapdmr,,,Indonesia 
 280203,JZ09ATT,MICHAEL,krapdmr,,,Indonesia 
 280204,JZ02BDO,HENDRAWAN WIJAYA,krapdmr,,,Indonesia 
@@ -2264,17 +2281,17 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280207,JZ27AGQ,TUMAKUN MUJI SLA,krapdmr,,,Indonesia 
 280208,JZ04ASX,AMIR SUBAGYA,krapdmr,,,Indonesia 
 280209,JZ04ADC,SUHARYONO,krapdmr,,,Indonesia 
-280210,JZ10LACR,MUHAMMAD RIZKY L,krapdmr,,JAWA BARAT,Indonesia 
+280210,JZ10LACR,MUHAMMAD RIZKY L,krapdmr,,JABAR,Indonesia 
 280211,JZ13QRK,HARYADI,krapdmr,,,Indonesia 
 280212,JZ05EZO,SADI SAPUTRA,krapdmr,,,Indonesia 
 280213,JZ13DPL,ISNANTORO,krapdmr,,,Indonesia 
-280214,JZ10LFG,GIRI PURNAMA,krapdmr,,JAWA BARAT,Indonesia 
+280214,JZ10LFG,GIRI PURNAMA,krapdmr,,JABAR,Indonesia 
 280215,JZ04FBN,BUYUNG IQBAL NUR,krapdmr,,,Indonesia 
-280216,JZ10FXM,YUSUP SOFIAN,krapdmr,,JAWA BARAT,Indonesia 
+280216,JZ10FXM,YUSUP SOFIAN,krapdmr,,JABAR,Indonesia 
 280217,JZ04BCF,JM. JHONI,krapdmr,,,Indonesia 
 280218,JZ02MPT,ALUIBUDI HULU,krapdmr,,,Indonesia 
 280219,JZ28HDX,MUHAMMAD GADRI A,krapdmr,,,Indonesia 
-280220,JZ10BDH,DINDIN HUNADI,krapdmr,,JAWA BARAT,Indonesia 
+280220,JZ10BDH,DINDIN HUNADI,krapdmr,,JABAR,Indonesia 
 280221,JZ23EB,BUDIHARTO,krapdmr,,,Indonesia 
 280222,JZ32UTS,SUCIPTO ABDULLAH,krapdmr,,,Indonesia 
 280223,JZ12APL,AGUNG PAMBUDI PR,krapdmr,,,Indonesia 
@@ -2284,7 +2301,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280227,JZ12BFW,STARKY AJI,krapdmr,,,Indonesia 
 280228,JZ04AFM,MURNIATI,krapdmr,,,Indonesia 
 280229,JZ21BRG,ROI GHOFUR,krapdmr,,,Indonesia 
-280230,JZ10PCP,ANDHIKA PERMANA,krapdmr,,JAWA BARAT,Indonesia 
+280230,JZ10PCP,ANDHIKA PERMANA,krapdmr,,JABAR,Indonesia 
 280231,JZ02GAC,SERGIUS LAY,krapdmr,,,Indonesia 
 280232,JZ02HOT,ELINUS WARUWU,krapdmr,,,Indonesia 
 280233,JZ02GHO,ANTONIUS SUKRAN,krapdmr,,,Indonesia 
@@ -2294,7 +2311,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280237,JZ13AWB,MOH. RUDI,krapdmr,,,Indonesia 
 280238,JZ29AA,SUTOWO,krapdmr,,,Indonesia 
 280239,JZ05ABJ,TAUFIK WALIGAR,krapdmr,,,Indonesia 
-280240,JZ10EKD,ANGGRIYAN FIRNAN,krapdmr,,JAWA BARAT,Indonesia 
+280240,JZ10EKD,ANGGRIYAN FIRNAN,krapdmr,,JABAR,Indonesia 
 280241,JZ04ACE,DAVIDCY,krapdmr,,,Indonesia 
 280242,JZ05AHK,BUDIMAN,krapdmr,,,Indonesia 
 280243,JZ13EZE,ABDUL LATIF,krapdmr,,,Indonesia 
@@ -2302,30 +2319,30 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280245,JZ13YII,HADI MULJONO,krapdmr,,,Indonesia 
 280246,JZ19RV,M. RAVI ABDULLAH,krapdmr,,,Indonesia 
 280247,JZ12AZA,ILHAM JOHAN,krapdmr,,,Indonesia 
-280248,JZ11REV,M SYARIFUDIN,krapdmr,,JAWA TENGAH,Indonesia 
+280248,JZ11REV,M SYARIFUDIN,krapdmr,,Jateng,Indonesia 
 280249,JZ30TPF,DODI HARYANTO,krapdmr,,,Indonesia 
-280250,JZ10AWF,SUGENG HARYANTO,krapdmr,,JAWA BARAT,Indonesia 
-280251,JZ10BNX,ASEP AGUSTIAN,krapdmr,,JAWA BARAT,Indonesia 
+280250,JZ10AWF,SUGENG HARYANTO,krapdmr,,JABAR,Indonesia 
+280251,JZ10BNX,ASEP AGUSTIAN,krapdmr,,JABAR,Indonesia 
 280252,JZ09LVN,RIFQI AHMADI PER,krapdmr,,,Indonesia 
 280253,JZ02HRS,RIDUAN SINAGA,krapdmr,,,Indonesia 
-280254,JZ10MAAG,ANDI RAHMAN,krapdmr,,JAWA BARAT,Indonesia 
-280255,JZ10MACP,ACEP SUHENDRI,krapdmr,,JAWA BARAT,Indonesia 
+280254,JZ10MAAG,ANDI RAHMAN,krapdmr,,JABAR,Indonesia 
+280255,JZ10MACP,ACEP SUHENDRI,krapdmr,,JABAR,Indonesia 
 280256,JZ24AKQ,YURI AGUNG,krapdmr,,,Indonesia 
 280257,JZ24AMY,YURIADI,krapdmr,,,Indonesia 
 280258,JZ09EIC,DAMAUS RAJENDRA,krapdmr,,,Indonesia 
 280259,JZ09ADW,HUBERTUS O OKTAF,krapdmr,,,Indonesia 
-280260,JZ10XPI,YUDHA INDRAJAYA,krapdmr,,JAWA BARAT,Indonesia 
+280260,JZ10XPI,YUDHA INDRAJAYA,krapdmr,,JABAR,Indonesia 
 280261,JZ01BHW,ARI MUNANDAR (GE,krapdmr,,,Indonesia 
 280262,JZ01CSG,SYAIFUL ANSHORI,krapdmr,,,Indonesia 
 280263,JZ15ANN,RAHMA ISTIAWAN,krapdmr,,,Indonesia 
-280264,JZ11FBS,BACHTIAR EKA SIA,krapdmr,,JAWA TENGAH,Indonesia 
+280264,JZ11FBS,BACHTIAR EKA SIA,krapdmr,,Jateng,Indonesia 
 280265,JZ02ATZ,BENNY YUDI PURNA,krapdmr,,,Indonesia 
 280266,JZ02AYJ,IRWANSYAH ZEIN,krapdmr,,,Indonesia 
 280267,JZ08BSE,DWORO UDONO,krapdmr,,,Indonesia 
 280268,JZ09AUO,M SATRIA WIBAWA,krapdmr,,,Indonesia 
-280269,JZ11BSL,BAMBANG PRAMUDYA,krapdmr,,JAWA TENGAH,Indonesia 
+280269,JZ11BSL,BAMBANG PRAMUDYA,krapdmr,,Jateng,Indonesia 
 280270,JZ04ERM,ROMI,krapdmr,,,Indonesia 
-280271,JZ10DTN,ZALDY RACHMAT,krapdmr,,JAWA BARAT,Indonesia 
+280271,JZ10DTN,ZALDY RACHMAT,krapdmr,,JABAR,Indonesia 
 280272,JZ13DNL,EKO NOPI YANTO Q,krapdmr,,,Indonesia 
 280273,JZ13PJE,YOYOK YONATAN,krapdmr,,,Indonesia 
 280274,JZ15ACS,AMANAH,krapdmr,,,Indonesia 
@@ -2343,16 +2360,16 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280286,JZ13FJD,AHMAD DARMAWAN,krapdmr,,,Indonesia 
 280287,JZ20DAE,WAHYUDI PRATAMA,krapdmr,,,Indonesia 
 280288,JZ30BIE,DODI OKTARINO,krapdmr,,,Indonesia 
-280289,JZ10FAMJ,MUCHLIS JAFAR,krapdmr,,JAWA BARAT,Indonesia 
-280290,JZ10FEQ,BUDI CAHYADI,krapdmr,,JAWA BARAT,Indonesia 
+280289,JZ10FAMJ,MUCHLIS JAFAR,krapdmr,,JABAR,Indonesia 
+280290,JZ10FEQ,BUDI CAHYADI,krapdmr,,JABAR,Indonesia 
 280291,JZ22AHG,ERWIN IRAWAN GUL,krapdmr,,,Indonesia 
-280292,JZ10EES,TATAN KURNIA,krapdmr,,JAWA BARAT,Indonesia 
-280293,JZ10ECN,HADIAT RS,krapdmr,,JAWA BARAT,Indonesia 
+280292,JZ10EES,TATAN KURNIA,krapdmr,,JABAR,Indonesia 
+280293,JZ10ECN,HADIAT RS,krapdmr,,JABAR,Indonesia 
 280294,JZ30BIF,MOH. SYAMSUL ARI,krapdmr,,,Indonesia 
 280295,JZ02IBA,HENDRO SUSILO,krapdmr,,,Indonesia 
-280296,JZ10IKA,FX ARIF GILARSUN,krapdmr,,JAWA BARAT,Indonesia 
+280296,JZ10IKA,FX ARIF GILARSUN,krapdmr,,JABAR,Indonesia 
 280297,JZ04BKE,DENY AFRIZAN,krapdmr,,,Indonesia 
-280298,JZ10EZW,AGUS YULIANTO,krapdmr,,JAWA BARAT,Indonesia 
+280298,JZ10EZW,AGUS YULIANTO,krapdmr,,JABAR,Indonesia 
 280299,JZ32QZG,WANDRIS IBRAHIM,krapdmr,,,Indonesia 
 280300,JZ04AJM,ARIF ROHMAN,krapdmr,,,Indonesia 
 280301,JZ09AWE,RIZKA SETIAWAN,krapdmr,,,Indonesia 
@@ -2372,15 +2389,15 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280315,JZ14BBR,I PUTU ADI YANA,krapdmr,,,Indonesia 
 280316,JZ14WIR,PUTU WIRA ADNYAN,krapdmr,,,Indonesia 
 280317,JZ04AHY,ERZAN SYAH,krapdmr,,,Indonesia 
-280318,JZ10GADC,BAMBANG WIDYATMI,krapdmr,,JAWA BARAT,Indonesia 
+280318,JZ10GADC,BAMBANG WIDYATMI,krapdmr,,JABAR,Indonesia 
 280319,JZ22AHJ,REVIND LEWAN,krapdmr,,,Indonesia 
-280320,JZ10EF,RUDY HIDANA,krapdmr,,JAWA BARAT,Indonesia 
+280320,JZ10EF,RUDY HIDANA,krapdmr,,JABAR,Indonesia 
 280321,JZ09APQ,HELDIAN PURWANTO,krapdmr,,,Indonesia 
-280322,JZ10IAN,TOTO SANTOSO,krapdmr,,JAWA BARAT,Indonesia 
+280322,JZ10IAN,TOTO SANTOSO,krapdmr,,JABAR,Indonesia 
 280323,JZ14ALM,I NYOMAN PUTRAWA,krapdmr,,,Indonesia 
-280324,JZ11FCF,IGN SUTOPO TEGUH,krapdmr,,JAWA TENGAH,Indonesia 
-280325,JZ11TGN,SUDIANTO,krapdmr,,JAWA TENGAH,Indonesia 
-280326,JZ10IPF,ARIEF HARYONO,krapdmr,,JAWA BARAT,Indonesia 
+280324,JZ11FCF,IGN SUTOPO TEGUH,krapdmr,,Jateng,Indonesia 
+280325,JZ11TGN,SUDIANTO,krapdmr,,Jateng,Indonesia 
+280326,JZ10IPF,ARIEF HARYONO,krapdmr,,JABAR,Indonesia 
 280327,JZ04ERL,WAN CHAIRUDDIN S,krapdmr,,,Indonesia 
 280328,JZ04EAU,BASRIN,krapdmr,,,Indonesia 
 280329,JZ09JKI,ABRAHAM NOKE,krapdmr,,,Indonesia 
@@ -2390,10 +2407,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280333,JZ14RPO,I GUSTI AGUNG GE,krapdmr,,,Indonesia 
 280334,JZ26CT,ABDUL CHALIK USM,krapdmr,,,Indonesia 
 280335,JZ17ABM,NIRWANSYAH,krapdmr,,,Indonesia 
-280336,JZ10PBL,DANI RODIANI,krapdmr,,JAWA BARAT,Indonesia 
+280336,JZ10PBL,DANI RODIANI,krapdmr,,JABAR,Indonesia 
 280337,JZ35ASI,MANAN MAULUD,krapdmr,,PAPBADA,Indonesia 
 280338,JZ05BCW,AWANG SUMARDI,krapdmr,,,Indonesia 
-280339,JZ10WAS,ADE SUHADA,krapdmr,,JAWA BARAT,Indonesia 
+280339,JZ10WAS,ADE SUHADA,krapdmr,,JABAR,Indonesia 
 280340,JZ30BQO,SIDIQ PURNOMO AG,krapdmr,,,Indonesia 
 280341,JZ35AZY,ISMAIL,krapdmr,,PAPBADA,Indonesia 
 280342,JZ35AAX,HAIDARNIATI MAGU,krapdmr,,PAPBADA,Indonesia 
@@ -2403,7 +2420,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280346,JZ02MHZ,M. HARIS ZALUKHU,krapdmr,,,Indonesia 
 280347,JZ22TNJ,ERON ALBERTO TAM,krapdmr,,,Indonesia 
 280348,JZ14PLW,PUTU WIBAWA ARJA,krapdmr,,,Indonesia 
-280349,JZ10EHM,HUSNI MUBAROK,krapdmr,,JAWA BARAT,Indonesia 
+280349,JZ10EHM,HUSNI MUBAROK,krapdmr,,JABAR,Indonesia 
 280350,JZ13AHO,SATRIYA ADI UTAM,krapdmr,,,Indonesia 
 280351,JZ13DSZ,ITMAMUL WAFA,krapdmr,,,Indonesia 
 280352,JZ22RA,ANTONIUS MARAMIS,krapdmr,,,Indonesia 
@@ -2411,24 +2428,24 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280354,JZ04BEE,SYAIPUL ANNOER,krapdmr,,,Indonesia 
 280355,JZ13FVK,MOHAMMAD AFRIZAL,krapdmr,,,Indonesia 
 280356,JZ27CSL,DONNY LALA,krapdmr,,,Indonesia 
-280357,JZ10IQL,EDDYY SADONO,krapdmr,,JAWA BARAT,Indonesia 
+280357,JZ10IQL,EDDYY SADONO,krapdmr,,JABAR,Indonesia 
 280358,JZ13YHH,ST RUDI HERMANTO,krapdmr,,,Indonesia 
 280359,JZ09BFD,DIDIK NURHADI,krapdmr,JAKARTA SELATAN,JAKARTA,Indonesia 
 280360,JZ09EWH,IWAN BUDI DHARMA,krapdmr,,,Indonesia 
-280361,JZ10ILU,TRIBHUWANA PRIHA,krapdmr,,JAWA BARAT,Indonesia 
-280362,JZ10DHQ,AGUNG PRIYO SUBR,krapdmr,,JAWA BARAT,Indonesia 
+280361,JZ10ILU,TRIBHUWANA PRIHA,krapdmr,,JABAR,Indonesia 
+280362,JZ10DHQ,AGUNG PRIYO SUBR,krapdmr,,JABAR,Indonesia 
 280363,JZ13POF,RIBUT WIJAYA,krapdmr,,,Indonesia 
-280364,JZ10FDF,ARIYANTO,krapdmr,,JAWA BARAT,Indonesia 
+280364,JZ10FDF,ARIYANTO,krapdmr,,JABAR,Indonesia 
 280365,JZ13FQK,MUH HAFID AKBAR,krapdmr,,,Indonesia 
 280366,JZ35ADW,RIO KALIGIS,krapdmr,,PAPBADA,Indonesia 
 280367,JZ35AZG,YOHAN MANUKILY,krapdmr,,PAPBADA,Indonesia 
-280368,JZ10EJS,R Budi Hidayat,krapdmr,,JAWA BARAT,Indonesia 
-280369,JZ10AFP,SUSILO,krapdmr,,JAWA BARAT,Indonesia 
+280368,JZ10EJS,R Budi Hidayat,krapdmr,,JABAR,Indonesia 
+280369,JZ10AFP,SUSILO,krapdmr,,JABAR,Indonesia 
 280370,JZ09BRY,B. AGUS PRIAMAN,krapdmr,,,Indonesia 
 280371,JZ30BPA,ERMAN R VILLANUE,krapdmr,,,Indonesia 
-280372,JZ10HACM,NARYONO,krapdmr,,JAWA BARAT,Indonesia 
+280372,JZ10HACM,NARYONO,krapdmr,,JABAR,Indonesia 
 280373,JZ24BOT,A IMAM ZULFIKAR ,krapdmr,,,Indonesia 
-280374,JZ10CAG,ABDUL HOLID,krapdmr,,JAWA BARAT,Indonesia 
+280374,JZ10CAG,ABDUL HOLID,krapdmr,,JABAR,Indonesia 
 280375,JZ05BNP,JAMALUDDIN,krapdmr,,,Indonesia 
 280376,JZ05AMD,MAHYUDDIN,krapdmr,,,Indonesia 
 280377,JZ19BTV,SYAHBANDI RASYID,krapdmr,,,Indonesia 
@@ -2558,10 +2575,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280501,JZ12ABF,IBNU ROHMUHADI,krapdmr,,,Indonesia 
 280502,JZ12RL,DENY NUGROHO,krapdmr,,,Indonesia 
 280503,JZ02ATU,ENDY,krapdmr,,,Indonesia 
-280504,JZ10IFM,SISWANDI,krapdmr,,JAWA BARAT,Indonesia 
+280504,JZ10IFM,SISWANDI,krapdmr,,JABAR,Indonesia 
 280505,JZ02BZK,ZULFAN KELANA,krapdmr,,,Indonesia 
 280506,JZ14RZD,I NYOMAN SARMA,krapdmr,,,Indonesia 
-280507,JZ11JEH,PUJI HARTANTO,krapdmr,,JAWA TENGAH,Indonesia 
+280507,JZ11JEH,PUJI HARTANTO,krapdmr,,Jateng,Indonesia 
 280508,JZ05BRC,RAFIDAWATI,krapdmr,,,Indonesia 
 280509,JZ04ACI,DION APRILI SAPU,krapdmr,,,Indonesia 
 280510,JZ04BIQ,IFIN,krapdmr,,,Indonesia 
@@ -2576,20 +2593,20 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280519,JZ04ATD,KHAIRUL,krapdmr,,,Indonesia 
 280520,JZ04ANO,GHOZALI,krapdmr,,,Indonesia 
 280521,JZ13FUT,SURYO AGUNG,krapdmr,,,Indonesia 
-280522,JZ11WEC,FIRMAN FIRDAYANT,krapdmr,,JAWA TENGAH,Indonesia 
+280522,JZ11WEC,FIRMAN FIRDAYANT,krapdmr,,Jateng,Indonesia 
 280523,JZ17TGY,RAHMAT HIDAYAT,krapdmr,,,Indonesia 
 280524,JZ09ADT,DHETYO DWIYOGA F,krapdmr,,,Indonesia 
 280525,JZ04BNP,ANTON SAPUTRA,krapdmr,,,Indonesia 
-280526,JZ11LBE,ANTON EDIYANTO,krapdmr,,JAWA TENGAH,Indonesia 
+280526,JZ11LBE,ANTON EDIYANTO,krapdmr,,Jateng,Indonesia 
 280527,JZ28ABL,KHAIRUN MUSYARI,krapdmr,,,Indonesia 
 280528,JZ22TMS,MAX TANGKA,krapdmr,,,Indonesia 
 280529,JZ09JYF,HARIS,krapdmr,,,Indonesia 
 280530,JZ09NAD,PUTRA,krapdmr,,,Indonesia 
-280531,JZ10JTR,BUDI W,krapdmr,,JAWA BARAT,Indonesia 
+280531,JZ10JTR,BUDI W,krapdmr,,JABAR,Indonesia 
 280532,JZ02EAH,SUJONO,krapdmr,,,Indonesia 
 280533,JZ02ENU,MHD. SYSIFUDDIN,krapdmr,,,Indonesia 
 280534,JZ02EZT,JULI RIANTO,krapdmr,,,Indonesia 
-280535,JZ10HHL,LUTHFI HERRY PRA,krapdmr,,JAWA BARAT,Indonesia 
+280535,JZ10HHL,LUTHFI HERRY PRA,krapdmr,,JABAR,Indonesia 
 280536,JZ09ANT,RIZAL,krapdmr,,,Indonesia 
 280537,JZ09KAA,HANAFI,krapdmr,,,Indonesia 
 280538,JZ02HPP,PINDO PASARIBU,krapdmr,,,Indonesia 
@@ -2599,15 +2616,15 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280542,JZ09MEG,INDRA SANIF,krapdmr,,,Indonesia 
 280543,JZ09LYJ,ISWANTONO,krapdmr,,,Indonesia 
 280544,JZ04AOW,NANANG RUKMANA,krapdmr,,,Indonesia 
-280545,JZ10HABW,NANANG SURYANA,krapdmr,,JAWA BARAT,Indonesia 
+280545,JZ10HABW,NANANG SURYANA,krapdmr,,JABAR,Indonesia 
 280546,JZ14FAD,I WAYAN SENTANA ,krapdmr,,,Indonesia 
 280547,JZ09MQU,R. JEFTA HEROE P,krapdmr,,,Indonesia 
 280548,JZ09ATW,TRI PRASETYO,krapdmr,,,Indonesia 
-280549,JZ10LAAY,SAIDI IBRAHIM,krapdmr,,JAWA BARAT,Indonesia 
+280549,JZ10LAAY,SAIDI IBRAHIM,krapdmr,,JABAR,Indonesia 
 280550,JZ13OUK,TOTOK ADI WIHANT,krapdmr,,,Indonesia 
-280551,JZ11EXL,MASKUN,krapdmr,,JAWA TENGAH,Indonesia 
+280551,JZ11EXL,MASKUN,krapdmr,,Jateng,Indonesia 
 280552,JZ09AKO,ULUNG TAMTOMO,krapdmr,,,Indonesia 
-280553,JZ10HMV,AGUS ARIFIAN,krapdmr,,JAWA BARAT,Indonesia 
+280553,JZ10HMV,AGUS ARIFIAN,krapdmr,,JABAR,Indonesia 
 280554,JZ02AGZ,NOTAFATI DAELI,krapdmr,,,Indonesia 
 280555,JZ02AHB,FEBRI HENDRA EFE,krapdmr,,,Indonesia 
 280556,JZ15AMR,YUVENSIUS ABAN,krapdmr,,,Indonesia 
@@ -2619,45 +2636,45 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280562,JZ35ABM,SUGIYANTO,krapdmr,,PAPBADA,Indonesia 
 280563,JZ05APU,DHEFFY ADRIAN,krapdmr,,,Indonesia 
 280564,JZ14YPD,I KADEK DWIPA YA,krapdmr,,,Indonesia 
-280565,JZ10KMB,ANDREAS JATI PER,krapdmr,,JAWA BARAT,Indonesia 
+280565,JZ10KMB,ANDREAS JATI PER,krapdmr,,JABAR,Indonesia 
 280566,JZ01ALP,FAKRI SAPUTRA,krapdmr,,,Indonesia 
 280567,JZ13ABB,READY K. MONGI,krapdmr,,,Indonesia 
 280568,JZ01ATB,ADI ISKANDAR,krapdmr,,,Indonesia 
 280569,JZ09URK,ISWADY,krapdmr,,,Indonesia 
 280570,JZ13YIC,SUJIONO,krapdmr,,,Indonesia 
 280571,JZ02BMM,MUHAMMAD ZALDI,krapdmr,MEDAN,SUMUT,Indonesia 
-280572,JZ11JNL,BUDI SANTOSA,krapdmr,BLORA,JAWA TENGAH,Indonesia 
+280572,JZ11JNL,BUDI SANTOSA,krapdmr,BLORA,Jateng,Indonesia 
 280573,JZ15APH,I NENGAH KERTA Y,krapdmr,,,Indonesia 
 280574,JZ13FCF,AGUS WAHYUDI,krapdmr,,,Indonesia 
-280575,JZ10IBO,AGUS DANI SULIST,krapdmr,,JAWA BARAT,Indonesia 
-280576,JZ11GRW,SUDIHARTO,krapdmr,KEBUMEN,JAWA TENGAH,Indonesia 
-280577,JZ13HGL,TONI BUTAR BUTAR,krapdmr,SIDOARJO,JAWA TIMUR,Indonesia 
-280578,JZ10HGA,TJETJEP RB,krapdmr,KARAWANG,JAWA BARAT,Indonesia 
+280575,JZ10IBO,AGUS DANI SULIST,krapdmr,,JABAR,Indonesia 
+280576,JZ11GRW,SUDIHARTO,krapdmr,KEBUMEN,Jateng,Indonesia 
+280577,JZ13HGL,TONI BUTAR BUTAR,krapdmr,SIDOARJO,Jatim,Indonesia 
+280578,JZ10HGA,TJETJEP RB,krapdmr,KARAWANG,JABAR,Indonesia 
 280579,JZ02EAR,ARDIANSYAH,krapdmr,,,Indonesia 
 280580,JZ04BMZ,SRI ADHI TAMTOMO,krapdmr,,,Indonesia 
-280581,JZ10CXN,GINANJAR EKO,krapdmr,CIREBON,JAWA BARAT,Indonesia 
+280581,JZ10CXN,GINANJAR EKO,krapdmr,CIREBON,JABAR,Indonesia 
 280582,JZ04DRO,RIMANTO,krapdmr,PEKANBARU,RIAU,Indonesia 
-280583,JZ10LLN,MARCUS WELLY K,krapdmr,,JAWA BARAT,Indonesia 
+280583,JZ10LLN,MARCUS WELLY K,krapdmr,,JABAR,Indonesia 
 280584,JZ12HFT,JAKA SATMOKO,krapdmr,,,Indonesia 
 280585,JZ13HYR,SOEWITO,krapdmr,,,Indonesia 
 280586,JZ14BOV,HT YUDHA,krapdmr,BULELENG,BALI,Indonesia 
 280587,JZ18ASD,OKKY SATRYA NUGR,krapdmr,BALIKPAPAN,KALTIM,Indonesia 
 280588,JZ02PO,YUS WARUWU,krapdmr,SIBOLGA,SUMUT,Indonesia 
 280589,JZ02RS,ALI AKBAR,krapdmr,LANGKAT,SUMUT,Indonesia 
-280590,JZ10KXK,INDRA ISWARA LUK,krapdmr,BEKASI,JAWA BARAT,Indonesia 
+280590,JZ10KXK,INDRA ISWARA LUK,krapdmr,BEKASI,JABAR,Indonesia 
 280591,JZ15AGE,WAJEDI,krapdmr,,,Indonesia 
 280592,JZ33KAF,SUPRIHANDOYO,krapdmr,,,Indonesia 
-280593,JZ10HWT,ADIN FACHRUDIN,krapdmr,,JAWA BARAT,Indonesia 
+280593,JZ10HWT,ADIN FACHRUDIN,krapdmr,,JABAR,Indonesia 
 280594,JZ13XIB,FARHAN FERDIANSY,krapdmr,,,Indonesia 
 280595,JZ02AFW,HERU RAMA ISWADI,krapdmr,,,Indonesia 
-280596,JZ10IXX,H. AMBAR KRYDANT,krapdmr,,JAWA BARAT,Indonesia 
+280596,JZ10IXX,H. AMBAR KRYDANT,krapdmr,,JABAR,Indonesia 
 280597,JZ09CAY,WILLY ISMANTRY,krapdmr,,,Indonesia 
 280598,JZ12BJR,ANANG HIDAYAT,krapdmr,,,Indonesia 
 280599,JZ27BWO,RYAN THAMRIN AR,krapdmr,,,Indonesia 
 280600,JZ30CFP,IMRON HANAFI,krapdmr,SERANG,BANTEN,Indonesia 
 280601,JZ02ANZ,DARUL AMANY,krapdmr,,,Indonesia 
 280602,JZ02BUZ,ZULKARNAIN,krapdmr,,,Indonesia 
-280603,JZ10EQW,JEKSEN EKSEL KOL,krapdmr,BOGOR,JAWA BARAT,Indonesia 
+280603,JZ10EQW,JEKSEN EKSEL KOL,krapdmr,BOGOR,JABAR,Indonesia 
 280604,JZ10JWK,FAJAR GUMILAR,krapdmr,TANGSEL,BANTEN,Indonesia 
 280605,JZ20BEA ,ADITYA PRANSANTA,krapdmr,,,Indonesia 
 280606,JZ22ASR ,ERON ALBERTO TAM,krapdmr,,,Indonesia 
@@ -2665,41 +2682,41 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280608,JZ09BXB ,LILIK PRAYITNO,krapdmr,,,Indonesia 
 280609,JZ09AHS ,ROKHMAN,krapdmr,,,Indonesia 
 280610,JZ30TQB ,WARISAN,krapdmr,,,Indonesia 
-280611,JZ10IXM,DIAN HERMAWAN,krapdmr,CIAMIS,JAWA BARAT,Indonesia 
-280612,JZ10QJL,QIDAM CHOIRUDIN,krapdmr,BEKASI,JAWA BARAT,Indonesia 
+280611,JZ10IXM,DIAN HERMAWAN,krapdmr,CIAMIS,JABAR,Indonesia 
+280612,JZ10QJL,QIDAM CHOIRUDIN,krapdmr,BEKASI,JABAR,Indonesia 
 280613,JZ12ARG,WULFRAM MARGONO,krapdmr,SLEMAN,YOGYAKARTA,Indonesia 
-280614,JZ10EH,HENDRA,krapdmr,TASIKMALAYA,JAWA BARAT,Indonesia 
-280615,JZ10BGN,GUNAWAN,krapdmr,CIMAHI,JAWA BARAT,Indonesia 
+280614,JZ10EH,HENDRA,krapdmr,TASIKMALAYA,JABAR,Indonesia 
+280615,JZ10BGN,GUNAWAN,krapdmr,CIMAHI,JABAR,Indonesia 
 280616,JZ04APY,MUHAMAD SYOFYAN,krapdmr,INDRAGIRI HILIR,RIAU,Indonesia 
 1025001,KT25LZT,LINK ZELLO TOMBO,tombolPTT,BALIKPAPAN,KALTIM,Indonesia 
 1025002,KT25DVS,DVS TOMBOLPTT,tombolPTT,BALIKPAPAN,KALTIM,Indonesia 
 1025003,KT25ARI,ARIYANTO,tombolPTT,BALIKPAPAN,KALTIM,Indonesia 
-1025004,G25BSL,BAMBANG PRAMUDYA,tombolPTT,TEGAL,JAWA TENGAH,Indonesia 
+1025004,G25BSL,BAMBANG PRAMUDYA,tombolPTT,TEGAL,Jateng,Indonesia 
 1025006,BM25ABH,RANGGA FADLINUR,tombolPTT,PEKANBARU,RIAU,Indonesia 
-1025008,N25IIK,SOEWITO,tombolPTT,MALANG,JAWA TIMUR,Indonesia 
-1025009,G45SMB,YULIAWAN HUTABAR,tombolPTT,TEGAL,JAWA TENGAH,Indonesia 
+1025008,N25IIK,SOEWITO,tombolPTT,MALANG,Jatim,Indonesia 
+1025009,G45SMB,YULIAWAN HUTABAR,tombolPTT,TEGAL,Jateng,Indonesia 
 1025010,BP25EDT,EDY TJOKRO ,tombolPTT,BATAM,KEPRI,Indonesia 
 1025011,B25NRD,NURDIN,tombolPTT,JAKARTA BARAT,JAKARTA,Indonesia 
 1025012,AB25BAN,BAMBANG ANGGORO,tombolPTT,SLEMAN,YOGYAKARTA,Indonesia 
 1025013,BH25ADV,SLAMET RIADI,tombolPTT,KERINCI,JAMBI,Indonesia 
-1025015,AD25AVI,ANDI KUSJATMIKO,tombolPTT,SURAKARTA,JAWA TENGAH,Indonesia 
-1025017,R25DVD,KRISNO,tombolPTT,BANJARNEGARA,JAWA TENGAH,Indonesia 
-1025019,AD25JND,MUHAMAD JUANDA,tombolPTT,BOYOLALI,JAWA TENGAH,Indonesia 
+1025015,AD25AVI,ANDI KUSJATMIKO,tombolPTT,SURAKARTA,Jateng,Indonesia 
+1025017,R25DVD,KRISNO,tombolPTT,BANJARNEGARA,Jateng,Indonesia 
+1025019,AD25JND,MUHAMAD JUANDA,tombolPTT,BOYOLALI,Jateng,Indonesia 
 1025020,KT25GDL,AGUS PRIBADI ,tombolPTT,BERAU,KALTIM,Indonesia 
 1025021,B25OPA,MARSHEL ,tombolPTT,JAKARTA SELATAN,JAKARTA,Indonesia 
-1025024,R25NIK,NIKO,tombolPTT,BANYUMAS,JAWA TENGAH,Indonesia 
+1025024,R25NIK,NIKO,tombolPTT,BANYUMAS,Jateng,Indonesia 
 1025025,B25IHN,IHSAN,tombolPTT,JAKARTA PUSAT,JAKARTA,Indonesia 
-1025026,AD25CFW,GHAFFAREL ADIRA ,tombolPTT,SURAKARTA,JAWA TENGAH,Indonesia 
+1025026,AD25CFW,GHAFFAREL ADIRA ,tombolPTT,SURAKARTA,Jateng,Indonesia 
 1025027,,,tombolPTT,,,Indonesia 
 1025028,,,tombolPTT,,,Indonesia 
 1025029,,,tombolPTT,,,Indonesia 
 1025030,BK25MMR,ANTHONY,tombolPTT,DELI SERDANG,SUMUT,Indonesia 
-1025031,G25ADI,ADI PRATOMO,tombolPTT,PEKALONGAN,JAWA TENGAH,Indonesia 
+1025031,G25ADI,ADI PRATOMO,tombolPTT,PEKALONGAN,Jateng,Indonesia 
 1025033,AB26VRG,WULFRAM MARGONO,tombolPTT,SLEMAN,YOGYAKARTA,Indonesia 
-1025035,AE25CUZ,PRASETYO ARDI NU,tombolPTT,PONOROGO,JAWA TIMUR,Indonesia 
-1025036,N25ATQ,JIMMY SUGIARTO,tombolPTT,MALANG,JAWA TIMUR,Indonesia 
-1025038,P25IJP,ANTON HENDRAWAN,tombolPTT,BANYUWANGI,JAWA TIMUR,Indonesia 
-1025039,G25ZKY,MUNIF HIDAYAT ,tombolPTT,TEGAL,JAWA TENGAH,Indonesia 
+1025035,AE25CUZ,PRASETYO ARDI NU,tombolPTT,PONOROGO,Jatim,Indonesia 
+1025036,N25ATQ,JIMMY SUGIARTO,tombolPTT,MALANG,Jatim,Indonesia 
+1025038,P25IJP,ANTON HENDRAWAN,tombolPTT,BANYUWANGI,Jatim,Indonesia 
+1025039,G25ZKY,MUNIF HIDAYAT ,tombolPTT,TEGAL,Jateng,Indonesia 
 1025041,BK25ROY,EDDY SUSANTO ,tombolPTT,LABUHANBATU,SUMUT,Indonesia 
 1025042,BE25ADS,ADI SANTOSO,tombolPTT,LAMPUNG TIMUR,LAMPUNG,Indonesia 
 1025043,B25ZNI,A.ZAINI,tombolPTT,JAKARTA TIMUR,JAKARTA,Indonesia 
@@ -2708,58 +2725,60 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1025046,DK25BGA,I MADE AGUS SUDI,tombolPTT,BULELENG,BALI,Indonesia 
 1025047,B25ONG,ONG SUHIRMAN,tombolPTT,JAKARTA BARAT,JAKARTA,Indonesia 
 1025048,KT25NTF,NOTIFIKASI JAM D,tombolPTT,BALIKPAPAN,KALTIM,Indonesia 
-1025049,B25DTZ,SISWANTO,tombolPTT,BEKASI,JAWA BARAT,Indonesia 
-1025050,B25KVG,ACEP SAEPUDIN,tombolPTT,BEKASI,JAWA BARAT,Indonesia 
+1025049,B25DTZ,SISWANTO,tombolPTT,BEKASI,JABAR,Indonesia 
+1025050,B25KVG,ACEP SAEPUDIN,tombolPTT,BEKASI,JABAR,Indonesia 
 1025051,B25JIM,SADJIMAN,tombolPTT,JAKARTA SELATAN,JAKARTA,Indonesia 
 1025052,KT25ANM,ANOM TETUKO,tombolPTT,SAMARINDA,KALTIM,Indonesia 
 1025053,A26HAN,IMRON HANAFI,tombolPTT,SERANG,BANTEN,Indonesia 
 1025054,KT26OSC,M BINTANG,tombolPTT,SAMARINDA,KALTIM,Indonesia 
 1025055,PB26RRR,SUKATELIN ,tombolPTT,SORONG,PAPBADA,Indonesia 
 1025056,KT26AMN,OSTIAN MOGALANA,tombolPTT,BALIKPAPAN,KALTIM,Indonesia 
-1025057,H26IQY,MOHAMMAD TOHIR,tombolPTT,SEMARANG,JAWA TENGAH,Indonesia 
-1025058,B26BLL,NASIR ALAM,tombolPTT,DEPOK,JAWA BARAT,Indonesia 
-1025059,R26AYK,JUGHO SULISTYO W,tombolPTT,BANYUMAS,JAWA TENGAH,Indonesia 
-1025060,E26UNE,EKO PUJI HARIYAN,tombolPTT,INDRAMAYU,JAWA BARAT,Indonesia 
+1025057,H26IQY,MOHAMMAD TOHIR,tombolPTT,SEMARANG,Jateng,Indonesia 
+1025058,B26BLL,NASIR ALAM,tombolPTT,DEPOK,JABAR,Indonesia 
+1025059,R26AYK,JUGHO SULISTYO W,tombolPTT,BANYUMAS,Jateng,Indonesia 
+1025060,E26UNE,EKO PUJI HARIYAN,tombolPTT,INDRAMAYU,JABAR,Indonesia 
 1025061,BK26HOY,ALI AKBAR,tombolPTT,LANGKAT,SUMUT,Indonesia 
-1025062,B26AFF,INDRA ISWARA LUK,tombolPTT,BEKASI,JAWA BARAT,Indonesia 
+1025062,B26AFF,INDRA ISWARA LUK,tombolPTT,BEKASI,JABAR,Indonesia 
 1025063,B26BPV,B.AGUS PRIAMAN,tombolPTT,JAKARTA TIMUR,JAKARTA,Indonesia 
 1025064,B26AXC,HANAFI HANDOKO,tombolPTT,JAKARTA TIMUR,JAKARTA,Indonesia 
 1025065,B26AWH,INDRA SANIF,tombolPTT,JAKARTA SELATAN,JAKARTA,Indonesia 
 1025066,B26RED,ADI PRAMONO,tombolPTT,JAKARTA TIMUR,JAKARTA,Indonesia 
-1025067,B26DGI,HADIYANTO,tombolPTT,BEKASI,JAWA BARAT,Indonesia 
-1025068,AG26ACN,JOHANS HERMAN KA,tombolPTT,TULUNGAGUNG,JAWA TIMUR,Indonesia 
+1025067,B26DGI,HADIYANTO,tombolPTT,BEKASI,JABAR,Indonesia 
+1025068,AG26ACN,JOHANS HERMAN KA,tombolPTT,TULUNGAGUNG,Jatim,Indonesia 
 1025069,DB26ALQ,FAITH SABATIO UN,tombolPTT,TOMOHON,SULUT,Indonesia 
 1025070,AB26VUK,ANTON FATAHILLAH,tombolPTT,SLEMAN,YOGYAKARTA,Indonesia 
-1025071,AD26BJE,MARYONO,tombolPTT,KLATEN,JAWA TENGAH,Indonesia 
+1025071,AD26BJE,MARYONO,tombolPTT,KLATEN,Jateng,Indonesia 
 1025072,B26JNK,YUDI WAHYUDIN,tombolPTT,JAKARTA PUSAT,JAKARTA,Indonesia 
 1025073,BM26EAV,ASIR,tombolPTT,BENGKALIS,RIAU,Indonesia 
-1025074,N26IFN,M IFAN,tombolPTT,PASURUAN,JAWA TIMUR,Indonesia 
+1025074,N26IFN,M IFAN,tombolPTT,PASURUAN,Jatim,Indonesia 
 1025075,B26IRC,ERWAN SETIADI,tombolPTT,JAKARTA PUSAT,JAKARTA,Indonesia 
-1025076,R26OON,LETIYO,tombolPTT,BANJARNEGARA,JAWA TENGAH,Indonesia 
+1025076,R26OON,LETIYO,tombolPTT,BANJARNEGARA,Jateng,Indonesia 
 1025077,BG26FKB,IMAM AMANU,tombolPTT,BANYUASIN,SUMSEL,Indonesia 
-1025078,B26NGH,NUGROHO,tombolPTT,DEPOK,JAWA BARAT,Indonesia 
+1025078,B26NGH,NUGROHO,tombolPTT,DEPOK,JABAR,Indonesia 
 1025079,AB26BRJ,ANANG HIDAYAT,tombolPTT,SLEMAN,YOGYAKARTA,Indonesia 
-1025080,G26AJP,HAMZAH,tombolPTT,PEKALONGAN,JAWA TENGAH,Indonesia 
-1025081,Z26IXM,DIAN HERMAWAN,tombolPTT,CIAMIS,JAWA BARAT,Indonesia 
-1025082,F26BGS,BAGUS SUMARNO,tombolPTT,BOGOR,JAWA BARAT,Indonesia 
-1025083,AA26BTP,CAHYONO DWIKARTI,tombolPTT,MAGELANG,JAWA TENGAH,Indonesia 
+1025080,G26AJP,HAMZAH,tombolPTT,PEKALONGAN,Jateng,Indonesia 
+1025081,Z26IXM,DIAN HERMAWAN,tombolPTT,CIAMIS,JABAR,Indonesia 
+1025082,F26BGS,BAGUS SUMARNO,tombolPTT,BOGOR,JABAR,Indonesia 
+1025083,AA26BTP,CAHYONO DWIKARTI,tombolPTT,MAGELANG,Jateng,Indonesia 
 1025084,DD26DPD,MUDDASSIR,tombolPTT,KEPULAUAN SELAYAR,SULSEL,Indonesia 
 1025085,DK26BBU,HIRMAWAN TIRTA Y,tombolPTT,BULELENG,BALI,Indonesia 
 1025086,DK26RTA,I NYOMAN ARTA,tombolPTT,BULELENG,BALI,Indonesia 
 1025087,DB26FGO,CHRISTIAN FIGO S,tombolPTT,MANADO,SULUT,Indonesia 
 1025088,B26BFD,DIDIK NURHADI,tombolPTT,JAKARTA SELATAN,JAKARTA,Indonesia 
-1025089,D26RZL,SYAFRIZAL AFFARD,tombolPTT,BANDUNG BARAT,JAWA BARAT,Indonesia 
+1025089,D26RZL,SYAFRIZAL AFFARD,tombolPTT,BANDUNG BARAT,JABAR,Indonesia 
 1025090,BK26HHD,ZULKARNAIN ,tombolPTT,MEDAN,SUMUT,Indonesia 
 1025091,DB26EQW,JAKSEN EKSEL KOLIBU ,tombolPTT,MINAHASA UTARA,SULUT,Indonesia 
 1025092,B26DJI,DJOLI,tombolPTT,JAKARTA TIMUR,JAKARTA,Indonesia 
-1025093,K26AGC,AGUS CAHYONO,tombolPTT,GROBOGAN,JAWA TENGAH,Indonesia 
-1025094,E26BMY,KASNAM,tombolPTT,INDRAMAYU,JAWA BARAT,Indonesia 
-1025095,H26HRS,HARRIS,tombolPTT,SEMARANG,JAWA TENGAH,Indonesia 
-1025096,K26JNL,BUDI SANTOSA,tombolPTT,BLORA,JAWA TENGAH,Indonesia 
+1025093,K26AGC,AGUS CAHYONO,tombolPTT,GROBOGAN,Jateng,Indonesia 
+1025094,E26BMY,KASNAM,tombolPTT,INDRAMAYU,JABAR,Indonesia 
+1025095,H26HRS,HARRIS,tombolPTT,SEMARANG,Jateng,Indonesia 
+1025096,K26JNL,BUDI SANTOSA,tombolPTT,BLORA,Jateng,Indonesia 
 1025097,DB26RAM,ANTONIUS MARAMIS,tombolPTT,TOMOHON,SULUT,Indonesia 
-1025098,E26EKP,ANWARI ,tombolPTT,CIREBON,JAWA BARAT,Indonesia 
+1025098,E26EKP,ANWARI ,tombolPTT,CIREBON,JABAR,Indonesia 
 1025099,E26BNY,GINANJAR EKO RUS,tombolPTT,CIREBON,JABAR,Indonesia 
-1025100,L26AIV,SARJONO,tombolPTT,SURABAYA,JATIM,Indonesia 
+1025100,L26AIV,SARJONO,tombolPTT,SURABAYA,Jatim,Indonesia 
 1025101,AB26VLE,ANTON SEDAYU,tombolPTT,YOGYAKARTA,YOGYAKARTA,Indonesia 
 1025102,AB26YAY,ANDA WIJANARKO,tombolPTT,SLEMAN,YOGYAKARTA,Indonesia 
 1025103,BK26HMY,MUHAMMAD ZALDI,tombolPTT,MEDAN,SUMUT,Indonesia 
+1025104,AA26CHJ,SUDIHARTO_,tombolPTT,KEBUMEN,Jateng,Indonesia 
+1025105,R26YPD,NUGROHO_HAPPY_K,tombolPTT,BANJARNEGARA,Jateng,Indonesia 
