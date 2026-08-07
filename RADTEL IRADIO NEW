@@ -615,6 +615,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280614,JZ10EH,HENDRA,krapdmr,TASIKMALAYA,JABAR,Indonesia 
 280615,JZ10BGN,GUNAWAN,krapdmr,CIMAHI,JABAR,Indonesia 
 280616,JZ04APY,MUHAMAD SYOFYAN,krapdmr,INDRAGIRI HILIR,RIAU,Indonesia 
+1014001,PB14ZUL,Zulfan,K2PI-BNPB,Pelalawan Pangkalan Kerinci Kota,Riau,Indonesia
+1014147,PB14AND,Andika,K2PI-BNPB,Pelalawan Pangkalan Kerinci Kota,Riau,Indonesia
+1014148,PB14EVI,Evi Usri,K2PI-BNPB,Pelalawan Pangkalan Kuras,Riau,Indonesia
+1014149,PB14AS,Andika Syafutra,K2PI-BNPB,Pelalawan Pkl. Kerinci,Riau,Indonesia
+1014150,PB14MU,Mukhtar,K2PI-BNPB,Pelalawan Pangkalan Kerinci Timur,Riau,Indonesia
+1014151,PB14MS,M Saherman,K2PI-BNPB,Pelalawan Pangkalan Kerinci,Riau,Indonesia
 1018986,PB18HZX,Adi Santoso,K2PI-BNPB,Lampung Tmr,Lampung,Indonesia 
 1025001,KT25LZT,LINK ZELLO TOMBO,tombolPTT,BALIKPAPAN,KALTIM,Indonesia 
 1025002,KT25DVS,DVS TOMBOLPTT,tombolPTT,BALIKPAPAN,KALTIM,Indonesia 
@@ -849,6 +855,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1733613,SC33LXP,Walan Yudiana,K2PI-SCOUT,Tegal,JATENG,Indonesia 
 1733812,SC33BHR,Bagus Handoko Radityo,K2PI-SCOUT,Sukoharjo,JATENG,Indonesia 
 1733816,SC33NN,Nuke Neta Kusworo,K2PI-SCOUT,Sukoharjo,JATENG,Indonesia 
+1735170,SC35MOI,Yakob Lilik Soetrisno,K2PI-SCOUT,Surabaya Wonokromo,JATIM,Indonesia
 1735299,SC35MLN,Murdiono ,K2PI-SCOUT,Lamongan,JATIM,Indonesia 
 1735418,SC35MQB,Arif ,K2PI-SCOUT,Malang,JATIM,Indonesia 
 1735610,SC35MXM,Edi Suprapto,K2PI-SCOUT,Bojonegoro,JATIM,Indonesia 
@@ -969,6 +976,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2120955,JZ02BUO,Muhammad Fadly Akbar Sembiring,K2PI-KRAP,Deli Serdang,SUMUT,Indonesia 
 2120984,JZ02BPW,Eko Bayu Gita Putra,K2PI-KRAP,Batu Bara,SUMUT,Indonesia 
 2121107,JZ02BXR,Eko Hendharin Syahputra,K2PI-KRAP,Pematang Siantar,SUMUT,Indonesia 
+2121160,JZ02AON,Jusuf Sartono,K2PI-KRAP,Medan Medan Kota,SUMUT,Indonesia
 2130928,JZ03AXE,Ihsan ,K2PI-KRAP,Pasaman,SUMBAR,Indonesia 
 2140002,JZ04MIB,R_Helmi Midjaja,K2PI-KRAP,Pelalawan,Riau,Indonesia 
 2140003,JZ04MSD,Suwardi ,K2PI-KRAP,Pelalawan,Riau,Indonesia 
@@ -1031,6 +1039,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2150761,JZ05ACD,Roli Kusuma,K2PI-KRAP,Batanghari,Jambi,Indonesia 
 2151009,JZ05BYF,Slamet Riadi,K2PI-KRAP,Kerinci,Jambi,Indonesia 
 2151027,JZ05BVX,Wahyu Kamaruddin,K2PI-KRAP,Jambi,Jambi,Indonesia 
+2151175,JZ05BVO,Agus Santoso,K2PI-KRAP,Tebo Muara Tabir,Jambi,Indonesia
 2160106,JZ06BAX,Dhali Rozan Fadhaillah,K2PI-KRAP,Og Kom Ilir,SUMSEL,Indonesia 
 2160114,JZ06BBX,Reza Nurhidayat,K2PI-KRAP,Palembang,SUMSEL,Indonesia 
 2160119,JZ06AZB,Nur Hidayat,K2PI-KRAP,Og Kom Ulu Tmr,SUMSEL,Indonesia 
@@ -1208,6 +1217,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2330423,JZ11MMB,Muhammad Husain,K2PI-KRAP,Pati,JATENG,Indonesia 
 2330433,JZ11GLH,Milzam Rifqi,K2PI-KRAP,Semarang,JATENG,Indonesia 
 2330520,JZ11CRK,Azhari ,K2PI-KRAP,Surakarta,JATENG,Indonesia 
+2330530,PC35AZ,Azhari,K2PI-KRAP,Surakarta Banjarsari,JATENG,Indonesia
 2330604,JZ11MJV,Selamet ,K2PI-KRAP,Pati,JATENG,Indonesia 
 2330625,JZ11BIQ,Indradi ,K2PI-KRAP,Karanganyar,JATENG,Indonesia 
 2330644,JZ11ERA,Hariyadi Wibowo,K2PI-KRAP,Kendal,JATENG,Indonesia 
@@ -1285,6 +1295,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2350994,JZ13IAC,Heru Baskara,K2PI-KRAP,Surabaya,JATIM,Indonesia 
 2350996,JZ13HXA,Muhammad Fahtur Rosi,K2PI-KRAP,Bondowoso,JATIM,Indonesia 
 2351010,JZ13IBL,Arief Achomadin,K2PI-KRAP,Sidoarjo,JATIM,Indonesia 
+2351011,JZ13JSI,Aan Herbawono,K2PI-KRAP,Surabaya Jambangan,JATIM,Indonesia
 2351012,JZ13IVG,Evi Setiawan,K2PI-KRAP,Sidoarjo,JATIM,Indonesia 
 2351013,JZ13HYW,Andy Dwi Septanto,K2PI-KRAP,Surabaya,JATIM,Indonesia 
 2351015,JZ13IGC,Anang Nugroho,K2PI-KRAP,Banyuwangi,JATIM,Indonesia 
@@ -1292,8 +1303,16 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2351022,JZ13IXL,Joko Wijaksono,K2PI-KRAP,Sidoarjo,JATIM,Indonesia 
 2351023,JZ13IZB,Sigit Wicaksono,K2PI-KRAP,Surabaya,JATIM,Indonesia 
 2351104,JZ13IGN,Hadi Fitriyanto,K2PI-KRAP,Banyuwangi,JATIM,Indonesia 
+2351118,JZ13EMM,Irfan Fanani,K2PI-KRAP,Kediri Ngadiluwih,JATIM,Indonesia
 2351119,JZ13IGG,Didik Mudjiono,K2PI-KRAP,Surabaya,JATIM,Indonesia 
 2351138,JZ13JQL,Firman Arifianto,K2PI-KRAP,Sidoarjo,JATIM,Indonesia 
+2351152,JZ13HZP,Yudi Irawan,K2PI-KRAP,Surabaya Wonokromo,JATIM,Indonesia
+2351153,JZ13HEC,Arofiq,K2PI-KRAP,Kediri Ngadiluwih,JATIM,Indonesia
+2351155,JZ13DVB,M Zainuri,K2PI-KRAP,Sidoarjo Gedangan,JATIM,Indonesia
+2351158,JZ13EOU,Mokhammad Masruri,K2PI-KRAP,Kediri Ngadiluwih,JATIM,Indonesia
+2351167,JZ13BWJ,Mokhammad Djerier Athbary,K2PI-KRAP,Surabaya Wonokromo,JATIM,Indonesia
+2351170,JZ13DEW,Yakob Lilik Soetrisno,K2PI-KRAP,Surabaya Wonokromo,JATIM,Indonesia
+2351170,JZ13DEW,Yakob Lilik Soetrisno,K2PI-KRAP,Surabaya Wonokromo,JATIM,Indonesia
 2360033,JZ30BOQ,Rendy ,K2PI-KRAP,Tangerang Sel,Banten,Indonesia 
 2360047,JZ30BNH,Alloysius Ditto Christianto,K2PI-KRAP,Tangerang Sel,Banten,Indonesia 
 2360060,JZ30BPA,Erman Dela Rosa Villanueva,K2PI-KRAP,Tangerang Sel,Banten,Indonesia 
@@ -1368,6 +1387,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2710524,JZ22JOL,Bobby Marchel Tambingon,K2PI-KRAP,Minahasa,SULUT,Indonesia 
 2710531,JZ22LJT,John Frans Tamunu,K2PI-KRAP,Tomohon,SULUT,Indonesia 
 2711113,JZ22RA,Antonius Maramis,K2PI,Tomohon,SULUT,Indonesia 
+2711156,JZ22ATD,Supriyanto George Aloysius Manes,K2PI-KRAP,Manado Bunaken,SULUT,Indonesia
 2720396,JZ23EB ,Budiharto ,K2PI-KRAP,Palu,Sulawesi Tengah,Indonesia 
 2720922,JZ23GIO,Jerry Kalvari Pelensa,K2PI-KRAP,Poso,Sulawesi Tengah,Indonesia 
 2730007,JZ24AMY,Yuriadi ,K2PI-KRAP,Makassar,SULSEL,Indonesia 
@@ -1434,6 +1454,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 3213927,KJ13AXE,Ihsan ,K2PI-KEJAKSAAN,Padang,SUMBAR,Indonesia 
 3452270,PN52OKK,Yuvensius Aban Sh,K2PI-PNRI,Mataram,NTB,Indonesia 
 4011502,AB11ATH,Mulyono ,K2PI-TNI,Bireuen,Aceh,Indonesia 
+4015068,AB15AS,Agus Santoso,K2PI-TNI,Merangin Tabir Timur,Jambi,Indonesia
 4031006,AB31JAG,B_Agus Priaman,K2PI-TNI,Jakarta Tmr,JAKARTA,Indonesia 
 4031046,AB31JBU,Agus Pambudi,K2PI-TNI,Jakarta Brt,JAKARTA,Indonesia 
 4031725,AB31IN,Iwan Nugroho,K2PI-TNI,Jakarta Utr,JAKARTA,Indonesia 
@@ -1613,6 +1634,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5100956,YG3BTY,Choirul Huda,K2PI-KRAI,Surabaya,JATIM,Indonesia 
 5100960,YG2BTP,Cahyono Dwikartiputra,K2PI-KRAI,Magelang,JATENG,Indonesia 
 5100961,YC6GG,Mursal ,K2PI-KRAI,Langsa,Aceh,Indonesia 
+5100963,YC3IRF,Irfan Fanani,K2PI-KRAI,Kediri Ngadiluwih,JATIM,Indonesia
 5100965,YC1SDM,Mahendra ,K2PI-KRAI,Tangerang Sel,Banten,Indonesia 
 5100966,YC1RBY,Indipha Yalamayosa,K2PI-KRAI,Tangerang Sel,Banten,Indonesia 
 5100970,YD0AKJ,Yohanes Dwi Dian Pornomo,K2PI-KRAI,Jakarta Brt,JAKARTA,Indonesia 
@@ -1759,6 +1781,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5101420,YD3NQZ,Aries Setyawan,K2PI-KRAI,Probolinggo,JATIM,Indonesia 
 5101429,YD0BXI,Ade Mastika,K2PI-KRAI,Jakarta Utr,JAKARTA,Indonesia 
 5101430,YD1AIT,Irwan Fanani,K2PI-KRAI,Bekasi,JABAR,Indonesia 
+5101432,YD6BUA,Novendra,K2PI-KRAI,Banda Aceh Baiturrahman,Aceh,Indonesia
 5101435,YD7YTB,Hendrawan Riki Prihanto,K2PI-KRAI,Kutai Tmr,KALTIM,Indonesia 
 5101439,YC2OOW,Agus Kristanta,K2PI-KRAI,Temanggung,JATENG,Indonesia 
 5101440,YC0BRD,Gianesha Pratama,K2PI-KRAI,Jakarta Sel,JAKARTA,Indonesia 
@@ -1791,6 +1814,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5101534,YG1CAA,Ferdinand Mesias Santi,K2PI-KRAI,Bogor,JABAR,Indonesia 
 5101541,YD9CYH,Reza Muharram Harahap,K2PI-KRAI,Badung,Bali,Indonesia 
 5101542,YD3DJR,Isodorus Hendrowahjono,K2PI-KRAI,Surabaya,JATIM,Indonesia 
+5101545,YD3DCY,Rochmad,K2PI-KRAI,Kediri Puncu,JATIM,Indonesia
 5101549,YC2LZZ,Moeksin Darmoko,K2PI-KRAI,Tegal,JATENG,Indonesia 
 5101554,YD2DVQ,Winarsono ,K2PI-KRAI,Blora,JATENG,Indonesia 
 5101558,YD7HAS,Muhammad Naufal Ramadhan,K2PI-KRAI,Banjarmasin,KALSEL,Indonesia 
@@ -1800,6 +1824,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5101564,YC2PUO,Yamin Yudianto,K2PI-KRAI,Brebes,JATENG,Indonesia 
 5101568,YD6HMM,Andi S Harahap,K2PI-KRAI,Padang Sidempuan,SUMUT,Indonesia 
 5101570,YC2EFI,Effi Rijanti W,K2PI-KRAI,Tegal,JATENG,Indonesia 
+5101571,YE3FZR,Rianto,K2PI-KRAI,Kediri Plemahan,JATIM,Indonesia
 5101574,YD1KWW,Samsu Bahri,K2PI-KRAI,Bekasi,JABAR,Indonesia 
 5101580,YD1ACV,Tjetjep Rb,K2PI-KRAI,Karawang,JABAR,Indonesia 
 5101585,YD3ADN,Santoso Eko Junaidhy,K2PI-KRAI,Sidoarjo,JATIM,Indonesia 
@@ -1867,6 +1892,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5101800,YD2ATZ,M_Heri Miryanto,K2PI-KRAI,Semarang,JATENG,Indonesia 
 5101801,YD2ALT,Handoko ,K2PI-KRAI,Sukoharjo,JATENG,Indonesia 
 5101805,YD0JNK,Yudi Wahyudin,K2PI-KRAI,Jakarta Pusat,JAKARTA,Indonesia 
+5101806,YG3AEU,Anang Nugroho,K2PI-KRAI,Banyuwangi Banyuwangi,JATIM,Indonesia
 5101807,YB5NDR,Syahril ,K2PI-KRAI,Bengkalis,Riau,Indonesia 
 5101809,YC2YAY,Anda Wijanarko,K2PI-KRAI,Sleman,YOGYAKARTA,Indonesia 
 5101817,YG5NMS,Eka Maydesa Putra,K2PI-KRAI,Batam,KEPRI,Indonesia 
@@ -1878,8 +1904,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5101855,YD1CPJ,Adrianto,K2PI-KRAI,Bekasi,JABAR,Indonesia
 5101859,YG3BZZ,M_Rizal Amirudin,K2PI-KRAP,Tulungagung,JATIM,Indonesia 
 5101860,YG1RBS ,Gianto ,K2PI-KRAI,Tangerang,Banten,Indonesia 
+5101869,YF3CJU,Arofiq,K2PI-KRAI,Kediri Ngadiluwih,JATIM,Indonesia
 5101873,YD3BEY,Arief Achomadin,K2PI-KRAI,Sidoarjo,JATIM,Indonesia
 5101874,YD3BEQ,Ifanda Juniarta Nain,K2PI-KRAI,Surabaya,JATIM,Indonesia
+5101894,YD0ADT,Fajrino,K2PI-KRAI,Jakarta Tmr Duren Sawit,JAKARTA,Indonesia
+5101903,YD2BDU,Aryawan Bayu Werdani,K2PI-KRAI,Klaten Bayat,JATENG,Indonesia
 5108888,YD5NPC,Sutan P Lubis,K2PI-KRAI,Pekanbaru,Riau,Indonesia 
 5110000,PC11TS3,Ts3 #NAME?,K2PI,Aceh Brt Daya,Aceh,Indonesia 
 5110022,PC11ZUL,Zulkarnain Yunus,K2PI,Lhokeumawe,Aceh,Indonesia 
@@ -1903,6 +1932,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5111072,PC11BBU,Indrawan ,K2PI,Banda Aceh,Aceh,Indonesia 
 5111111,PC11EFY,Yazzid ,K2PI,Aceh Brt,Aceh,Indonesia 
 5111136,PC11JIF,Jifri Rahmadani,K2PI,Banda Aceh,Aceh,Indonesia 
+5111157,PC11AZM,Ulul Azmi,K2PI,Aceh Jaya Sampoiniet,Aceh,Indonesia
 5120038,PC12BYW,Yustinus E Waruwu,K2PI,Sibolga,SUMUT,Indonesia 
 5120052,PC12ALI,Ali Akbar,K2PI,Langkat,SUMUT,Indonesia 
 5120116,PC12RJA,Nimerodi Hia,K2PI,Nias Brt,SUMUT,Indonesia 
@@ -1945,6 +1975,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5121080,PC12ASH,Andi S Harahap,K2PI,Padang Sidempuan,SUMUT,Indonesia 
 5121107,PC12EKO,Eko Hendharin Syahputra,K2PI,Pematang Siantar,SUMUT,Indonesia 
 5121133,PC12MIX,Johan ,K2PI,Medan,SUMUT,Indonesia 
+5121160,PC12AON,Jusuf Sartono,K2PI,Medan Medan Kota,SUMUT,Indonesia
+5121432,PC12NOV,Novendra,K2PI-KRAI,Banda Aceh Baiturrahman,Aceh,Indonesia
 5130619,PC13ERY,Erry Nurdin,K2PI,Pasaman,SUMBAR,Indonesia 
 5130712,PC13IS,Zul Indra,K2PI,Pasaman Brt,SUMBAR,Indonesia 
 5131116,PC15RIO,Rio Trismayandi,K2PI,Payakumbuh,SUMBAR,Indonesia 
@@ -2013,6 +2045,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5141074,PC14NDR,Syahril ,K2PI,Bengkalis,Riau,Indonesia 
 5141075,PC14NUV,Eric Lesmana,K2PI,Pekanbaru,Riau,Indonesia 
 5141092,PC14NOV,Novembri.A ,K2PI,Dumai,Riau,Indonesia 
+5141166,PC14HMD,Hamdani,K2PI,Pelalawan Pangkalan Kerinci,Riau,Indonesia
+5141171,PC14SK,Asri Al Habsyi,K2PI,Pelalawan Pangkalan Kerinci,Riau,Indonesia
 5150066,PC15JDM,Jamaluddin ,K2PI,Tj Jabung Tmr,Jambi,Indonesia 
 5150129,PC15BCW,Awang Sumardi,K2PI,Jambi,Jambi,Indonesia 
 5150180,PC15EGY,Dheffy Adrian,K2PI,Jambi,Jambi,Indonesia 
@@ -2024,6 +2058,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5151007,PC15DR,Diro Oktava,K2PI,Tebo,Jambi,Indonesia 
 5151009,PC15SLM,Slamet Riadi,K2PI,Kerinci,Jambi,Indonesia 
 5151027,PC15WA,Wahyu Kamaruddin,K2PI,Jambi,Jambi,Indonesia 
+5151164,PC15AG,Agus Santoso,K2PI,Tebo Muara Tabir,Jambi,Indonesia
+5151175,PC15AS,Agus Santoso,K2PI,Tebo Muara Tabir,Jambi,Indonesia
 5151773,4G1HOD,Erman Dr Villanueva,K2PI-KRAI,Tangerang,Banten,Indonesia 
 5160269,PC16FKJ,M_Amirudin Lutfi,K2PI,Musi Banyuasin,SUMSEL,Indonesia 
 5160815,PC16AS,Agus Supriyadi,K2PI,Musi Rawas,SUMSEL,Indonesia 
@@ -2087,6 +2123,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5311088,PC31ADE,Ade Surya Pranata,K2PI,Jakarta Sel,JAKARTA,Indonesia 
 5311096,PC31YW,Yudi Wahyudin,K2PI,Jakarta Pusat,JAKARTA,Indonesia 
 5311115,PC31SUN,Sunaryo Madhadi,K2PI,Jakarta Tmr,JAKARTA,Indonesia 
+5311159,PC31ADT,Fajrino,K2PI,Jakarta Tmr Duren Sawit,JAKARTA,Indonesia
 5320031,PC32BC,Budi Cahyadi,K2PI,Bandung,JABAR,Indonesia 
 5320044,RM32IB,Saidi Ibrahim,K2PI,Bekasi,JABAR,Indonesia 
 5320075,PC32ANT,Agus Yulianto,K2PI,Depok,JABAR,Indonesia 
@@ -2260,6 +2297,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5331114,PC33SG,Sugeng Hariadi,K2PI,Kebumen,JATENG,Indonesia 
 5331130,PC33DID,Ali Subekan,K2PI,Surakarta,JATENG,Indonesia 
 5331132,PC33HAV,Eddy Kristiadi,K2PI,Rembang,JATENG,Indonesia 
+5331146,PC33HAR,Hari Kus Wibowo,K2PI,Magelang Muntilan,JATENG,Indonesia
+5331173,PC33ABW,Aryawan Bayu Werdani,K2PI,Klaten Bayat,JATENG,Indonesia
 5340140,PC34MOK,Jaka Satmoko,K2PI,Kulon Progo,YOGYAKARTA,Indonesia 
 5340794,PC34DWI,Sunardi Dwiputranto,K2PI,Sleman,YOGYAKARTA,Indonesia 
 5340797,PC34RP,Raindy Prima,K2PI,Sleman,YOGYAKARTA,Indonesia 
@@ -2343,6 +2382,18 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5351134,PC35ART,Mufti Kusuma Adi,K2PI,Surabaya,JATIM,Indonesia 
 5351138,PC35FIR,Firman Arifianto,K2PI,Sidoarjo,JATIM,Indonesia 
 5351140,PC35NHS,Naufal Hafiz Subagiyo,K2PI,Sidoarjo,JATIM,Indonesia 
+5351152,PC35YI,Yudi Irawan,K2PI,Surabaya Wonokromo,JATIM,Indonesia
+5351153,PC35OP,Arofiq,K2PI,Kediri Ngadiluwih,JATIM,Indonesia
+5351155,PC35DVB,M Zainuri,K2PI-KRAP,Sidoarjo Gedangan,JATIM,Indonesia
+5351158,PC35MAS,Mokhammad Masruri,K2PI,Kediri Ngadiluwih,JATIM,Indonesia
+5351161,PC35MK,Mardian Kundang,K2PI,Tulungagung Kedungwaru,JATIM,Indonesia
+5351165,PC35RCH,Rochmad,K2PI,Kediri Puncu,JATIM,Indonesia
+5351167,PC35JRY,Moch Djerier Athbary,K2PI,Surabaya Wonokromo,JATIM,Indonesia
+5351172,PC35TON,Anton Hendrawan,K2PI,Banyuwangi Banyuwangi,JATIM,Indonesia
+5351174,PC35UKI,Uchky Adi Saputra,K2PI,Surabaya Sukomanunggal,JATIM,Indonesia
+5351176,PC35DOR,Achmad Sofi'I,K2PI,Surabaya Sawahan,JATIM,Indonesia
+5351177,PC35RDS,Imam Mahmudi,K2PI,Pasuruan Purwosari,JATIM,Indonesia
+5351571,PC35FZR,Rianto,K2PI,Kediri Plemahan,JATIM,Indonesia
 5360047,PC36DIT,Alloysius Ditto Christianto,K2PI,Tangerang Sel,Banten,Indonesia 
 5360101,PC36TOS,Joko Susanto,K2PI,Tangerang,Banten,Indonesia 
 5360193,PC36KHL,M_Sidik #NAME?,K2PI,Tangerang,Banten,Indonesia 
@@ -2425,6 +2476,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5640796,RM64IKE,S_Ike Anwar,K2PI,Kutai Tmr,KALTIM,Indonesia 
 5640803,PC64SON,Sonalia ,K2PI,Kutai Tmr,KALTIM,Indonesia 
 5641095,PC33AMN,Ostian Mogalana,K2PI,Balikpapan,KALTIM,Indonesia 
+5641162,PC64MZ,Moh Maulid,K2PI,Berau Tanjung Redeb,KALTIM,Indonesia
 5650325,PC65QMN,Nirwansyah ,K2PI,Tarakan,KALTARA,Indonesia 
 5651004,PC65NAF,Mochammad Naffian,K2PI,Bulungan,KALTARA,Indonesia 
 5710102,PC71ALQ,Faith Sabatio Undap,K2PI,Tomohon,SULUT,Indonesia 
@@ -2433,6 +2485,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 5710422,PC71VIC,Victor Tengker,K2PI,Minahasa,SULUT,Indonesia 
 5710844,PC71KK,Kartika Kaunang,K2PI,Minahasa Sel,SULUT,Indonesia 
 5711113,PC71RA,Antonius Maramis,K2PI,Tomohon,SULUT,Indonesia 
+5711156,PC71MAN,Supriyanto George Aloysius Manes,K2PI-KRAP,Manado Bunaken,SULUT,Indonesia
 5720922,PC72NKV,Jerry Kalvari Pelensa,K2PI,Poso,Sulawesi Tengah,Indonesia 
 5730007,PC73AMY,Yuriadi ,K2PI,Makassar,SULSEL,Indonesia 
 5730801,PC73HAR,Kindi Siena Hartono,K2PI,Gowa,SULSEL,Indonesia 
