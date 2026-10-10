@@ -1,5 +1,5 @@
 RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY 
-200000,JZ0SIM ,Calon Anggota K2Pi ,K2PI ,Indonesia ,Indonesia ,Indonesia
+200000,JZ0SIM ,Calon Anggota K2Pi ,K2PI -CALON,Indonesia ,Indonesia ,Indonesia
 280001,JZ10EGG ,GILANG GUMILAR ,krapdmr ,TASIKMALAYA ,JABAR ,Indonesia 
 280002,JZ10LLB ,HADIYANTO ,krapdmr ,BEKASI ,JABAR ,Indonesia 
 280003,JZ13AIV ,SARJONO ,krapdmr ,SURABAYA ,JATIM ,Indonesia 
@@ -624,44 +624,61 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 1014150,PB14MU,Mukhtar,K2PI- BNPB,Pelalawan,Riau,Indonesia
 1014151,PB14MS,Muhammad Saherman,K2PI- BNPB,Pelalawan,Riau,Indonesia
 1018986,PB18HZX,Adi Santoso,K2PI- BNPB,Lampung Tmr,Lampung,Indonesia
-1022001,BD62AA,ALI AKBAR,BRIKER DIGITAL,LANGKAT,SUMATERA UTARA,Indonesia
-1022002,BD62PS,PARSONO,BRIKER DIGITAL,PEKALU,SEMARANG,Indonesia
-1022003,BD62AFF,INDRA ISWARA,BRIKER DIGITAL,BEKASI,JAKARTA SELATAN,Indonesia
-1022004,BD62ZK,ZULFAN KELANA,BRIKER DIGITAL,GARU II,MEDAN,Indonesia
-1022005,BD62JMD,JAMALUDDIN,BRIKER DIGITAL,TANJUNG JABUNG,DUMAI,Indonesia
-1022006,BD62RV,RAVIE,BRIKER DIGITAL,KALIMANTAN,KALIMANTAN,Indonesia
-1022007,BD62BTC,RADDIE,BRIKER DIGITAL,BANDUNG,JAWA BARAT,Indonesia
-1022008,BD62DD,DEDEN,BRIKER DIGITAL,MEDAN,SUMUT,Indonesia
-1022009,BD62ARD,ARDIANSYAH,BRIKER DIGITAL,LANGKAT,SUMUT,Indonesia
-1022010,BD62MHN,MAHONI,BRIKER DIGITAL,LANGKAT,SUMUT,Indonesia
+1022001,BD62AA,ALI AKBAR,BRIDI,LANGKAT,SUMATERA UTARA,Indonesia
+1022002,BD62PS,PARSONO,BRIDI,PEKALU,JAWA TENGAH,Indonesia
+1022003,BD62AFF,INDRA ISWARA,BRIDI,BEKASI,JAWA BARAT,Indonesia
+1022004,BD62ZK,ZULFAN KELANA,BRIDI,GARU II,,Indonesia
+1022005,BD62JMD,JAMALUDDIN,BRIDI,TANJUNG JABUNG,JAMBI,Indonesia
+1022006,BD62RV,RAVIE,BRIDI,KALIMANTAN,KALIMANTAN,Indonesia
+1022007,BD62JO,SARJONO,BRIDI,SURUT,JAWA TIMUR,Indonesia
+1022008,BD62DD,DEDEN,BRIDI,MEDAN,SUMATERA UTARA,Indonesia
+1022009,BD62ARD,ARDIANSYAH,BRIDI,LANGKAT,SUMATERA UTARA,Indonesia
+1022010,BD62MHN,MAHONI,BRIDI,LANGKAT,SUMATERA UTARA,Indonesia
 1022011,,,,,,Indonesia
-1022012,BD62SFK,KUKUH,BRIKER DIGITAL,,,Indonesia
-1022013,BD62NMM,JOHAN,BRIKER DIGITAL,JAKARTA,,Indonesia
-1022014,BD62AWS,AWANG S.,BRIKER DIGITAL,DUMAI,,Indonesia
-1022015,BD62AR,ANDRIK,BRIKER DIGITAL,KALIMANTAN,,Indonesia
-1022016,BD62NIR,NIRWAN,BRIKER DIGITAL,,,Indonesia
-1022017,BD62YKB,YAKOB,BRIKER DIGITAL,SURABAYA,,Indonesia
-1022018,BD62IIK,SUWITO,BRIKER DIGITAL,,,Indonesia
-1022019,BD62BCG,ZULKARNAIN,BRIKER DIGITAL,MEDAN,SUMUT,Indonesia
-1022020,BD62YUS,YUSTINUS WARUWU,BRIKER DIGITAL,SIBOLGA,SUMUT,Indonesia
-1022021,BD62ACX,TRI BUDI,BRIKER DIGITAL,PBD,PAPUA,Indonesia
-1022022,BD62LLB,HADIYANTO,BRIKER DIGITAL,BEKASI,DKI JAKARTA,Indonesia
-1022023,BD62ANG,ANANG,BRIKER DIGITAL,,,Indonesia
-1022025,BD62RA,DITA,BRIKER DIGITAL,,,Indonesia
-1022028,BD62AKU,DUTA,BRIKER DIGITAL,,,Indonesia
-1022029,BD62AWHC,INDRA,BRIKER DIGITAL,,,Indonesia
+1022011,,,,,,Indonesia
+1022012,BD62SFK,KUKUH,BRIDI,,,Indonesia
+1022013,BD62NMM,JOHAN,BRIDI,PEKANBARU,RIAU,Indonesia
+1022014,BD62AWS,AWANG S.,BRIDI,DUMAI,RIAU,Indonesia
+1022015,BD62AR,ANDRIK,BRIDI,KALIMANTAN,KALIMANTAN,Indonesia
+1022016,BD62NIR,NIRWAN,BRIDI,,,Indonesia
+1022017,BD62YKB,YAKOB,BRIDI,SURABAYA,JAWA TIMUR,Indonesia
+1022018,BD62IIK,SUWITO,BRIDI,,,Indonesia
+1022019,BD62BCG,ZULKARNAIN,BRIDI,MEDAN,SUMATERA UTARA,Indonesia
+1022020,BD62YUS,YUSTINUS WARUWU,BRIDI,SIBOLGA,SUMATERA UTARA,Indonesia
+1022021,BD62ACX,TRI BUDI,BRIDI,PBD,,Indonesia
+1022022,BD62LLB,HADIYANTO,BRIDI,BEKASI,JAWA BARAT,Indonesia
+1022023,BD62ANG,ANANG,BRIDI,,,Indonesia
+1022025,BD62RA,DITA,BRIDI,,,Indonesia
+1022026,BD62DEF,DHEFFY,BRIDI,KOTA JAMBI,JAMBI,Indonesia
+1022028,BD62AKU,DUTA,BRIDI,PEKANBARU,RIAU,Indonesia
+1022029,BD62AWH,INDRA,BRIDI,JAKARTA SELATAN,JAKARTA,Indonesia
 1022030,BD62BAP,,,,,Indonesia
-1022031,BD62AXC,FIKO,BRIKER DIGITAL,,,Indonesia
-1022032,BD62DDF,TYO,BRIKER DIGITAL,JAKTIM,DKI JAKARTA,Indonesia
-1022033,BD62BCC,JHONAL,BRIKER DIGITAL,,,Indonesia
-1022034,BD62BTC,RADDY IRMAWAN,BRIKER DIGITAL,,,Indonesia
-1022035,BD62RRR,KABUL,BRIKER DIGITAL,,,Indonesia
-1022036,BD62WHY,WAHYU,BRIKER DIGITAL,MUARO JAMBI,JAMBI,Indonesia
-1022037,BD62IXM,DIAN HERMAWAN,BRIKER DIGITAL,CIAMIS,,Indonesia
-1022038,BD62HAN,I HANAFI,BRIKER DIGITAL,SERANG,BANTEN,Indonesia
-1022039,BD62NPC,SUTAN P,BRIKER DIGITAL,MUARO JAMBI,JAMBI,Indonesia
-1022040,BD62RZL,RIZAL,BRIKER DIGITAL,BANDUNG BARAT,,Indonesia
-1022041,BD62BAN,BAMBANG,BRIKER DIGITAL,YOGYA,,Indonesia
+1022030,BD62BAP,ABENK,BRIDI,JAKARTA TIMUR,JAKARTA,Indonesia
+1022031,BD62AXC,FIKO,BRIDI,JAKARTA TIMUR,JAKARTA,Indonesia
+1022032,BD62DDF,TYO,BRIDI,JAKARTA TIMUR,JAKARTA,Indonesia
+1022033,BD62BCC,JHONAL,BRIDI,,,Indonesia
+1022034,BD62BTC,RADDY IRMAWAN,BRIDI,,,Indonesia
+1022035,BD62RRR,KABUL,BRIDI,SORONG ,PAPUA BARAT DAYA ,Indonesia
+1022036,BD62WHY,WAHYU,BRIDI,MUARO JAMBI,JAMBI,Indonesia
+1022037,BD62IXM,DIAN HERMAWAN,BRIDI,CIAMIS,JAWA BARAT,Indonesia
+1022038,BD62HAN,I HANAFI,BRIDI,SERANG,BANTEN,Indonesia
+1022039,BD62NPC,SUTAN P,BRIDI,MUARO JAMBI,JAMBI,Indonesia
+1022040,BD62RZL,RIZAL,BRIDI,BANDUNG BARAT,JAWA BARAT,Indonesia
+1022041,BD62BAN,BAMBANG,BRIDI,YOGYA,YOGYAKARTA,Indonesia
+1022042,BD62HMY,ZALDIE,BRIDI,MEDAN,SUMATERA UTARA,Indonesia
+1022043,BD62ARI,CHEPOT,BRIDI,CIREBON,JAWA BARAT,Indonesia
+1022044,BD62GJS,PAMUNGKAS,BRIDI,BANDUNG,JAWA BARAT,Indonesia
+1022045,BD62TNI,DIDIK,BRIDI,JAKARTA,JAKARTA,Indonesia
+1022046,BD62BRN,BARON,BRIDI,JAKARTA UTARA,JAKARTA,Indonesia
+1022047,BD62GDL,GUNDUL,BRIDI,KALIMANTAN TIMUR,KALIMANTAN,Indonesia
+1022048,BD62NUR,UDIN,BRIDI,MEDAN,SUMATERA UTARA,Indonesia
+1022049,BD62AET,ISWADI,BRIDI,SORONG,PAPUA,Indonesia
+1022050,BD62SLH,M. SALEH,BRIDI,,,Indonesia
+1022051,BD62SFS,SUBHAN FS,BRIDI,KAMAL MADURA,JAWA TIMUR,Indonesia
+1022052,BD62LTF,LUTFI,BRIDI,MUSI BANYUASIN,SUMATERA SELATAN,Indonesia
+1022053,BD62RED,ADI,BRIDI,JAKARTA,JAKARTA,Indonesia
+1022054,BD62KIN,SOLIKIN,BRIDI,MUARO JAMBI,JAMBI,Indonesia
+1022055,BD62TNS,TONY,BRIDI,MAMPANG,JAKARTA SELATAN,Indonesia
 1025001,KT25LZT ,LINK ZELLO TOMBO ,tombolPTT ,BALIKPAPAN ,KALTIM ,Indonesia 
 1025002,KT25DVS ,DVS TOMBOLPTT ,tombolPTT ,BALIKPAPAN ,KALTIM ,Indonesia 
 1025003,KT25ARI ,ARIYANTO ,tombolPTT ,BALIKPAPAN ,KALTIM ,Indonesia 
@@ -851,8 +868,10 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 1036080,PB36KDC,Sidiq Purnomo Agung,K2PI- BNPB,Tangerang,Banten,Indonesia
 1052656,PB52NKY,I Nengah Karta Yasa,K2PI- BNPB,Mataram,NTB,Indonesia
 1064799,PB64MED,Agus Memed,K2PI- BNPB,Kutai Tmr,KALTIM,Indonesia
+1064800,PB64MC,Masykury,K2PI- BNPB,Kutai Tmr,KALTIM,Indonesia
 1111068,KR11FA,Fitri Aribowo,K2PI- DAMKAR,Langsa,Aceh,Indonesia
-1131746,KR31ADE,Ade Kosasih,K2PI- DAMKAR,Jakarta Sel,JAKARTA,Indonesia
+1111069,KR11PM,Isan Fuadi,K2PI- DAMKAR,Banda Aceh,Aceh,Indonesia
+1131746,KR31ADE,Adekosasih,K2PI- DAMKAR,Jakarta Sel,JAKARTA,Indonesia
 1133584,KR33LWM,Hanif Nurhidayat Isgun,K2PI- DAMKAR,Tegal,JATENG,Indonesia
 1133826,KR33AK,Andi Kusjatmiko,K2PI- DAMKAR,Surakarta,JATENG,Indonesia
 1133891,KR33KR,Krisno,K2PI- DAMKAR,Banjarnegara,JATENG,Indonesia
@@ -977,8 +996,9 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 1764658,SC64HRP,Hendrawan Riki Prihanto,K2PI- SCOUT,Kutai Tmr,KALTIM,Indonesia
 1765057,SC65QCF,Nirwansyah,K2PI- SCOUT,Tarakan,KALTARA,Indonesia
 1771039,SC71RQ,Eron Alberto Tambani,K2PI- SCOUT,Minahasa Utr,SULUT,Indonesia
+1773033,SC73DQ,Amrullah Hamid,K2PI- SCOUT,Parepare,SULSEL,Indonesia
 1835432,PP35MQQ,Ahmad Mudhofir,K2PI- POL-PP,Tuban,JATIM,Indonesia
-2000000,PC00CA ,Calon Anggota K2Pi ,K2PI ,Indonesia ,Indonesia ,Indonesia
+2000000,PC00CA,Calon Anggota Calon,K2PI,Bandung,Jawabarat,Indonesia
 2110022,JZ01KRN,Zulkarnain Yunus,K2PI- KRAP,Lhokeumawe,Aceh,Indonesia
 2110127,JZ01ATD,Edi Sahputra,K2PI- KRAP,Aceh Tgh,Aceh,Indonesia
 2110335,JZ11EXL,Maskun,K2PI- KRAP,Banyumas,JATENG,Indonesia
@@ -1029,6 +1049,11 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 2111434,JZ01CKO,Tri Rahmadi,K2PI- KRAP,Bener Meriah,Aceh,Indonesia
 2111435,YD6AXN,Barno,K2PI- KRAP,Bener Meriah,Aceh,Indonesia
 2111436,JZ01FLY,Muhammad Yanis,K2PI- KRAP,Bireuen,Aceh,Indonesia
+2111437,YC6AEE,Hasyem,K2PI- KRAP,Aceh Brt Daya,Aceh,Indonesia
+2111438,JZ01BFG,Isan Fuadi,K2PI- KRAP,Banda Aceh,Aceh,Indonesia
+2111439,JZ01AVA,Sriandi,K2PI- KRAP,Bener Meriah,Aceh,Indonesia
+2111440,JZ01AXN,Azhar Idris,K2PI- KRAP,Aceh Sel,Aceh,Indonesia
+2111441,JZ01TUO,Wais Armiya,K2PI- KRAP,Aceh Sel,Aceh,Indonesia
 2120052,JZ02EAB,Ali Akbar,K2PI- KRAP,Langkat,SUMUT,Indonesia
 2120077,JZ02BYQ,Agung Dwi Cahyadi,K2PI- KRAP,Sibolga,SUMUT,Indonesia
 2120116,JZ02RJA,Nimerodi Hia,K2PI- KRAP,Nias Brt,SUMUT,Indonesia
@@ -1076,9 +1101,11 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 2121168,JZ02BRI,Surapati,K2PI- KRAP,Medan,SUMUT,Indonesia
 2121201,JZ01AWU,Ibrahim Putra,K2PI- KRAP,Bener Meriah,Aceh,Indonesia
 2121220,JZ02ANE,Aqilah Ayyasy,K2PI- KRAP,Tapanuli Sel,SUMUT,Indonesia
+2121221,JZ02BSW,Kelvin Chandra,K2PI- KRAP,Medan,SUMUT,Indonesia
 2130928,JZ03AXE,Ihsan,K2PI- KRAP,Pasaman,SUMBAR,Indonesia
 2131211,JZ03EAH,Asril,K2PI- KRAP,Payakumbuh,SUMBAR,Indonesia
 2131212,JZ03VD,Des Alvian,K2PI- KRAP,Payakumbuh,SUMBAR,Indonesia
+2131213,JZ03SZT,Efrizon,K2PI- KRAP,Dharmasraya,SUMBAR,Indonesia
 2140002,JZ04MIB,R Helmi Midjaja,K2PI- KRAP,Pelalawan,Riau,Indonesia
 2140003,JZ04MSD,Suwardi,K2PI- KRAP,Pelalawan,Riau,Indonesia
 2140004,JZ04ERL,Wan Chairuddin Saleh,K2PI- KRAP,Bengkalis,Riau,Indonesia
@@ -1309,7 +1336,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 2320780,JZ10KRG,Arifin Eko Prasetyo,K2PI- KRAP,Bekasi,JABAR,Indonesia
 2320783,JZ10HJO,Samsudin,K2PI- KRAP,Depok,JABAR,Indonesia
 2320789,JZ10HVU,Suripno Marwanto,K2PI- KRAP,Depok,JABAR,Indonesia
-2320817,JZ10LTD,Johan Sumantri,K2PI- KRAP,Cianjur,JABAR,Indonesia
+2320817,JZ10LTD,Johan Sumantri,K2PI- KRAP,Karanganyar,JATENG,Indonesia
 2320821,JZ10KXK,Indra Iswara Lukman,K2PI- KRAP,Bekasi,JABAR,Indonesia
 2320863,JZ10IXX,Ambar Krydanto,K2PI- KRAP,Bogor,JABAR,Indonesia
 2320878,JZ10EJM,Suyatno,K2PI- KRAP,Bogor,JABAR,Indonesia
@@ -1327,6 +1354,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 2321131,JZ10KDF,Adrianto,K2PI- KRAP,Bekasi,JABAR,Indonesia
 2321200,JZ10DER,Revy Elled,K2PI- KRAP,Bogor,JABAR,Indonesia
 2321213,JZ10JTZ,Asnamil Cholis,K2PI- KRAP,Bekasi,JABAR,Indonesia
+2321214,JZ10MTH,Ade Saeful Bahri,K2PI- KRAP,Garut,JABAR,Indonesia
 2330049,JZ11BSL,Bambang Pramudya Aditomo,K2PI- KRAP,Tegal,JATENG,Indonesia
 2330149,JZ11DEG,Yuliawan Hutabara,K2PI- KRAP,Tegal,JATENG,Indonesia
 2330194,JZ11GZV,Bangun Supriyono,K2PI- KRAP,Sragen,JATENG,Indonesia
@@ -1368,6 +1396,8 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 2331227,JZ11DUO,Bambang Irianto,K2PI- KRAP,Blora,JATENG,Indonesia
 2331253,JZ11CYO,Nur Wahid,K2PI- KRAP,Semarang,JATENG,Indonesia
 2331288,JZ11HOU,Rudy Atmoko,K2PI- KRAP,Purworejo,JATENG,Indonesia
+2331289,JZ11MVH,Giri Sasongko,K2PI- KRAP,Demak,JATENG,Indonesia
+2331290,JZ11IIM,Siswanto,K2PI- KRAP,Purworejo,JATENG,Indonesia
 2340061,JZ12AXC,Bambang Anggoro Nugroho,K2PI- KRAP,Sleman,DIY,Indonesia
 2340074,JZ12BFW,Starky Aji,K2PI- KRAP,Yogyakarta,DIY,Indonesia
 2340140,JZ12HFT,Jaka Satmoko,K2PI- KRAP,Kulon Progo,DIY,Indonesia
@@ -1378,6 +1408,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 2340978,JZ12ACN,Anthoni Cahyo Noorsakti,K2PI- KRAP,Bantul,DIY,Indonesia
 2341062,JZ12CAI,Anton Fatahillah,K2PI- KRAP,Sleman,DIY,Indonesia
 2341135,JZ12CCY,Rusnawan Agung Wijaya,K2PI- KRAP,Yogyakarta,DIY,Indonesia
+2341136,JZ13CFD,Rahmatullah Arif Supriyanto,K2PI- KRAP,Yogyakarta,DIY,Indonesia
 2350023,JZ13FJD,Ahmad Darmawan,K2PI- KRAP,Surabaya,JATIM,Indonesia
 2350043,JZ13CKB,Hera Pagiana,K2PI- KRAP,Trenggalek,JATIM,Indonesia
 2350048,JZ13CUZ,Prasetyo Ardi Nugroho,K2PI- KRAP,Ponorogo,JATIM,Indonesia
@@ -1525,6 +1556,9 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 2641097,JZ18BFB,Yadi Slamet,K2PI- KRAP,Kutai Tmr,KALTIM,Indonesia
 2641098,JZ18KCD,Sutarno,K2PI- KRAP,Kutai Tmr,KALTIM,Indonesia
 2641099,JZ18BNN,Eko Susanto,K2PI- KRAP,Kutai Tmr,KALTIM,Indonesia
+2641100,JZ18KCE,H. Abu Tholib,K2PI- KRAP,Kutai Tmr,KALTIM,Indonesia
+2641101,JZ18AF,Andi Arifai,K2PI- KRAP,Kutai Tmr,KALTIM,Indonesia
+2641102,JZ18AWL,Masykury,K2PI- KRAP,Kutai Tmr,KALTIM,Indonesia
 2650057,JZ17ABM,Nirwansyah,K2PI- KRAP,Tarakan,KALTARA,Indonesia
 2650064,JZ17IER,Rudiansyah Badarudin Radji,K2PI- KRAP,Tarakan,KALTARA,Indonesia
 2710039,JZ22TNJ,Eron Alberto Tambani,K2PI- KRAP,Minahasa Utr,SULUT,Indonesia
@@ -1559,7 +1593,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 2740160,JZ25AAS,Budi Muliawan Roynata,K2PI- KRAP,Kendari,SULTRA,Indonesia
 2750282,JZ32AAH,Abdul Arif Puneli,K2PI- KRAP,Bone Bolango,Gorontalo,Indonesia
 2750311,JZ32ONP,Zainal Yasin Biga,K2PI- KRAP,Bone Bolango,Gorontalo,Indonesia
-2810467,JZ26KAC,Sehono,K2PI- KRAP,Seram Brt,Maluku,Indonesia
+2810467,JZ26KAC,Sehono,K2PI- KRAP,Seram BagBarat,Maluku,Indonesia
 2810591,JZ26ACD,Jihan Usamah Bin Abbas,K2PI- KRAP,Ambon,Maluku,Indonesia
 2820200,JZ28HDX,Muhammad Gari Alhaddad,K2PI- KRAP,Halmahera Sel,Maluku Utara,Indonesia
 2910083,JZ27CSL,Donny Lala,K2PI- KRAP,Keerom,Papua,Indonesia
@@ -1612,7 +1646,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 4011218,AB11OKY,Oky Framedis Hidayat,K2PI- TNI,Banda Aceh,Aceh,Indonesia
 4011301,AB11AAB,Adhar,K2PI- TNI,Aceh Utr,Aceh,Indonesia
 4011502,AB11ATH,Mulyono,K2PI- TNI,Bireuen,Aceh,Indonesia
-4015068,AB15AS,Agus Santoso,K2PI- TNI,Tebo,Jambi,Indonesia
+4015068,AB15ATA,Agus Santoso,K2PI- TNI,Tebo,Jambi,Indonesia
 4031006,AB31JAG,B Agus Priaman,K2PI- TNI,Jakarta Tmr,JAKARTA,Indonesia
 4031046,AB31JBU,Agus Pambudi,K2PI- TNI,Jakarta Brt,JAKARTA,Indonesia
 4031725,AB31IN,Iwan Nugroho,K2PI- TNI,Jakarta Utr,JAKARTA,Indonesia
@@ -1636,7 +1670,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100002,-YD0RFM-,Agus,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100003,YD2DVD,Krisno,K2PI- AMATEUR,Banjarnegara,JATENG,Indonesia
 5100004,-YG1ATR-,Agus,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100005,-YC9XR-,Antoni,K2PI- AMATEUR,Papua,Indonesia,Indonesia
+5100005,-YB9VP-,Antoni,K2PI- AMATEUR,Papua,Indonesia,Indonesia
 5100006,-YB2WB-,Bagus Riyanto,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100007,-YC0SJA-,Matias,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100008,-YD1FAH-,Giri,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -1646,7 +1680,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100012,-YC0SPC-,Johan,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100013,-YD5NGH-,Muhammad Khairun,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5100014,-YD3CRY-,Wahyu,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
-5100015,-YB0RWN-,Chandra,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100015,-YB1CHAN-,Chandra,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100016,-YE0EEE-,Dirgantara,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100017,-YD0RCF-,Rudi,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100019,YC1ART,Ardi Risman,K2PI- AMATEUR,Bogor,JABAR,Indonesia
@@ -1663,7 +1697,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100031,YB0CSP,Cahyo Satrio P,K2PI- AMATEUR,Jakarta Sel,JAKARTA,Indonesia
 5100032,-YD0ABN-,Aldo,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100033,-YE1AR-,Budi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100034,-YD9BWT-,I Made I_Made Subiantara,K2PI- AMATEUR,Bali,Indonesia,Indonesia
+5100034,-YD9BWT-,I Made,K2PI- AMATEUR,Bali,Indonesia,Indonesia
 5100035,-YD3BXL-,Bagus,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100036,-YC2DOP-,Ary Budi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100037,-YB1GBN-,Bobby,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -1678,7 +1712,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100046,-YB9GDP-,Munawiril,K2PI- AMATEUR,Nusa Tenggara Barat,Indonesia,Indonesia
 5100047,YC5YC,Davidcy,K2PI- AMATEUR,Pekanbaru,Riau,Indonesia
 5100048,YD3AFS,Bimo Parama Arta Novemi Anto,K2PI- AMATEUR,Sidoarjo,JATIM,Indonesia
-5100049,-YC0OST-,Irsani IndraPutra,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100049,-YC0OST-,Irsani Indra Putra,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100050,-YD1IOU-,Wasim,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100051,YC2LCZ,Pramuka Supriyatmo,K2PI- AMATEUR,Kudus,JATENG,Indonesia
 5100052,-YF5NAW-,Refal,K2PI- AMATEUR,Kepulauan Riau,Indonesia,Indonesia
@@ -1695,8 +1729,8 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100063,-YE3ETF-,Hendra Dwi,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100064,-YB9GWR-,Christianto,K2PI- AMATEUR,Nusa Tenggara Barat,Indonesia,Indonesia
 5100065,-YC3DOC-,Nina,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
-5100066,-YB1DJO-,R Djoko R_Djoko,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100067,-YD0ABD-,Irfansah Sh,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100066,-YB1DJO-,R Djoko,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100067,-YD0ABD-,Irfansah SH,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100068,-YC1AYO-,Suramto,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100069,-YB1LZ-,Gun,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100070,-YB1DWD-,Sri,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -1707,7 +1741,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100075,YD1LEQ,Komara Abdulkadir,K2PI- AMATEUR,Bandung,JABAR,Indonesia
 5100076,-YB1DGG-,Achmad Setyadi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100077,-YD4AGL-,Maulana Ikhwan,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
-5100078,-YC0DMS-,Donny Marthen,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100078,-YB0DMS-,Donny,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100079,-YD1BMI-,Rahman,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100080,-YC0AGP-,Adji,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100081,-YE3ESW-,Poedjiono,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
@@ -1725,6 +1759,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100093,-YB1BUL-,Mula Warman,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100094,YB0DYY,Donny Himawan,K2PI- AMATEUR,Jakarta Sel,JAKARTA,Indonesia
 5100095,YB0ACR,Winanto,K2PI- AMATEUR,Jakarta Utr,JAKARTA,Indonesia
+5100096,-YB0SGF-,Sugeng,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100097,-YD6ROA-,Aris S,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100098,-YD7OHC-,Agustinus Djonet,K2PI- AMATEUR,Kalimantan Tengah,Indonesia,Indonesia
 5100099,-YC0SFS-,Novi,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
@@ -1741,20 +1776,20 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100110,-YG0GLE-,Wahyu,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100111,-YD1DYI-,Kun,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100112,-YC8AO-,Andi,K2PI- AMATEUR,Sulawesi Selatan,Indonesia,Indonesia
-5100113,-YD5ALF-,Benny,K2PI- AMATEUR,Sumatera Barat,Indonesia,Indonesia
+5100113,-YC5ALF-,Benny,K2PI- AMATEUR,Sumatera Barat,Indonesia,Indonesia
 5100114,-YB5QZ-,Anton,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5100115,-YB1AR-,Yana,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100116,-YB6ABO-,Doni,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5100117,-YG1AFQ-,Aos,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100118,-YE1BON-,H Andi H_Andi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100118,-YE1BON-,H Andi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100119,-YB1HR-,Agus,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100120,-YD0SIO-,Joel,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100121,-YD4SIO-,Erwin,K2PI- AMATEUR,Lampung,Indonesia,Indonesia
 5100122,-YC7MCQ-,Muh Al,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
-5100123,-YC0WRY-,Wiryadinata,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100123,-YC0WRY-,Wirya,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100124,-YC1JXU-,Andi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100125,-YD9BEK-,I Made I_Made,K2PI- AMATEUR,Bali,Indonesia,Indonesia
-5100126,-YD1RTW-,Elvan Wicaksana,K2PI- AMATEUR,Banten,Indonesia,Indonesia
+5100125,-YD9BEK-,I Made,K2PI- AMATEUR,Bali,Indonesia,Indonesia
+5100126,-YD1RTW-,Elvan,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5100127,-YD1EFU-,Wawan,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100128,-YD2VNF-,Totok,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100129,-YC0OJM-,Elvin,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
@@ -1765,19 +1800,19 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100134,YC1RHN,Mashuri Usman,K2PI- AMATEUR,Tangerang,Banten,Indonesia
 5100135,-YD6GWC-,Mujibussalim,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5100136,YD9BEJ,Inyoman Darta,K2PI- AMATEUR,Badung,Bali,Indonesia
-5100137,-YG9EDE-,I Made I_Made,K2PI- AMATEUR,Bali,Indonesia,Indonesia
-5100138,-YC9CRV-,I Kadek I_Kadek,K2PI- AMATEUR,Bali,Indonesia,Indonesia
+5100137,-YG9EDE-,I Made,K2PI- AMATEUR,Bali,Indonesia,Indonesia
+5100138,-YC9CRV-,I Kadek,K2PI- AMATEUR,Bali,Indonesia,Indonesia
 5100139,-YD9GXW-,Syafri,K2PI- AMATEUR,Nusa Tenggara Barat,Indonesia,Indonesia
 5100140,-YC1THS-,Hendra,K2PI- AMATEUR,Banten,Indonesia,Indonesia
-5100141,-YC5NBZ-,Sukatno St,K2PI- AMATEUR,Riau,Indonesia,Indonesia
+5100141,-YC5NBZ-,Sukatno ST,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5100142,-YB7JUM-,Jumhaidi,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5100143,-YB0BAM-,Lie Bambang,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100144,YD6HOY,Ali Akbar,K2PI- AMATEUR,Langkat,SUMUT,Indonesia
 5100145,YC7WDE,Achmad Wildan,K2PI- AMATEUR,Bontang,KALTIM,Indonesia
 5100146,YC0PQX,Suganda Kartarahardja,K2PI- AMATEUR,Jakarta Brt,JAKARTA,Indonesia
 5100147,-YD5DFF-,Hanurani,K2PI- AMATEUR,Sumatera Barat,Indonesia,Indonesia
-5100148,-YD7KXB-,M Kahfi M_Kahfi,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
-5100149,-YB2VUT-,Ir Edy Ir_Edy,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
+5100148,-YD7KXB-,M Kahfi,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
+5100149,-YB2VUT-,Ir Edy,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100150,-YD9XBZ-,Suwito,K2PI- AMATEUR,Papua,Indonesia,Indonesia
 5100151,-YC9RHC-,Paulus,K2PI- AMATEUR,Papua Barat,Indonesia,Indonesia
 5100152,-YD0EVL-,Lim Yung,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
@@ -1788,8 +1823,8 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100157,-YB2RX-,Agus,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100158,-YB8LEF-,Moh,K2PI- AMATEUR,Sulawesi Tenggara,Indonesia,Indonesia
 5100159,-YD7ICF-,Eko,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
-5100160,-YD0PGF-,Dr Ir Dr_Ir Mahally,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5100161,-YD9ASO-,I Wayan I_Wayan,K2PI- AMATEUR,Bali,Indonesia,Indonesia
+5100160,-YD0PGF-,Mahally,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100161,-YD9ASO-,I Wayan,K2PI- AMATEUR,Bali,Indonesia,Indonesia
 5100162,-YC2FII-,Sulistiono,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100163,-YC1NXR-,Ajat,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100164,-YB9UA-,Agustino,K2PI- AMATEUR,Papua,Indonesia,Indonesia
@@ -1800,7 +1835,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100169,YC8DQ,Amrullah Hamid,K2PI- AMATEUR,Parepare,SULSEL,Indonesia
 5100170,-YB2ERL-,Bambang Suryo,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100171,-YD4SMK-,Arya,K2PI- AMATEUR,Lampung,Indonesia,Indonesia
-5100172,-YG9DFK-,I Putu I_Putu Wira,K2PI- AMATEUR,Bali,Indonesia,Indonesia
+5100172,-YG9DFK-,I Putu Wira,K2PI- AMATEUR,Bali,Indonesia,Indonesia
 5100173,-YD1MFI-,Bambang Indra,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100174,YC0AXC,Hanafi Handoko,K2PI- AMATEUR,Jakarta Tmr,JAKARTA,Indonesia
 5100175,YD0AWP,Bonny Hardi Putra,K2PI- AMATEUR,Jakarta Pst,JAKARTA,Indonesia
@@ -1808,10 +1843,10 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100177,-YD1JXM-,Ibrahim Azis,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100178,-YC0AWH-,Indra,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100179,-YB1ETT-,Iyeng,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100180,-YB1DXK-,Dr H Dr_H Wawan,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100180,-YB1DXK-,Dr H Wawan,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100181,-YC1CAR-,Hanny,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100182,YC0ASW,R Jefta Heroe Porwanto,K2PI- AMATEUR,Jakarta Utr,JAKARTA,Indonesia
-5100183,-YD2UFZ-,M Uke M_Uke Anggoro,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
+5100183,-YD2UFZ-,M Uke Anggoro,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100184,-YD2DEG-,Dedi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100185,-YD2AXX-,Maulana Bahrul,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100186,YD1EMI,Fera Puji Hendriwianto,K2PI- AMATEUR,Bogor,JABAR,Indonesia
@@ -1825,15 +1860,15 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100194,-YB1BX-,Asep Rifai,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100195,-YD1NRL-,Nural,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100196,-YD0AVI-,Juliadi Satyo,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5100197,-YB8XM-,Ir Jacob Ir_Jacob DC,K2PI- AMATEUR,Maluku,Indonesia,Indonesia
-5100198,-YB1DUU-,Uu Choeruddin Uu_Choeruddin,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100197,-YB8XM-,Ir Jacob D C,K2PI- AMATEUR,Maluku,Indonesia,Indonesia
+5100198,-YB1DUU-,Uu Choeruddin,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100199,-YD1CVS-,Hermawan,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100200,-YC7OIZ-,Wahyudi,K2PI- AMATEUR,Kalimantan Tengah,Indonesia,Indonesia
 5100201,-YD6HPI-,Dhanyar,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100202,-YD6HPO-,Andhika Yudha,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100203,-YE7YB-,Rachmad,K2PI- AMATEUR,Kalimantan Timur,Indonesia,Indonesia
 5100204,-YD1CMV-,Kusmara,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100205,-YB7RV-,M rafi M_rafi,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
+5100205,-YB7RV-,Ravie,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5100206,-YC0TBU-,Unggul,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100207,-YB1MC-,Gunawan Se,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100208,-YC9SOR-,Onysimus,K2PI- AMATEUR,Papua Barat,Indonesia,Indonesia
@@ -1841,7 +1876,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100210,YC1EKP,Anwari Arichepot,K2PI- AMATEUR,Cirebon,JABAR,Indonesia
 5100211,-YB8VRA-,Agustinus,K2PI- AMATEUR,Maluku,Indonesia,Indonesia
 5100212,-YD1ION-,Kiki,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100213,-YB2BHX-,Dr Sunarji Dr_Sunarji,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100213,-YB2BHX-,Dr Sunarji,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100214,-YG1AEQ-,Panji,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100215,-YD0AOQ-,Budi,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100216,YB6IOV,Muhammad Hafizh Nasution,K2PI- AMATEUR,Medan,SUMUT,Indonesia
@@ -1855,8 +1890,8 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100224,YD5NMM,Johan Gozali,K2PI- AMATEUR,Pekanbaru,Riau,Indonesia
 5100225,YD6HQN,Hendrawan Wijaya,K2PI- AMATEUR,Medan,SUMUT,Indonesia
 5100226,-YD6ACE-,Muhammad,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
-5100227,-YB6DE-,H Eddy H_Eddy,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
-5100228,-YD0TAX-,Syaefudin SSos,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100227,-YB6DE-,H Eddy,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
+5100228,-YD0TAX-,Syaefudin S Sos,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100229,-YF3FBV-,Sugeng Imam,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100230,-YG2AFS-,Masrur,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100231,-YD1DKZ-,Oentoeng,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -1882,7 +1917,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100251,-YD0FQW-,Effendy,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100252,-YD2UFY-,Rizky,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100253,-YD4GXP-,Dhali,K2PI- AMATEUR,Sumatera Selatan,Indonesia,Indonesia
-5100254,-YD7LJL-,Muhammad,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
+5100254,-YD7LJL-,Ihsan,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5100255,-YC8VJF-,Natalio,K2PI- AMATEUR,Maluku,Indonesia,Indonesia
 5100256,YB8VK,Abdul Chalik Usman,K2PI- AMATEUR,Ambon,Maluku,Indonesia
 5100257,-YD9SOQ-,Vemmy,K2PI- AMATEUR,Papua Barat,Indonesia,Indonesia
@@ -1965,12 +2000,12 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100334,-YD1BUH-,Budi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100335,-YC3BZF-,Ibnu,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100336,-YB0KS-,Kiskenda,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5100337,-YG8ADI-,A_ Ilman,K2PI- AMATEUR,Sulawesi Barat,Indonesia,Indonesia
+5100337,-YG8ADI-,A Ilman,K2PI- AMATEUR,Sulawesi Barat,Indonesia,Indonesia
 5100338,YC6DR,Dedy Syafrial,K2PI- AMATEUR,Langsa,Aceh,Indonesia
-5100339,-YD3JOO-,Johan,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100339,-YB3JOO-,Johan,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100340,-YB6HAI-,Anda,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100341,-YB2RT-,Liliek,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100342,-YD6AAR-,Ir Didi Ir_Didi Acmad,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
+5100342,-YD6AAR-,Ir Didi Acmad,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5100343,YC6ROY,Eddy Susanto,K2PI- AMATEUR,Labuhanbatu,SUMUT,Indonesia
 5100344,-YD6DPO-,Wahid,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5100345,-YC6DBZ-,Badruzzaman,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
@@ -1989,7 +2024,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100358,-YG1ANH-,Muhammad Iqbal,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100359,-YC8FXI-,Endi,K2PI- AMATEUR,Sulawesi Selatan,Indonesia,Indonesia
 5100360,YB2RPO,Panca Pamungkas,K2PI- AMATEUR,Semarang,JATENG,Indonesia
-5100361,-YC1OHE-,Hersuparyoto,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100361,-YC1OHE-,Hers,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100362,YD6HRD,Karwan,K2PI- AMATEUR,Deli Serdang,SUMUT,Indonesia
 5100363,-YB0JOY-,David,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100364,-YD8SAK-,Beverly Ivy,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
@@ -2028,11 +2063,10 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100397,-YG1ANL-,Dede Jajang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100398,-YD0BEK-,Ahmad Didie,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100399,-YD1DBS-,Lanang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100400,-YD2BUX-,M Ilham M_Ilham,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100400,-YD2BUX-,M Ilham,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100401,-YD0BCJ-,Evan,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100402,-YD0BEW-,Rohman,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100403,-YD0AKD-,Prasetyono,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5100404,-YD3AUD-,Ninik,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100405,-YD0AAY-,Lendra,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100406,-YC5AVO-,Nofriadi,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5100407,-YD1WDL-,Sudarmanto,K2PI- AMATEUR,Banten,Indonesia,Indonesia
@@ -2063,16 +2097,16 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100432,YB6MIX,Johan,K2PI- AMATEUR,Medan,SUMUT,Indonesia
 5100433,-YC1IDB-,Damini,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100434,YD5NMN,Himanto,K2PI- AMATEUR,Kuantan Singingi,Riau,Indonesia
-5100435,-YE5YUD-,F Yudhi F_Yudhi Priyo,K2PI- AMATEUR,Kepulauan Riau,Indonesia,Indonesia
+5100435,-YE5YUD-,F Yudhi Priyo,K2PI- AMATEUR,Kepulauan Riau,Indonesia,Indonesia
 5100436,-YF1AIX-,Dwianto Hajar,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100437,-YF5TOF-,Sapri,K2PI- AMATEUR,Kepulauan Riau,Indonesia,Indonesia
 5100438,YG1AZZ,Mahyul Fata,K2PI- AMATEUR,Bekasi,JABAR,Indonesia
-5100439,-YC0AWG-,Ir Y Ir_Y JhonMangatur,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100439,-YC0AWG-,Ir Y Jhon Mangatur,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100440,-YE5OK-,Sukamto,K2PI- AMATEUR,Kepulauan Riau,Indonesia,Indonesia
 5100441,-YD3FEF-,Herman,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100442,-YC8RPK-,Roland,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5100443,YF1ARX,Ahmad Hilyadi,K2PI- AMATEUR,Depok,JABAR,Indonesia
-5100444,-YD0BHH-,M Din M_Din,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100444,-YD0BHH-,M Din,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100445,-YG1AWU-,Gilang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100446,-YB1AUI-,Muhammad Saiful,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100447,-YD0RFN-,Frans,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
@@ -2103,13 +2137,12 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100473,-YD5NIV-,Usman,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5100474,YD5NFZ,Susiyanto,K2PI- AMATEUR,Pelalawan,Riau,Indonesia
 5100475,-YD6AER-,Syaiful,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
-5100476,-YB2HKB-,Triyono,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100476,-YB2HKB-,Triyono Skm M M Kes,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100477,-YC5NHD-,Hamidi,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5100478,-YD6HQC-,Andika,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
-5100479,-YD6HQB-,M Ari M_Ari,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
+5100479,-YD6HQB-,M Ari,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100480,-YD9GAC-,Edy,K2PI- AMATEUR,Nusa Tenggara Barat,Indonesia,Indonesia
 5100481,YD6HTK,Darwin Putra,K2PI- AMATEUR,Medan,SUMUT,Indonesia
-5100482,-YB3JF-,Djoko,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100483,-YB3BIY-,Agus,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100484,YB2TDP,Totok Sukamto,K2PI- AMATEUR,Rembang,JATENG,Indonesia
 5100485,-YE1AAH-,Agung,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -2118,7 +2151,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100488,-YC3MVA-,Ali,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100489,YG0THE,Arintoko Nugroho,K2PI- AMATEUR,Tangerang Sel,Banten,Indonesia
 5100490,YC1FYL,Atin Surelawatin,K2PI- AMATEUR,Subang,JABAR,Indonesia
-5100491,-YB3BUE-,Sugiarto Utomo,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100491,-YB3BUE-,Sugiarto,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100492,YB1TS,Benyamin Martani,K2PI- AMATEUR,Tangerang Sel,Banten,Indonesia
 5100493,-YC3NED-,Agung Dyatmika,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100494,-YC3TIL-,Agus,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
@@ -2150,14 +2183,14 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100520,-YC6JMJ-,Jumiran,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100521,-YD6HSH-,Achmad Syarif,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100522,-YC6OEO-,Ferny,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
-5100523,-YH0AF-,Orlok JakartaBarat,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100523,-YH0AF-,Orari Lokal Jakarta Barat,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100524,-YD8AKM-,Akram,K2PI- AMATEUR,Sulawesi Selatan,Indonesia,Indonesia
 5100525,-YF8XRT-,Roland,K2PI- AMATEUR,Maluku Utara,Indonesia,Indonesia
 5100526,-YD0OEM-,Richard,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100527,-YC2BHH-,Anton,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100528,-YD6HQL-,Amal,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100529,-YD6HRO-,Batara Mulia,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
-5100530,-YD6HPR-,Arifuddin DavidRao,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
+5100530,-YD6HPR-,Arifuddin David Rao,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100531,-YF5TLS-,Ganda,K2PI- AMATEUR,Kepulauan Riau,Indonesia,Indonesia
 5100532,-YC1DIQ-,Basuki,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100533,-YB8RSE-,Franky,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
@@ -2166,7 +2199,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100536,-YG3CMS-,Ferry,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100537,-YD3BVI-,Petrus,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100538,-YB3BSK-,Bambang,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
-5100539,-YB3BRS-,Leo Agus Krismunanto,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100539,-YB3BRS-,Ir,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100540,YC3CNV,Anang Susanto,K2PI- AMATEUR,Jombang,JATIM,Indonesia
 5100541,-YC6PPW-,Abel,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100542,-YC3JHL-,Ferry,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
@@ -2182,7 +2215,6 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100552,-YD0YNV-,Mintardjo,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100553,-YD5ASJ-,Bayu,K2PI- AMATEUR,Sumatera Barat,Indonesia,Indonesia
 5100554,-YF5TLW-,Hartono,K2PI- AMATEUR,Kepulauan Riau,Indonesia,Indonesia
-5100555,-YB2CLH-,Suharmantyo,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100556,-YD0BJM-,Sugi,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100557,YC2PAB,Jumaroh,K2PI- AMATEUR,Semarang,JATENG,Indonesia
 5100558,YD5NIH,Ahmad Harahap,K2PI- AMATEUR,Pelalawan,Riau,Indonesia
@@ -2221,19 +2253,19 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100591,-YC2EPY-,Muchlis,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100592,-YC6KTR-,Khairuddin,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100593,-YC1BXU-,Totong,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100594,-YC2WNR-,Wisnu RanggaTanjung,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
+5100594,-YC2WNR-,Wisnu Rangga Tanjung,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100595,-YG3FWA-,Philipus,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100596,-YG2ASQ-,Nurwanto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100597,-YF0RIK-,Rikie,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100598,-YG1AWC-,Doddy,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100599,-YB3RZ-,Indarto,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
-5100600,-YH3BL-,Orlok Surabaya,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100600,-YH3BL-,Orari Lokal Surabaya,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100601,-YB3KM-,Thomas,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100602,-YD2GYO-,Bagiyo,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100603,-YC2BXR-,Djoko,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100604,-YD2ICS-,Purwanto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100605,-YC3YLT-,Yulianto,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
-5100606,-YC2KQT-,Dr H Dr_H AgusYulianto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100606,-YC2KQT-,Dr H Agus Yulianto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100607,-YB2FRI-,Febrianto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100608,YG3CTD,Henri Kurniawan,K2PI- AMATEUR,Bondowoso,JATIM,Indonesia
 5100609,-YG2IIN-,Solihin,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -2270,12 +2302,12 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100640,-YC2BDQ-,Achmad Handy,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100641,-YB1LL-,Wirjawan,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100642,-YG1BHK-,Muhammad,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100643,-YH3SUB-,Orlok Surabaya,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100643,-YH3SUB-,ORARI LOKAL SURABAYA,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100644,-YC2TTG-,Tatang Agus,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100645,-YB0SCV-,Dedy,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100646,-YB0FVV-,Johannes,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100647,-YB3TOM-,David,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
-5100648,-YG3FWD-,Rokky Yoga,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100648,-YG3FWD-,Rokky,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100649,-YB0OSU-,Aditya,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100650,-YG2AXI-,Yayan,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100651,-YD1EEP-,Acep,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -2287,8 +2319,8 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100657,-YD0RVS-,Supriyanto,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100658,-YC0UI-,Dewi Rani,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100659,-YD5NPZ-,Erikson,K2PI- AMATEUR,Riau,Indonesia,Indonesia
-5100660,-YC2BAH-,Bambang Kustiawan,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100661,-YC5NAU-,M Zanan M_Zanan,K2PI- AMATEUR,Riau,Indonesia,Indonesia
+5100660,-YC2BAH-,Bambang,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100661,-YC5NAU-,M Zanan,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5100662,-YD7UUV-,Teguh,K2PI- AMATEUR,Kalimantan Timur,Indonesia,Indonesia
 5100663,-YB8MAN-,Badrin,K2PI- AMATEUR,Sulawesi Tengah,Indonesia,Indonesia
 5100664,-YD1CFD-,Freddy,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -2301,12 +2333,12 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100671,-YD9ATU-,Agung Rio,K2PI- AMATEUR,Bali,Indonesia,Indonesia
 5100672,-YD2VJI-,Tisa,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100673,-YD5YDM-,Setyo,K2PI- AMATEUR,Riau,Indonesia,Indonesia
-5100674,-YF2BBE-,Jarot Dwi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100674,-YF2BBE-,Jarot,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100675,-YD2RBS-,Wahudi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100676,-YG1BKK-,Ricky,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100677,YB2CPQ,Indra Hari Setiawan,K2PI- AMATEUR,Klaten,JATENG,Indonesia
 5100678,YC1JGE,Husni Mubarok,K2PI- AMATEUR,Ciamis,JABAR,Indonesia
-5100679,-YC2SSY-,Ign Setyo Ign_Setyo,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100679,-YC2SSY-,Ign Setyo,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100680,-YG2BCM-,Almer,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100681,-YG1BKC-,Dede,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100682,-YD9HWH-,Eva,K2PI- AMATEUR,Nusa Tenggara Barat,Indonesia,Indonesia
@@ -2314,10 +2346,9 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100684,-YB3BXF-,Drs Syamsul,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100685,-YC2CLQ-,Basuki,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100686,YC9CVS,I Ketut Widiastawan,K2PI- AMATEUR,Klungkung,Bali,Indonesia
-5100686,-YD9CVS-,I Ketut I_Ketut Widiastawan,K2PI- AMATEUR,Bali,Indonesia,Indonesia
 5100687,-YB0NSI-,Tarunodjojo,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100688,-YC2GAN-,Wakhid,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100689,-YD2GXV-,M Zainuddin M_Zainuddin,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100689,-YD2GXV-,Zainuddin,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100690,-YB1ALT-,Usep,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100691,-YF1ANL-,Dede Jajang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100692,-YD2JTP-,Sigit,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -2332,7 +2363,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100701,-YC2OWI-,Saripan,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100702,-YD2DBV-,Sujinto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100703,-YC2GGW-,Abi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100704,-YB7CCP-,Cece Lili,K2PI- AMATEUR,Kalimantan Barat,Indonesia,Indonesia
+5100704,-YB7CC-,Cece Lili,K2PI- AMATEUR,Kalimantan Barat,Indonesia,Indonesia
 5100705,-YB1CWO-,Mia,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100706,-YG1BDE-,Ali,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100707,-YG2ANG-,Akhmad,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -2340,28 +2371,30 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100709,-YC8VAJ-,Josias,K2PI- AMATEUR,Maluku,Indonesia,Indonesia
 5100710,YF2AWN,Djuprijanto,K2PI- AMATEUR,Rembang,JATENG,Indonesia
 5100711,YG3ACN,Johans Herman Karyaadi,K2PI- AMATEUR,Jakarta Utr,JAKARTA,Indonesia
-5100712,-YB3GU-,Irwanto Siswo,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100712,-YB3GU-,Irwanto,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100713,-YG3APH-,Herry,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100714,YD6HDK,Yustinus E Waruwu,K2PI- AMATEUR,Sibolga,SUMUT,Indonesia
 5100715,YG3ANX,Suryo Agung Rurianto,K2PI- AMATEUR,Pasuruan,JATIM,Indonesia
 5100716,YD5NOS,Rio Arwandita,K2PI- AMATEUR,Dumai,Riau,Indonesia
-5100717,-YH1AVB-,Orari WilayahBojonag,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100717,-YH1AVB-,Orari Lokal Kota Bandung Wilayah Bojonagara,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100718,YF3AJE,Ahmad Darmawan,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
 5100719,-YG3AQK-,Djoko,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100720,YB3CII,Betantyo Wisnu Hernawan,K2PI- AMATEUR,Bangkalan,JATIM,Indonesia
 5100721,-YG5NCQ-,Agustian,K2PI- AMATEUR,Kepulauan Riau,Indonesia,Indonesia
-5100723,-YH1AL-,Orlok Sumedang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100725,-YH7HC-,Orlok Kotabaru,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
-5100726,-YH6HA-,Orda SumateraUtara,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
-5100728,-YH2AE-,Orlok Banjarnegara,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100722,-YH3BLJ-,Orari Lokal Surabaya,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100723,-YH1AL-,ORARI Local Sumedang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100726,-YH6HA-,Orari Daerah Sumatera Utara,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
+5100727,-YH6HAJ-,Orari Daerah Sumatera Utara,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
+5100728,-YH2AE-,Orari Lokal Banjarnegara,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100729,-YB8EIP-,Sulwan,K2PI- AMATEUR,Sulawesi Selatan,Indonesia,Indonesia
 5100730,YG3ART,Mufti Kusuma Adi,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
+5100731,-YH6HMJ-,Orari Daerah Sumatera Utara,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100733,-YD1ESZ-,Imam Nugraha,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100734,-YD6HMC-,Ekki,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100735,-YD0BJJ-,Andre,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5100736,-YD2RES-,Dr Elfi Dr_Elfi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100736,-YD2RES-,Dr Elfi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100737,-YD1SMY-,Herry,K2PI- AMATEUR,Banten,Indonesia,Indonesia
-5100738,-YD6HRV-,William JoshuaToga,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
+5100738,-YD6HRV-,William,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100739,-YD0LLN-,Syachriar,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100740,YB8TB,Bambang Agussetia,K2PI- AMATEUR,Manado,SULUT,Indonesia
 5100741,-YC3IRM-,Matius Adi,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
@@ -2388,8 +2421,8 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100762,YC3BAF,Utomo Soedarminto,K2PI- AMATEUR,Malang,JATIM,Indonesia
 5100763,-YB3BVO-,Dede,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100764,-YC2FAO-,Faozan,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100765,-YC4APF-,Eko WahyuSantoso,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
-5100766,YF1BSH,Agus Dani Sulistianto,K2PI- AMATEUR,Depok,JABAR,Indonesia
+5100765,-YC4APF-,Eko Wahyu Santoso,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
+5100766,YE1BSH,Agus Dani Sulistianto,K2PI- AMATEUR,Depok,JABAR,Indonesia
 5100767,YB8DNT,Muhammad Syamsul Gafur,K2PI- AMATEUR,Makassar,SULSEL,Indonesia
 5100768,-YD3PSR-,Agus,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100769,-YG3AFD-,Satriya,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
@@ -2409,6 +2442,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100783,-YG2AYZ-,Wima Angga,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100784,-YD2IAU-,Mujiono,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100785,YF1BKB,R Budi Hidayat,K2PI- AMATEUR,Bandung,JABAR,Indonesia
+5100785,-YE1BKB-,Buddy,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100786,-YD7IEE-,Muhammad,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5100787,-YB7VAS-,Agus,K2PI- AMATEUR,Kalimantan Timur,Indonesia,Indonesia
 5100788,YC7NUP,Urip Pamuji,K2PI- AMATEUR,Banjarmasin,KALSEL,Indonesia
@@ -2437,26 +2471,26 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100811,-YD2EBA-,Hendi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100812,-YD0AFC-,Eko,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100813,-YC2LEI-,Nuryani,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100814,-YB2JVX-,Fx Dharmoko Fx_Dharmoko,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100814,-YB2JVX-,Fx Dharmoko,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100815,-YD2IJA-,Wiji,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100816,-YD2ATI-,Muhamad Isa,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100817,-YF2ARZ-,H Djoko H_Djoko,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5100817,-YF2ARZ-,H Djoko,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100818,-YG2AVS-,Yani,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100819,YB0OIL,Adhianto Sardjono,K2PI- AMATEUR,Jakarta Pst,JAKARTA,Indonesia
 5100820,YD6HAX,Kuswandi Arief,K2PI- AMATEUR,Batu Bara,SUMUT,Indonesia
 5100821,-YD0BAY-,Jody,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100822,-YH0AA-,Orda DKI,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100822,-YH0AA-,Orari Daerah DKI,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100823,-YH0D-,Orari Headquarter,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100824,YD6SVL,Nurdin,K2PI- AMATEUR,Medan,SUMUT,Indonesia
 5100825,-YD1RIA-,Aris,K2PI- AMATEUR,Sumatera Selatan,Indonesia,Indonesia
 5100826,-YD6SIY-,Andy,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100827,YD0AGI,Ahmad Jaja,K2PI- AMATEUR,Jakarta Tmr,JAKARTA,Indonesia
 5100828,-YC4SJC-,Andi,K2PI- AMATEUR,Lampung,Indonesia,Indonesia
-5100829,-YC1BAW-,Dr Bambang Dr_Bambang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100829,-YC1BAW-,Dr Bambang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100830,-YD7OBT-,Tri,K2PI- AMATEUR,Kalimantan Tengah,Indonesia,Indonesia
-5100831,-YC2RBJ-,Ali,K2PI- AMATEUR,Kab BREBES,Indonesia,Indonesia
-5100832,-YC9CT-,I Made I_Made JohnTony,K2PI- AMATEUR,Bali,Indonesia,Indonesia
-5100833,-YG1AEJ-,Ir Bambang Ir_Bambang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100831,-YC2RBJ-,Ali,K2PI- AMATEUR,KABUPATEN BREBES CENTRAL JAWA,Indonesia,Indonesia
+5100832,-YC9CT-,TONY,K2PI- AMATEUR,Bali,Indonesia,Indonesia
+5100833,-YG1AEJ-,Ir Bambang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100834,-YG3FSL-,Guruh,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100835,-YD1BKZ-,Zaldy,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100836,-YC2CMH-,Eko,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -2464,17 +2498,17 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100838,-YD1SBQ-,Benny,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5100839,-YD7HBD-,Arsiwan,K2PI- AMATEUR,Tanjung Tabalong,Indonesia,Indonesia
 5100840,-YG3BHX-,Iwan,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
-5100841,-YG3BHA-,M Fajaruddin M_Fajaruddin,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100841,-YG3BHA-,M Fajaruddin,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100842,-YD2EQI-,Agustinus,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100843,-YB3TXH-,Hery,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100844,-YG3BHU-,Tirtowihardjo,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100845,YB9BA,Wayan Astawa,K2PI- AMATEUR,Bangli,Bali,Indonesia
 5100846,-YC2CXL-,Slamet,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100847,-YB1BBW-,Marthien Mh Tarihoran,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100847,-YB1BBW-,Ir,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100848,-YG3BGZ-,Ribut,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100849,-YG1BAQ-,Adi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100850,-YC2PAR-,Sapardi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100851,-YG3BHB-,Mas Widi Mas_Widi,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100851,-YG3BHB-,Mas Widi,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100852,-YC2UVB-,Tri,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100853,-YG3BHG-,Bagus,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100854,-YD7OAM-,Yanto,K2PI- AMATEUR,Kalimantan Tengah,Indonesia,Indonesia
@@ -2497,7 +2531,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100871,-YC0LIN-,Alin Elin,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100872,YC0PVG,Andi Jaswandi,K2PI- AMATEUR,Jakarta Brt,JAKARTA,Indonesia
 5100873,YB0MLE,Gm Rosarijanto,K2PI- AMATEUR,Jakarta Brt,JAKARTA,Indonesia
-5100874,-YD1BMK-,Ujang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100874,-YD1BMK-,Yudas,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100875,-YB5PDT-,Chairul,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5100876,YB2BGU,Firman Fridayanto,K2PI- AMATEUR,Blora,JATENG,Indonesia
 5100877,YB2CRN,Sugiharto,K2PI- AMATEUR,Purworejo,JATENG,Indonesia
@@ -2510,7 +2544,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100884,-YC2VDP-,Herman,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100885,-YC2YIZ-,Edy,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100886,-YD1BND-,Mochamad,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100887,-YD4AXH-,Rd Muckti Rd_Muckti,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
+5100887,-YD4AXH-,Rd Muckti,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
 5100888,-YD9UOF-,Busmar,K2PI- AMATEUR,Papua,Indonesia,Indonesia
 5100889,-YC2DGL-,Sugino,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100890,-YD3ATI-,Moh,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
@@ -2520,25 +2554,25 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100894,YB8RQQ,Eron Alberto Tambani,K2PI- AMATEUR,Minahasa Utr,SULUT,Indonesia
 5100895,-YD2BLU-,Sukiman,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100896,-YD2CAM-,Yossy,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100897,-YD1BKO-,Bartholomeus H,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100897,-YD1BKO-,Herry,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100898,-YD0FBR-,Agus,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100899,-YG2ASA-,Slamet,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100900,-YD1BTT-,Risang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100901,-YB3CGB-,Rachmadi,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100902,-YD0AEE-,Antonius,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100903,-YC1EQO-,Endang,K2PI- AMATEUR,Kab Ciamis,Indonesia,Indonesia
-5100904,-YH6HM-,Orlok,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
+5100904,-YH6HM-,Club,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100905,-YC8SZG-,Iswahyudi Sukiman,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5100906,-YG2BRJ-,Puryanto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100907,-YD2CGN-,Aloysius,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5100908,-YD1BPG-,A Sopian A_Sopian St,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100909,-YB2UFM-,R Ambar R_Ambar Parama,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
+5100908,-YD1BPG-,A Sopian St,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100909,-YB2UFM-,R Ambar Parama,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100910,YG1ARG,Tribhuwana Pl,K2PI- AMATEUR,Bandung,JABAR,Indonesia
 5100911,-YB8UC-,Decky,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
-5100912,-YG3BMP-,Eka AgusTjahjono,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100912,-YG3BMP-,Eka Agus Tjahjono,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100913,-YD6HBU-,Alfred,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5100914,-YE1GXQ-,George M,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100915,-YD2VLH-,Widodo,K2PI- AMATEUR,Sleman Yogyakarta,Indonesia,Indonesia
+5100915,-YD2VLH-,Widodo,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100916,-YB2EMK-,Arnold,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100917,YD2VLD,Sunardi Dwiputranto,K2PI- AMATEUR,Sleman,DIY,Indonesia
 5100918,YD9BBU,Hirmawan Tirta Yudha,K2PI- AMATEUR,Buleleng,Bali,Indonesia
@@ -2557,18 +2591,19 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100931,YB0BPV,B Agus Priaman,K2PI- AMATEUR,Jakarta Tmr,JAKARTA,Indonesia
 5100932,YD2VLE,Anthoni Cahyo Noorsakti,K2PI- AMATEUR,Bantul,DIY,Indonesia
 5100933,-YG3BMU-,Agus Tri,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
-5100934,-YB7KTB-,Joko,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
+5100934,-YB7KTB-,Djoko,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5100935,YG3BRO,Firman Hidayat,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
 5100936,YC3BRB,Muh Hafid Akbar,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
+5100936,-YB3BRB-,Hafid,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100937,-YD3BPA-,Masud,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100938,-YD1RRU-,Rendra,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5100939,-YD8RLG-,Gerit,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5100940,-YG1ATN-,Dahru,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100941,YC1SDZ,Alloysius Ditto Christianto,K2PI- AMATEUR,Tangerang Sel,Banten,Indonesia
-5100942,-YD2VMP-,Heru TriGunawan,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
+5100942,-YD2VMP-,Heru Tri Gunawan,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5100943,-YD1AJQ-,Indra,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100944,-YD0BQR-,Nandang,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5100945,-8I0YOTA-,Youngsters OTR Youngsters_OTR,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100944,-YB0BQR-,Nandang,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100945,-8I0YOTA-,Youngsters On The Air,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100946,YE2BDN,Paulus Setiabudi,K2PI- AMATEUR,Blora,JATENG,Indonesia
 5100947,-YD0TUY-,Entuy,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100948,-YC2LLT-,Vincentius,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -2577,20 +2612,20 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100951,-YB2KGM-,Poernama Eddie,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100952,-YD1DMQ-,Dedy,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100953,-YD1AJD-,Wahid,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100954,-YD1FAZ-,R Dwi R_Dwi NoorW,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100954,-YD1FAZ-,R Dwi Noor W,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100955,-YD7KQO-,Akhmad Lazuardi,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5100956,YG3BTY,Choirul Huda,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
-5100957,-YD0NQK-,Wie Eng,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5100957,-YD0NQK-,Liewieeng,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100958,-YG2BSY-,Alfata,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100959,-YD1KPA-,Hendi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100960,YG2BTP,Cahyono Dwikartiputra,K2PI- AMATEUR,Magelang,JATENG,Indonesia
 5100961,YC6GG,Mursal,K2PI- AMATEUR,Langsa,Aceh,Indonesia
 5100962,-YG3BUD-,Sumantoro,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100963,YC3IRF,Irfan Fanani,K2PI- AMATEUR,Kediri,JATIM,Indonesia
-5100963,-YG3AUH-,Irfan,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100964,-YC4FLU-,Wawan,K2PI- AMATEUR,Provinsi Sumatera Selatan,Indonesia,Indonesia
 5100965,YC1SDM,Mahendra,K2PI- AMATEUR,Tangerang Sel,Banten,Indonesia
 5100966,YC1RBY,Indipha Yalamayosa,K2PI- AMATEUR,Tangerang Sel,Banten,Indonesia
+5100966,-YB1RBY-,Indipha,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5100967,-YF3BEK-,Darmawan Eko,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100968,-YD5NKS-,Dede,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5100969,-YB0BUJ-,Eko,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
@@ -2598,7 +2633,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100971,-YD0BRP-,Eka,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100972,-YG2ABH-,Sauman,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100973,-YD1HRD-,Hardi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100974,-YD3THZ-,Bambang Chemmy,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5100974,-YB3THZ-,Bambang,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5100975,-YB8SLX-,Lesty Davit,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5100976,-YD5NIY-,Ardianto,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5100977,-YB1MA-,Teddy,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -2607,17 +2642,16 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5100980,YE3BMK,Bara Widiananta,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
 5100981,-YD4AXD-,Andika Pratama,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
 5100982,-YC4AXA-,Saxtiawan,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
-5100983,-YD2COI-,Yuniarti,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5100984,YG2BSV,Dima Priwahyudi,K2PI- AMATEUR,Grobogan,JATENG,Indonesia
 5100985,-YC1COR-,Mudibyo,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5100986,YC0RED,Setyadi Pramono,K2PI- AMATEUR,Jakarta Tmr,JAKARTA,Indonesia
 5100987,YD2UMH,Raindy Prima,K2PI- AMATEUR,Sleman,DIY,Indonesia
 5100988,-YD0PRP-,Ari Basuki,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100989,-YB1LLF-,Adhisunu,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100990,-YG1BSN-,Adang,K2PI- AMATEUR,Bandung,Indonesia,Indonesia
+5100990,-YG1BSN-,Adang,K2PI- AMATEUR,Bandung Jawa Barat,Indonesia,Indonesia
 5100991,-YD0OLP-,Wahyu,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5100992,-YC1CCQ-,Elang ErwianaHermawa,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5100993,-YD0ACY-,Ghofurur,K2PI- AMATEUR,North Jakarta,Indonesia,Indonesia
+5100992,-YC1CCQ-,Elang Erwiana Hermawan,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5100993,-YD0ACY-,Ghofurur,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100994,-YC0BIU-,Ade,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5100995,YC2AOA,Suratmin,K2PI- AMATEUR,Blora,JATENG,Indonesia
 5100996,YD2UNL,Pe Tri Octavianto,K2PI- AMATEUR,Yogyakarta,DIY,Indonesia
@@ -2630,9 +2664,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101003,-YB0AZ-,Wisnu,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101004,-YG0DEA-,Andrea,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101005,-YC0WID-,Widyati,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5101007,-YB0HD-,Budi Rianto,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101008,-YB1GJS-,Gjellani Joostman,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101012,-YB0BP-,Junus,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101015,-YB0KBJ-,Wira,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101016,-YB0BTJ-,Mulia,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101017,-YB0EUI-,Dhany,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
@@ -2641,7 +2673,8 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101020,-YB0COD-,Sutjitra,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101021,-YC0FJY-,Sudjono,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101022,-YC0LCC-,Sartono,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5101023,-YD8NNW-,Om Iwan Om_Iwan,K2PI- AMATEUR,Sulawesi Tengah,Indonesia,Indonesia
+5101023,-YD8NNW-,Om Iwan,K2PI- AMATEUR,Sulawesi Tengah,Indonesia,Indonesia
+5101024,-YC0EWT-,S. Setiawan,K2PI- AMATEUR,Jakarta,Indonesia,Indonesia
 5101025,YB0GIN,Ginanjar Taufiq,K2PI- AMATEUR,Jakarta Utr,JAKARTA,Indonesia
 5101026,-YB0EUI-,Dhany,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101027,-YB0FEX-,Yok,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
@@ -2649,7 +2682,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101029,-YB0ECT-,Prihandoyo,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101030,-YB0IF-,Andreas,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101031,-YC1SQ-,Reginald Rachmat,K2PI- AMATEUR,Banten,Indonesia,Indonesia
-5101032,-YD2TFN-,Sri Kusni,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5101032,-YC2TFN-,Srikusni,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101034,-YD0NXX-,Suryono P,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101035,YD1DJZ,Agus Sugianto,K2PI- AMATEUR,Cirebon,JABAR,Indonesia
 5101037,-YG2BUZ-,Taufiq,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -2661,11 +2694,11 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101045,YD0BEV,Ura Kurnia Firnanda,K2PI- AMATEUR,Jakarta Tmr,JAKARTA,Indonesia
 5101046,YG1BAY,Saidi Ibrahim,K2PI- AMATEUR,Bekasi,JABAR,Indonesia
 5101047,-YC1RHC-,Martin,K2PI- AMATEUR,Banten,Indonesia,Indonesia
-5101048,-YC0SCL-,Iswantono,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5101048,-YB0SCL-,Iswantono,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101049,-YD3AUZ-,Honggianto,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
-5101050,-YC1RJL-,M Anshor M_Anshor,K2PI- AMATEUR,Banten,Indonesia,Indonesia
+5101050,-YC1RJL-,M Anshor,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101051,YD1BKI,Deddy Kusnur Sandi,K2PI- AMATEUR,Bandung,JABAR,Indonesia
-5101052,-YH1RI-,Orlok KotaTangsel,K2PI- AMATEUR,Banten,Indonesia,Indonesia
+5101052,-YH1RI-,Orari Kota Tangerang Selatan,K2PI- AMATEUR,Tangerang Selatan,Indonesia,Indonesia
 5101053,-YC1UHL-,Muhamad,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101054,YC0RZC,Agus Santoso,K2PI- AMATEUR,Jakarta Sel,JAKARTA,Indonesia
 5101055,-YD9IJY-,Imanuddin,K2PI- AMATEUR,Nusa Tenggara Barat,Indonesia,Indonesia
@@ -2678,7 +2711,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101062,-YB1TXR-,Heru,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101063,-YD1EYN-,Luthfi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101064,-YC8RDG-,Max,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
-5101065,-YC1EOM-,Ahmad GunturMadia,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101065,-YC1EOM-,Ahmad Guntur Madia,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101066,-YG2BUX-,Tities Wicaksono,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101067,-YD8DOE-,Muh Taufiq,K2PI- AMATEUR,Sulawesi Selatan,Indonesia,Indonesia
 5101068,-YE1BHB-,Apip,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -2691,21 +2724,23 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101075,-YB1XST-,Sunu,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101076,-YD2UMD-,Suryanto,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101077,-YC1CWH-,Upit,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101078,-YD1RJS-,Jordan Mahendra,K2PI- AMATEUR,Banten,Indonesia,Indonesia
+5101078,-YD1RJS-,Jordan,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101079,YD1SGS,Charlie Tjahjady,K2PI- AMATEUR,Tangerang Sel,Banten,Indonesia
 5101080,-YB2YEN-,Erry,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101081,YD0BHY,Ulung Tamtomo,K2PI- AMATEUR,Jakarta Tmr,JAKARTA,Indonesia
 5101082,YG1BIX,Qidam Chor0Din,K2PI- AMATEUR,Bekasi,JABAR,Indonesia
 5101083,YD1RJN,Feryna Ariany Siregar,K2PI- AMATEUR,Tangerang Sel,Banten,Indonesia
-5101084,-YB0DJX-,B Setyo B_Setyo,K2PI- AMATEUR,Jaktim,Indonesia,Indonesia
+5101083,-YC1RJN-,Feryna Ariany,K2PI- AMATEUR,Banten,Indonesia,Indonesia
+5101084,-YB0DJX-,B Setyo,K2PI- AMATEUR,Jatinegara Jakarta Timur,Indonesia,Indonesia
 5101085,-YD1LCT-,Muhammad,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101086,YD0BWP,Abraham Noke,K2PI- AMATEUR,Jakarta Sel,JAKARTA,Indonesia
 5101087,-YC1RAN-,Mahendra,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101088,-YB1SCY-,Ghano,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101089,-YC1YBM-,Bambang M,K2PI- AMATEUR,Banten,Indonesia,Indonesia
-5101090,-YG3BXH-,M Sued M_Sued,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5101090,-YG3BXH-,M Sued,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101091,-YD0JDV-,Tamsikin,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101092,YD9IGP,Suparwan,K2PI- AMATEUR,Mataram,NTB,Indonesia
+5101092,-YC9IGP-,Suparwan,K2PI- AMATEUR,Nusa Tenggara Barat,Indonesia,Indonesia
 5101093,-YC2NLA-,Tri Adi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101094,YC8SJE,David Ticoalu,K2PI- AMATEUR,Minahasa,SULUT,Indonesia
 5101095,-YD3CSC-,Ahmad,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
@@ -2733,7 +2768,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101116,-YD2BLN-,Sutrisno,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101117,-YF9RAA-,Onez,K2PI- AMATEUR,Papua Barat,Indonesia,Indonesia
 5101118,YB6MMR,Anthony,K2PI- AMATEUR,Deli Serdang,SUMUT,Indonesia
-5101119,-YC1IVW-,Ipong,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101119,-YC1IVW-,Hendrasto,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101120,-YG1AFU-,Drs Agus,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101121,YG5NHT,Edi Purnomo,K2PI- AMATEUR,Batam,KEPRI,Indonesia
 5101122,-YG1AYY-,Dian,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -2745,13 +2780,13 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101128,YB8ROU,Ferry Kumajas,K2PI- AMATEUR,Tomohon,SULUT,Indonesia
 5101129,YC8RCX,Serli Modeong,K2PI- AMATEUR,Bolng Mngdw Tmr,SULUT,Indonesia
 5101130,-YD0BQN-,Sigit Raharja,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5101131,-YD1BUX-,Sf Rangga Sf_Rangga,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101131,-YD1BUX-,Sf Rangga,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101132,-YD8RUZ-,Abdul,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5101133,YB4BYA,Joni Aikal Putra,K2PI- AMATEUR,Bungo,Jambi,Indonesia
-5101134,-YD2BQC-,Mohammad,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5101134,-YD2BQC-,Syarifudin,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101135,YD2OGD,Slamet Sugiyo,K2PI- AMATEUR,Surakarta,JATENG,Indonesia
-5101136,-YC3AVE-,Hendro,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101136,YD3AVE,Hendro Poerwantoko,K2PI- AMATEUR,Malang,JATIM,Indonesia
+5101136,-YC3AVE-,Hendro,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101137,-YC1BKN-,Mochammad,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101138,YB3BBF,Bambang Feriyanto,K2PI- AMATEUR,Situbondo,JATIM,Indonesia
 5101139,-YC1LEK-,Rachmat,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -2763,9 +2798,9 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101145,-YC1IOX-,Irawan,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101146,-YD2UHL-,Zaidan,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101147,-YB8SN-,Noldy,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
-5101148,-YB1JO-,H Neneng H_Neneng Achmad Sanusi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101148,-YB1JO-,H,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101149,-YC1LBX-,Toteng,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101150,-YD1LUC-,M Lukmanul M_Lukmanul,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101150,-YD1LUC-,M Lukmanul,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101151,-YD1KGV-,Arif,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101152,YG1BOH,Adi Hardiyono,K2PI- AMATEUR,Bandung,JABAR,Indonesia
 5101153,-YD1GGN-,Bangun Budiarto,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -2786,7 +2821,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101168,YD1ELA,Arief Wibowo,K2PI- AMATEUR,Bogor,JABAR,Indonesia
 5101169,-YB1XFO-,Eddy,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101170,YB8UFY,Suryanto,K2PI- AMATEUR,Kotamobagu,SULUT,Indonesia
-5101171,-YD3GHI-,Ready K,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5101171,-YD3GHI-,Ready,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101172,YD1RWG,Yoga Muhamad Sugama,K2PI- AMATEUR,Bogor,JABAR,Indonesia
 5101173,YG1BNY,Ginanjar Eko Russetyadi,K2PI- AMATEUR,Cirebon,JABAR,Indonesia
 5101174,YD8RBU,Fadly Makkah,K2PI- AMATEUR,Bolng Mngdw Sel,SULUT,Indonesia
@@ -2798,7 +2833,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101180,-YD1RIC-,Teguh,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101181,-YC1RGF-,Mat,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101182,-YB1TPD-,Toto,K2PI- AMATEUR,Banten,Indonesia,Indonesia
-5101183,-YB2WYC-,Tri Sakti Tri_Sakti W,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
+5101183,-YB2WYC-,Tri Sakti W,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101184,YB0TNS,Tonny Notosetyanto,K2PI- AMATEUR,Jakarta Sel,JAKARTA,Indonesia
 5101185,-YC2CRV-,Subianto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101186,YD2CUK,Marsudi Tri Guntoro,K2PI- AMATEUR,Semarang,JATENG,Indonesia
@@ -2814,6 +2849,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101196,YD1RZY,Ahmad Falembani,K2PI- AMATEUR,Tangerang Sel,Banten,Indonesia
 5101197,YD2UJI,Bambang Pramusinto,K2PI- AMATEUR,Sleman,DIY,Indonesia
 5101198,YD0BWM,Tatang Safari,K2PI- AMATEUR,Jakarta Utr,JAKARTA,Indonesia
+5101198,-YC0BWM-,Tatang,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101199,-YD2SBJ-,Solikhin,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101200,-YG2BRF-,Hasan,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101201,YB2BYS,Gatot Wibowo,K2PI- AMATEUR,Pati,JATENG,Indonesia
@@ -2839,7 +2875,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101221,-YG2BNT-,Imam,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101222,-YC8TDL-,Denny,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5101223,-YB2FWQ-,Merianto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5101224,-YG2CBI-,Ageng Prihantano,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5101224,-YG2CBI-,Ageng,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101225,YD7VCT,Iriyan Gunawan,K2PI- AMATEUR,Samarinda,KALTIM,Indonesia
 5101226,YC1OM,Undang Solihin,K2PI- AMATEUR,Garut,JABAR,Indonesia
 5101227,-YD8SED-,Meidy,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
@@ -2881,20 +2917,21 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101263,-YD0BEM-,Marcus,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101264,-YC1DFC-,Yenni,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101265,YC6AAA,Muzakir,K2PI- AMATEUR,Aceh Brt Daya,Aceh,Indonesia
-5101266,-YD9CRY-,I Dewa I_Dewa KetutAgung,K2PI- AMATEUR,Bali,Indonesia,Indonesia
+5101266,-YD9CRY-,I Dewa Ketut Agung,K2PI- AMATEUR,Bali,Indonesia,Indonesia
 5101267,-YD0AVJ-,Adityo,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101268,-YD8SEE-,Dolvie,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5101269,YD0AMC,Budiawan,K2PI- AMATEUR,Jakarta Brt,JAKARTA,Indonesia
 5101270,-YC2UPM-,Panjang,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101271,-YD0ALZ-,Noval,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101272,-YD2DKH-,Wahyu,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5101273,-YB0SJU-,Ade,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5101273,-YB0SJU-,Adesumarna,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101274,-YC2CFM-,Sri,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101275,YB5JAJ,Alfadi Marta Putra,K2PI- AMATEUR,Padang,SUMBAR,Indonesia
 5101276,-YG3CAB-,Bambang,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101277,-YC9RON-,Roni,K2PI- AMATEUR,Manokwari Barat,Indonesia,Indonesia
 5101278,-YB2EEZ-,Ali,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101279,YC0ARY,Denni A Mulyawan,K2PI- AMATEUR,Jakarta Tmr,JAKARTA,Indonesia
+5101279,-YB0ARY-,Denni,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101280,-YG2UDH-,Ekawahyuarya,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101281,-YC9WPY-,Fredy,K2PI- AMATEUR,Papua,Indonesia,Indonesia
 5101282,-YC8SFN-,Kartini,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
@@ -2908,29 +2945,29 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101290,-YD8SDJ-,Djoike,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5101291,-YG3AWJ-,Totok,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101292,YC1AXE,Agus Supriyadi,K2PI- AMATEUR,Cirebon,JABAR,Indonesia
-5101293,-YB2BAM-,Abdul,K2PI- AMATEUR,Kab Kendal,Indonesia,Indonesia
+5101293,-YB2BAM-,Abdul,K2PI- AMATEUR,Kec Gemuh Kab Kendal Jawa Tengah,Indonesia,Indonesia
 5101294,YG2AUN,Trio Aji Utomo,K2PI- AMATEUR,Banyumas,JATENG,Indonesia
 5101295,-YD0ALU-,Muhamad,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101296,-YD8FLF-,Mansyur,K2PI- AMATEUR,Sulawesi Selatan,Indonesia,Indonesia
 5101297,YB0BDC,Agus Rusdiono,K2PI- AMATEUR,Jakarta Tmr,JAKARTA,Indonesia
 5101298,-YC2BYK-,Hastu Agung,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5101299,-YB0DRV-,Timotius,K2PI- AMATEUR,Jakpus,Indonesia,Indonesia
+5101299,-YB0DRV-,Timotius,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101300,YD2CFW,Ghaffarel Adira Kautsar,K2PI- AMATEUR,Surakarta,JATENG,Indonesia
-5101301,-YD8RYE-,Jeiner Ivan,K2PI- AMATEUR,Minahasa Utara,Indonesia,Indonesia
-5101302,-YB8UR-,Herlie RobertIlat,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
+5101301,-YD8RYE-,Jeiner Ivan,K2PI- AMATEUR,Minahasa Utara Sulawesi Utara Indonesia,Indonesia,Indonesia
+5101302,-YB8UR-,Herlie Robert Ilat,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5101303,-YD2GBN-,Sunarno,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101304,YC9LPG,Paulinus Anton Gare,K2PI- AMATEUR,Ende,NTT,Indonesia
 5101305,-YD8RQZ-,Frangky,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5101306,-YG4FGQ-,Febrian Ramadhan,K2PI- AMATEUR,Kepulauan Bangka Belitung,Indonesia,Indonesia
 5101307,-YD8SEC-,Jefry,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5101308,YG4SAP,Wazir Nuri,K2PI- AMATEUR,Lampung Tgh,Lampung,Indonesia
-5101309,-YB4WAM-,Ahmad,K2PI- AMATEUR,LAMPUNG,Indonesia,Indonesia
+5101309,-YB4WAM-,Ahmad,K2PI- AMATEUR,,Indonesia,Indonesia
 5101310,-YB4MBB-,Sudirmansyah,K2PI- AMATEUR,Bengkulu,Indonesia,Indonesia
 5101311,-YD9YAG-,Syam,K2PI- AMATEUR,Jayapura Papua,Indonesia,Indonesia
 5101312,YD1JQJ,Rizky Danendra Arya,K2PI- AMATEUR,Karawang,JABAR,Indonesia
 5101313,-YC7MAB-,Muhammad,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5101314,-YD2FUM-,Antonius Lilik,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5101315,-YB3ADT-,Ratri Ika,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5101315,-YB3ADT-,Ratriika,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101316,YD0BUC,Veronica Sriningrahayu,K2PI- AMATEUR,Jakarta Tmr,JAKARTA,Indonesia
 5101317,-YB2PSU-,Yuwono S,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101318,YG2CCA,Azhari,K2PI- AMATEUR,Surakarta,JATENG,Indonesia
@@ -2940,11 +2977,11 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101322,-YC2BGO-,Dono,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101323,-YC2MYI-,Tugito,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101324,-YF7UAN-,Achmad,K2PI- AMATEUR,Kalimantan Utara,Indonesia,Indonesia
-5101325,-YD2GTF-,Bidru,K2PI- AMATEUR,Kab Magelang,Indonesia,Indonesia
+5101325,-YD2GTF-,Bidru,K2PI- AMATEUR,Kabupaten Magelang Jawa Tengah,Indonesia,Indonesia
 5101326,-YB8QT-,Indra,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5101327,-YD1AWV-,Dadang,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101328,YG2BUW,Ari Santosa Pamungkas,K2PI- AMATEUR,Klaten,JATENG,Indonesia
-5101329,-YC8TKN-,Wahyono,K2PI- AMATEUR,Minahasa Utara,Indonesia,Indonesia
+5101329,-YC8TKN-,Wahyono,K2PI- AMATEUR,Kalawat Minahasa Utara Sulawesi Utara,Indonesia,Indonesia
 5101330,YC7WCE,Maulana Ardhira,K2PI- AMATEUR,Kutai Tmr,KALTIM,Indonesia
 5101331,-YB8PM-,Mochtar,K2PI- AMATEUR,Sulawesi Tengah,Indonesia,Indonesia
 5101332,-YB3CV-,Coen,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
@@ -2958,14 +2995,15 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101340,-YC1CFX-,Wahyu,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101341,-YB2PTI-,Muchdi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101342,YH1AQ,Orlok Kab Bekasi,K2PI- AMATEUR,Bekasi,JABAR,Indonesia
-5101343,-YD2VQR-,Harini,K2PI- AMATEUR,Sleman,Indonesia,Indonesia
+5101343,-YD2VQR-,Harini,K2PI- AMATEUR,Caturtunggal Depok Sleman Yogyakarta,Indonesia,Indonesia
 5101344,YB3BAB,Sudibyo Laib Supeno,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
-5101345,-YH1AB-,Orlok KabupatenBogor,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101346,-YD2LAV-,Siwi Astiti,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5101345,-YH1AB-,Orari Lokal Kabupaten Bogor,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101346,-YD2LAV-,Astiti,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101347,-YD2JMC-,Sugeng Suryatmoko,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101348,YD2TGD,Hanif Nurhidayat Isgun,K2PI- AMATEUR,Tegal,JATENG,Indonesia
 5101349,-YD1ANM-,Muhammad Ikhwan,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101350,YC2NFD,Agung Kurniawan Tjandra Widjaja,K2PI- AMATEUR,Surakarta,JATENG,Indonesia
+5101350,-YB2NFD-,Agung,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101351,YG3FWQ,Awam Fadillah,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
 5101352,YB1CPS,P Setiawan,K2PI- AMATEUR,Subang,JABAR,Indonesia
 5101353,-YB8RRO-,Robie,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
@@ -2973,12 +3011,12 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101355,YC8USA,Jemmy Wahani,K2PI- AMATEUR,Kotamobagu,SULUT,Indonesia
 5101356,-YB9KJ-,Muhammad,K2PI- AMATEUR,Nusa Tenggara Barat,Indonesia,Indonesia
 5101357,YD6AQT,Adi Iskandar,K2PI- AMATEUR,Banda Aceh,Aceh,Indonesia
-5101358,-YD1REZ-,Totok,K2PI- AMATEUR,Tangerang,Indonesia,Indonesia
+5101358,-YD1REZ-,Totok,K2PI- AMATEUR,Pasar Kemis Tangerang Banten,Indonesia,Indonesia
 5101359,YH1AP,Orlok Karawang,K2PI- AMATEUR,Karawang,JABAR,Indonesia
 5101360,-YG2BFZ-,Selamet,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101361,-YD2CTX-,Sartono,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101362,YD5NIF,Delvi Suwandi,K2PI- AMATEUR,Pelalawan,Riau,Indonesia
-5101363,-YD6AKV-,Novri,K2PI- AMATEUR,Aceh Besar,Indonesia,Indonesia
+5101363,-YD6AKV-,Novri,K2PI- AMATEUR,Kecamatan Baitussalam Aceh Besar,Indonesia,Indonesia
 5101364,-YD2BBX-,Jodye,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101365,-YD5NFC-,Tengku,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5101366,-YD2CGX-,Mochamad,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -2988,12 +3026,12 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101370,YD2SKF,Firman Prayoga,K2PI- AMATEUR,Tegal,JATENG,Indonesia
 5101371,-YB2NJY-,Richan,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101372,YD6SAT,Reinhard Muara Agustinus Siregar,K2PI- AMATEUR,Deli Serdang,SUMUT,Indonesia
-5101373,-YB2UAN-,Raden Pandji,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
+5101373,-YB2UAN-,Pandji,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101374,-YD2GGE-,Sutoyo,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101375,-YB3OI-,Nekad,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101376,YG1BYZ,Riezza Genta Buana,K2PI- AMATEUR,Bekasi,JABAR,Indonesia
 5101377,YG1BYY,Hendra Suhanda,K2PI- AMATEUR,Karawang,JABAR,Indonesia
-5101378,-YB6AK-,Ir Teuku Ir_Teuku Marzuki,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
+5101378,-YB6AK-,Ir Teuku Marzuki,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5101379,YD1ARY,Dwi Arie Setyanto,K2PI- AMATEUR,Karawang,JABAR,Indonesia
 5101380,-YC2PY-,Amin,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101381,-YC2ATE-,Sugiyanto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -3015,7 +3053,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101397,-YD2HPH-,Gusono,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101398,-YD3DBL-,Joko,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101399,-YD2LAN-,Toro,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5101400,-YG2AQL-,Sulistiyanto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5101400,-YG2AQL-,Sulis,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101401,-YD2PCC-,Trisno,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101402,-YD2RJB-,Zainuddin,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101403,-YD2HBC-,Nyoto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -3023,7 +3061,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101405,YH1AX,Orlok Kota Bekasi,K2PI- AMATEUR,Bekasi,JABAR,Indonesia
 5101406,YG2AWV,Hariyadi Wibowo,K2PI- AMATEUR,Kendal,JATENG,Indonesia
 5101407,-YG1BZY-,Ariyanto,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101408,-YD0BYA-,Raymond,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5101408,-YD0BYA-,Edward,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101409,-YC3LAM-,Sabda,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101410,-YB1BEI-,Sutanto,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101411,-YB1RYX-,Hendro,K2PI- AMATEUR,Banten,Indonesia,Indonesia
@@ -3034,20 +3072,19 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101416,YD5NGJ,Riko Hendri,K2PI- AMATEUR,Pelalawan,Riau,Indonesia
 5101417,-YD2BMH-,Hamam,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101418,YD5NHG,Heri Suseno,K2PI- AMATEUR,Pelalawan,Riau,Indonesia
-5101419,-YH6AT-,Orlok BandaAceh,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
+5101419,-YH6AT-,Orari Lokal Banda Aceh,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5101420,YD3NQZ,Aries Setyawan,K2PI- AMATEUR,Probolinggo,JATIM,Indonesia
 5101421,-YD2DFB-,Rochmat,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101422,-YG2CFY-,Andi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101423,-YC2UCE-,Nonang,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101424,-YC2BEA-,Anton,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5101425,-YD2MDE-,I Made I_Made,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5101425,-YD2MDE-,Made,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101426,-YD2SJK-,Jaka,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101427,-YB1HK-,Hendra,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101428,-YB2RB-,Andar,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101429,YD0BXI,Ade Mastika,K2PI- AMATEUR,Jakarta Utr,JAKARTA,Indonesia
 5101430,YD1AIT,Irwan Fanani,K2PI- AMATEUR,Bekasi,JABAR,Indonesia
 5101431,-YD2LLG-,Kencana Sri,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5101432,-YD6AEV-,Vendra,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5101432,YD6BUA,Novendra,K2PI- AMATEUR,Banda Aceh,Aceh,Indonesia
 5101433,-YG2CGW-,Dimas,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101434,-YD4BAM-,Bambang Widjanarko,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
@@ -3057,6 +3094,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101438,-YH0DVN-,Orari Pusat,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101439,YC2OOW,Agus Kristanta,K2PI- AMATEUR,Temanggung,JATENG,Indonesia
 5101440,YC0BRD,Gianesha Pratama,K2PI- AMATEUR,Jakarta Sel,JAKARTA,Indonesia
+5101440,-YB0BRD-,Gianesha,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101441,YD6AKP,Riyanto Setia Saputra,K2PI- AMATEUR,Banda Aceh,Aceh,Indonesia
 5101442,-YD2CLZ-,Harmoko,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101443,-YD3ATM-,Prajogi,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
@@ -3075,16 +3113,16 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101456,-YG2BTB-,Adidan Bagus,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101457,YB6CX,Ichsan,K2PI- AMATEUR,Aceh Tamiang,Aceh,Indonesia
 5101458,YD2IRI,Trisnanto,K2PI- AMATEUR,Pemalang,JATENG,Indonesia
-5101459,-YH2AR-,Orlok RembangArc,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5101459,-YH2AR-,Orari Lokal Rembang Arc,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101460,-YC0EHN-,Basa,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101461,-YB0FLY-,Mahendra,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101462,-YD0BUZ-,Muhamad Arief,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101463,-YG2BCP-,Nur,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101464,-YD1RAZ-,Suhendra,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101465,YB0SHR,Sahara Sultan,K2PI- AMATEUR,Jakarta Utr,JAKARTA,Indonesia
-5101466,-YE1BLN-,Murry,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101466,-YB1CPT-,Murry,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101467,YG1BBP,Raswan Gunawan,K2PI- AMATEUR,Bekasi,JABAR,Indonesia
-5101468,-YH4AA-,Orda Jambi,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
+5101468,-YH4AA-,ORDA Jambi Club Station,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
 5101469,YE3AIZ,Imam Sofingi,K2PI- AMATEUR,Tulungagung,JATIM,Indonesia
 5101470,-YC1AEE-,Ade,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101471,-YB3BX-,Isworo,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
@@ -3104,10 +3142,9 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101485,YG1AKH,Iwan Rapsodi,K2PI- AMATEUR,Depok,JABAR,Indonesia
 5101486,-YC2UXA-,Mardonius,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101487,-YC5KWZ-,Ihsan,K2PI- AMATEUR,Sumatera Barat,Indonesia,Indonesia
-5101488,-YG2AVI-,Andi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101489,-YB2PDT-,Petrus,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101490,-YB2HJO-,Siswono,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5101491,-YB1FDC-,Dra Neneng Dra_Neneng,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101491,-YB1FDC-,Dra Neneng,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101492,-YG3AGT-,Fachrurrozi Andik,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101493,-YG1ASB-,Michael,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101494,YD3AXS,Laverna Parsha Kusumaningtyas,K2PI- AMATEUR,Sidoarjo,JATIM,Indonesia
@@ -3116,12 +3153,11 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101497,-YD2CRL-,Wahyu,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101498,YG2AQY,Faizal Pramudito Adi Sarno,K2PI- AMATEUR,Surakarta,JATENG,Indonesia
 5101499,YG1CBG,Rian Wibawa,K2PI- AMATEUR,Bandung,JABAR,Indonesia
-5101500,-YG2CCW-,M Azkal M_Azkal,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5101500,-YG2CCW-,M Azkal,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101501,-YD2AQJ-,Achmad,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101502,-YD2ASB-,Muhadi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101503,-YC2PJO-,Pujo,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101504,YB3QH,Sukiman Kahar Abdullah,K2PI- AMATEUR,Malang,JATIM,Indonesia
-5101505,-YD0ASD-,Siswo,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101506,-YC2CDV-,Mulwanto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101507,-YC2YTL-,Jahja,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101508,-YB2JZT-,Rudy,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -3133,12 +3169,12 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101514,YG2BLX,Abdul Muin,K2PI- AMATEUR,Tegal,JATENG,Indonesia
 5101515,-YD2CUW-,Alimin,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101516,YC2NOJ,Supardi. Sh,K2PI- AMATEUR,Tegal,JATENG,Indonesia
-5101517,-YC2BBY-,Aris,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5101517,-YC2RIL-,Aris,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101518,-YB3FUA-,Mochamad,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101519,YD3BHX,Agus Wahyudi,K2PI- AMATEUR,Sampang,JATIM,Indonesia
 5101520,YD2UXG,Sunar,K2PI- AMATEUR,Sleman,DIY,Indonesia
 5101521,-YC7IEW-,Sarbawi,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
-5101522,-YB2DNC-,Maria,K2PI- AMATEUR,Kab Semarang,Indonesia,Indonesia
+5101522,-YB2DNC-,Maria,K2PI- AMATEUR,Kecamatan Getasan Kabupaten Semarang Jawa Tengah,Indonesia,Indonesia
 5101523,YC2TGN,Sudianto,K2PI- AMATEUR,Tegal,JATENG,Indonesia
 5101524,-YC0ACY-,Ghofur,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101525,YC2EGL,Triono,K2PI- AMATEUR,Tegal,JATENG,Indonesia
@@ -3146,7 +3182,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101527,-YB2RWM-,Djoko,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101528,-YD0RTA-,Iwan,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101529,YD2SAR,Sartono,K2PI- AMATEUR,Tegal,JATENG,Indonesia
-5101530,YD1AQG,Johan Sumantri,K2PI- AMATEUR,Cianjur,JABAR,Indonesia
+5101530,YD1AQG,Johan Sumantri,K2PI- AMATEUR,Karanganyar,JATENG,Indonesia
 5101531,-YD2VSK-,Asrofi,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101532,-YC2TSL-,Timotius,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101533,YB8IBD,Salmin Sahidin,K2PI- AMATEUR,Kendari,SULTRA,Indonesia
@@ -3172,7 +3208,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101553,-YD2ASN-,Yohannes,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101554,YD2DVQ,Winarsono,K2PI- AMATEUR,Blora,JATENG,Indonesia
 5101555,-YD1RQB-,Imantoko,K2PI- AMATEUR,Banten,Indonesia,Indonesia
-5101556,-YB7HYK-,Achmad,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
+5101556,-YB7HYK-,Donny,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5101557,-YC2IOZ-,Noer,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101558,YD7HAS,Muhammad Naufal Ramadhan,K2PI- AMATEUR,Banjarmasin,KALSEL,Indonesia
 5101559,-YD2CWN-,Mahripudin,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -3232,7 +3268,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101613,-YD0BZN-,Hudzaifah,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101614,-YD1AQU-,Ahmad,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101615,-YD7JNI-,Hamdani,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
-5101616,-YC3SSS-,Rudy,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5101616,-YB3SSS-,Rudy,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101617,YD6ASQ,Ryan Achdiadsyah,K2PI- AMATEUR,Banda Aceh,Aceh,Indonesia
 5101618,YD1AFC,Miseil Zaida Khandra,K2PI- AMATEUR,Karawang,JABAR,Indonesia
 5101619,YD1AFF,Indra Iswara Lukman,K2PI- AMATEUR,Bekasi,JABAR,Indonesia
@@ -3245,7 +3281,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101626,-YC2CIU-,Lilik,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101627,-YD0BQP-,Tarman,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101628,YC0KCK,Sri Subekti Yullia,K2PI- AMATEUR,Jakarta Sel,JAKARTA,Indonesia
-5101629,-YH8RC-,Orlok Minahasa,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
+5101629,-YH8RC-,Orari,K2PI- AMATEUR,Sulawesi Utara,Indonesia,Indonesia
 5101630,-YB2STS-,Didik,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101631,YG2ACZ,Alexander Joko Sulistyo,K2PI- AMATEUR,Surakarta,JATENG,Indonesia
 5101632,-YD9HMQ-,Arifunnatik,K2PI- AMATEUR,Nusa Tenggara Barat,Indonesia,Indonesia
@@ -3265,7 +3301,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101646,-YC1DIM-,Danny,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101647,-YD2ABQ-,Heri,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101648,-YH0ONN-,Budi,K2PI- AMATEUR,Bali,Indonesia,Indonesia
-5101649,-YB1OAA-,Dr,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101649,-YB1OAA-,Aburanto,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101650,YC1WEU,Adi Ashodieq,K2PI- AMATEUR,Tangerang,Banten,Indonesia
 5101651,-YF1CAD-,Yudhi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101652,YG9AGS,Wayan Budiartha,K2PI- AMATEUR,Denpasar,Bali,Indonesia
@@ -3303,7 +3339,6 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101685,-YB1LZT-,Fery,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101686,-YC1AMI-,Yusuf,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101687,-YC1ILM-,Welldy,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101688,-YB1GUE-,Erwin,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101689,-YB3PAK-,Bambang,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101690,-YC1AIY-,Indriawan,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101691,YC7KZS,Muhammad Nur Taufiqurrahman,K2PI- AMATEUR,Banjarbaru,KALSEL,Indonesia
@@ -3313,7 +3348,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101695,YD6HMY,Muhammad Zaldi,K2PI- AMATEUR,Medan,SUMUT,Indonesia
 5101696,-YB0DCP-,Rudy,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101697,-YD9GLC-,Irfan,K2PI- AMATEUR,Nusa Tenggara Barat,Indonesia,Indonesia
-5101698,-YD4FHA-,Muhammad,K2PI- AMATEUR,Sumatera Selatan,Indonesia,Indonesia
+5101698,-YD4FHA-,Noble,K2PI- AMATEUR,Sumatera Selatan,Indonesia,Indonesia
 5101699,-YC1GZH-,Achmad,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101700,-YD1EPJ-,Kalih,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101701,-YB1BHI-,Wahyu,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -3326,7 +3361,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101708,YD6HXJ,Fajrin Nur Musyamsu,K2PI- AMATEUR,Tapanuli Tgh,SUMUT,Indonesia
 5101709,YC9GBS,Marjan,K2PI- AMATEUR,Lombok Brt,NTB,Indonesia
 5101710,YD6HBL,Ibnu Hajar Imam Satya,K2PI- AMATEUR,Deli Serdang,SUMUT,Indonesia
-5101711,-YC1JZK-,Rudiman,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101711,-YB1JZK-,Rudiman,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101712,YD6HFS,Muhammad Fadly Akbar Sembiring,K2PI- AMATEUR,Deli Serdang,SUMUT,Indonesia
 5101713,YD2CTK,Syafrudin Adhi Candra,K2PI- AMATEUR,Semarang,JATENG,Indonesia
 5101714,-YD4ADE-,Zermen,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
@@ -3355,8 +3390,8 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101738,YD6HGG,Fahruddin,K2PI- AMATEUR,Deli Serdang,SUMUT,Indonesia
 5101739,-YD5NVV-,Arif,K2PI- AMATEUR,Riau,Indonesia,Indonesia
 5101740,-YB1DKB-,Aman,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101741,-YF3VKZ-,Robert,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101742,YC3AEB,Heru Baskara Se,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
+5101742,-YB3AEB-,Heru,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101743,-YB1OKU-,Muchlis,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101744,-YD1ROZ-,Dani,K2PI- AMATEUR,Banten,Indonesia,Indonesia
 5101745,-YC7USM-,Ady,K2PI- AMATEUR,Kalimantan Timur,Indonesia,Indonesia
@@ -3365,7 +3400,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101748,-YD2AEM-,Bara,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101749,YD5NZE,Alfian,K2PI- AMATEUR,Pekanbaru,Riau,Indonesia
 5101750,-YC6GXM-,Toibah,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
-5101751,-YD1ABO-,Yudhi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101751,-YC1ABO-,Yudhi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101752,-YG1CEE-,Rudi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101753,YC1FNO,Sri Suhartini,K2PI- AMATEUR,Cirebon,JABAR,Indonesia
 5101754,YC1OCA,Mahmudi,K2PI- AMATEUR,Cirebon,JABAR,Indonesia
@@ -3381,23 +3416,22 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101764,-YD2AJP-,Hamzah,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101765,YD3ADF,Carezza Ardhy Setiaji,K2PI- AMATEUR,Sidoarjo,JATIM,Indonesia
 5101766,-YG1BLL-,Nasir,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101767,-YD6HXQ-,Doddy Joko,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
-5101768,-YC3DAF-,Bambang,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
+5101767,-YD6HXQ-,Doddy Joko Susilo Siregar St,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5101769,-YE7HIO-,Elya,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5101770,-YG3APZ-,Yohan,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101771,-YB2BLV-,Andri,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101772,-YD1ABF-,Samiaji,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101773,YD6HHD,Zulkarnain,K2PI- AMATEUR,Medan,SUMUT,Indonesia
-5101774,-YD2AJU-,Diki Wahyudi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
-5101775,-YD1FED-,Endi Suwardi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101776,-YG1CGT-,Aries Aprilian,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101777,-YD2VSJ-,M Omar M_Omar Tariq Hariyanto,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
-5101778,-YG1CIC-,Alif Firdi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101779,-YD6HFI-,Lie Ming Ho,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
+5101774,-YD2AJU-,Diki,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5101775,-YD1FED-,Endi,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101776,-YG1CGT-,Aries,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101777,-YD2VSJ-,Omar,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
+5101778,-YG1CIC-,ALIF,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101779,-YD6HFI-,Amin,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5101780,-YD6HXI-,Irfan,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
-5101781,-YD6HPT-,Alysa Sahira Zahra,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
-5101782,-YD6HDO-,Ali Subono,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
-5101783,-YC8IRZ-,Maulana Bastian,K2PI- AMATEUR,Sulawesi Tenggara,Indonesia,Indonesia
+5101781,-YD6HPT-,Alysa,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
+5101782,-YD6HDO-,Ali,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
+5101783,-YC8IRZ-,Maulana,K2PI- AMATEUR,Sulawesi Tenggara,Indonesia,Indonesia
 5101784,YG1CHM,S Aris Yulianto,K2PI- AMATEUR,Bogor,JABAR,Indonesia
 5101785,-YD3AAR-,Yanuar,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101786,YF3AOK,Mohammad Chasbullah,K2PI- AMATEUR,Pasuruan,JATIM,Indonesia
@@ -3419,6 +3453,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101802,-YG3EIH-,Andik,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101803,-YD1FPT-,Arif,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101805,YD0JNK,Yudi Wahyudin,K2PI- AMATEUR,Jakarta Pst,JAKARTA,Indonesia
+5101805,-YC0JNK-,Yudi,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101806,YG3AEU,Anang Nugroho,K2PI- AMATEUR,Banyuwangi,JATIM,Indonesia
 5101807,YB5NDR,Syahril,K2PI- AMATEUR,Bengkalis,Riau,Indonesia
 5101808,-YC2PRK-,Indarto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -3448,7 +3483,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101832,-YB7LRM-,Syamsuddin,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5101833,-YB0ET-,Effendy,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101834,YB5DOD,Doddy Syuhendra,K2PI- AMATEUR,Solok Sel,SUMBAR,Indonesia
-5101839,-YB0HHM-,Ping,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5101839,-YB0HHM-,Han,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101840,-YD2AAM-,Budi,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101841,-YG2CIT-,Muhamad,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101842,-YF1AWI-,Christian,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
@@ -3480,7 +3515,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101868,YD6HRK,Joko Suhendra,K2PI- AMATEUR,Deli Serdang,SUMUT,Indonesia
 5101869,YF3CJU,Arofiq,K2PI- AMATEUR,Kediri,JATIM,Indonesia
 5101870,-YF9AAI-,Pande,K2PI- AMATEUR,Bali,Indonesia,Indonesia
-5101871,-YH0AD-,ORLOK JAKARTA TIMUR,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5101871,-YH0AD-,ORARI LOKAL JAKARTA TIMUR,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101872,-YD6IAU-,Josmar,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5101873,YD3BEY,Arief Achomadin,K2PI- AMATEUR,Sidoarjo,JATIM,Indonesia
 5101874,YD3BEQ,Ifanda Juniarta Nain,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
@@ -3517,11 +3552,10 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101905,-YC0AUZ-,Priantyo,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101906,YD9AFM,I Putu Adi Yana,K2PI- AMATEUR,Jembrana,Bali,Indonesia
 5101907,-YD0ACD-,Eikco,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
-5101908,-YH0AG-,Club,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5101908,-YH0AG-,ORARI Lokal Jakarta Utara,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101909,YG3BZW,Uchky Adi Saputra,K2PI- AMATEUR,Surabaya,JATIM,Indonesia
 5101910,-YD1EUZ-,Pahri,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101911,YB6MLX,Surapati,K2PI- AMATEUR,Medan,SUMUT,Indonesia
-5101913,-YC6ART-,Arie,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5101914,YD6ALG,Muhammad Daffa,K2PI- AMATEUR,Banda Aceh,Aceh,Indonesia
 5101915,YD9BLO,I Gede Nyoman Yuda Lasmana,K2PI- AMATEUR,Jembrana,Bali,Indonesia
 5101916,YD6ATD,Johansyah,K2PI- AMATEUR,Bireuen,Aceh,Indonesia
@@ -3538,7 +3572,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101927,YD6AWS,Jumadi,K2PI- AMATEUR,Bener Meriah,Aceh,Indonesia
 5101928,YD6AOO,Zulkifli,K2PI- AMATEUR,Bireuen,Aceh,Indonesia
 5101929,-YC6BCA-,Sawirman,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
-5101930,-YH0AE-,Orari,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5101930,-YH0AE-,Orari Lokal Jakarta Pusat,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101931,-YD6HKG-,Manullang,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5101932,-YD4BBF-,Johan,K2PI- AMATEUR,Jambi,Indonesia,Indonesia
 5101933,YD7UCC,Royan Thohuri,K2PI- AMATEUR,Berau,KALTIM,Indonesia
@@ -3548,7 +3582,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101937,-YH2BF-,ORLOK SURAKARTA,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101938,-YC6BFI-,Fittresdy,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5101939,-YB1IM-,Iman,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
-5101940,-YC1BBR-,Kiagus,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101940,-YC1BBR-,Edwin,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
 5101941,YD6AWT,Sabaruddin,K2PI- AMATEUR,Bener Meriah,Aceh,Indonesia
 5101942,-YD0BUQ-,Billal,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101943,-YC2BHJ-,Sudarwanto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -3566,6 +3600,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101955,YD6HKH,Faisal Amri,K2PI- AMATEUR,Medan,SUMUT,Indonesia
 5101956,-YD7JWX-,Aulia,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
 5101957,-YC1CWK-,Wahyu,K2PI- AMATEUR,Jawa Barat,Indonesia,Indonesia
+5101958,YD6AXP,Edi Sahputra,K2PI- AMATEUR,Aceh Tgh,Aceh,Indonesia
 5101959,YD2CYO,Nur Wahid,K2PI- AMATEUR,Semarang,JATENG,Indonesia
 5101960,YG1BXL,Asnamil Cholis,K2PI- AMATEUR,Bekasi,JABAR,Indonesia
 5101961,YD5NQN,Admiral,K2PI- AMATEUR,Dumai,Riau,Indonesia
@@ -3582,7 +3617,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101972,-YC2OZG-,Agus,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101973,YD6BUP,Umri Praja Muda,K2PI- AMATEUR,Banda Aceh,Aceh,Indonesia
 5101974,YC6ANO,Hari Yono,K2PI- AMATEUR,Aceh Brt Daya,Aceh,Indonesia
-5101975,-YD6BIF-,M Ikhsan Fuadi,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
+5101975,YD6BIF,Isan Fuadi,K2PI- AMATEUR,Banda Aceh,Aceh,Indonesia
 5101976,-YC2YC-,Muhammad,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
 5101977,-YD2PRX-,Taufik,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101978,-YF2ALO-,Wient,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
@@ -3592,7 +3627,6 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101982,-YE3AA-,Rivai,K2PI- AMATEUR,Jawa Timur,Indonesia,Indonesia
 5101983,-YD6BZB-,Said,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5101984,-YD6AAE-,Riayatsyah,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
-5101985,YD6AXP,Edi Sahputra,K2PI- AMATEUR,Aceh Tgh,Aceh,Indonesia
 5101985,-YE4FNN-,Abet,K2PI- AMATEUR,Kepulauan Bangka Belitung,Indonesia,Indonesia
 5101986,-YB2BAJ-,Indarto,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
 5101987,-YD6AXA-,Iskandar,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
@@ -3602,7 +3636,21 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5101991,-YD0BQI-,Sindu,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
 5101992,-YD6AGC-,Dr,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
 5101993,-YG5NCA-,Budi,K2PI- AMATEUR,Kepulauan Riau,Indonesia,Indonesia
+5101994,-YD6AKT-,Mukhlis,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
+5101995,-YD2UPD-,Joko,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
+5101996,-YD6ACQ-,M,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
+5101997,-YB6HX-,Salomon,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
+5101998,-YC2EOF-,Refki,K2PI- AMATEUR,Jawa Tengah,Indonesia,Indonesia
+5102001,-YD0AIY-,Chaidir,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5102002,YD6AWX,Sriandi,K2PI- AMATEUR,Bener Meriah,Aceh,Indonesia
+5102003,-YD6AXB-,Rahmat,K2PI- AMATEUR,Aceh,Indonesia,Indonesia
+5102004,-YD7KYN-,Gilang,K2PI- AMATEUR,Kalimantan Selatan,Indonesia,Indonesia
+5102005,-YC4XYR-,Putra,K2PI- AMATEUR,Lampung,Indonesia,Indonesia
+5102006,-YC2UFR-,Priyanto,K2PI- AMATEUR,DI Yogyakarta,Indonesia,Indonesia
+5102007,-YB0ODC-,Yohana,K2PI- AMATEUR,DKI Jakarta,Indonesia,Indonesia
+5102008,-YB6OG-,Indra,K2PI- AMATEUR,Sumatera Utara,Indonesia,Indonesia
 5102227,YF5YSN,Yusran,K2PI- AMATEUR,Karimun,KEPRI,Indonesia
+5107510,YD7UOL,Sendy Adhiia Noor,K2PI- AMATEUR,Balikpapan,KALTIM,Indonesia
 5108888,YD5NPC,Sutan P Lubis,K2PI- AMATEUR,Pekanbaru,Riau,Indonesia
 5110000,PC11TS3,Muzakir,K2PI,Aceh Brt Daya,Aceh,Indonesia
 5110022,PC11ZUL,Zulkarnain Yunus,K2PI,Lhokeumawe,Aceh,Indonesia
@@ -3661,6 +3709,12 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5111433,PC11AXR,Tri Rahmadi,K2PI,Bener Meriah,Aceh,Indonesia
 5111434,PC11BRO,Barno,K2PI,Bener Meriah,Aceh,Indonesia
 5111435,PC11FLY,Muhammad Yanis,K2PI,Bireuen,Aceh,Indonesia
+5111436,PC11AXB,Rahmat Kurniawan,K2PI,Aceh Tgh,Aceh,Indonesia
+5111437,PC11AEE,Hasyem,K2PI,Aceh Brt Daya,Aceh,Indonesia
+5111438,PC11AWX,Sriandi,K2PI,Bener Meriah,Aceh,Indonesia
+5111439,PC11TKA,Azhar Idris,K2PI,Aceh Sel,Aceh,Indonesia
+5111440,PC11TUO,Wais Armiya,K2PI,Aceh Sel,Aceh,Indonesia
+5111441,PC11AXF,Muhammad Sudirman,K2PI,Aceh Tgh,Aceh,Indonesia
 5120038,PC12BYW,Yustinus E Waruwu,K2PI,Sibolga,SUMUT,Indonesia
 5120052,PC12ALI,Ali Akbar,K2PI,Langkat,SUMUT,Indonesia
 5120116,PC12RJA,Nimerodi Hia,K2PI,Nias Brt,SUMUT,Indonesia
@@ -3735,6 +3789,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5121261,PC12HKH,Faisal Amri,K2PI,Medan,SUMUT,Indonesia
 5121279,PC12ZLP,Stephanus Priyowidodo,K2PI,Deli Serdang,SUMUT,Indonesia
 5121280,PC12SK,Fahruddin,K2PI,Deli Serdang,SUMUT,Indonesia
+5121281,PC12KCT,Kelvin Chandra,K2PI,Medan,SUMUT,Indonesia
 5130157,PC13AJV,Muhammad Irsyad,K2PI,Dharmasraya,SUMBAR,Indonesia
 5130619,PC13ERY,Erry Nurdin,K2PI,Pasaman,SUMBAR,Indonesia
 5130712,PC13IS,Zul Indra,K2PI,Pasaman Brt,SUMBAR,Indonesia
@@ -3744,6 +3799,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5131121,PC13DOD,Doddy Syuhendra,K2PI,Solok Sel,SUMBAR,Indonesia
 5131211,PC13EAH,Asril,K2PI,Payakumbuh,SUMBAR,Indonesia
 5131212,PC13DSA,Des Alvian,K2PI,Payakumbuh,SUMBAR,Indonesia
+5131213,PC13KOR,Efrizon,K2PI,Dharmasraya,SUMBAR,Indonesia
 5140002,PC14HM,R Helmi Midjaja,K2PI,Pelalawan,Riau,Indonesia
 5140003,PC14MSD,Suwardi,K2PI,Pelalawan,Riau,Indonesia
 5140004,PC14WAN,Wan Chairuddin Saleh,K2PI,Bengkalis,Riau,Indonesia
@@ -3762,6 +3818,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5140102,PC14LP,Sriyatno,K2PI,Pelalawan,Riau,Indonesia
 5140103,PC14GP,Gepeng,K2PI,Pelalawan,Riau,Indonesia
 5140141,PC14DFL,Ahmad Heriadi,K2PI,Pekanbaru,Riau,Indonesia
+5140148,ALKARIM,Jemaah ALkarim Al_Karim,K2PI- JAK,Pelalawan,Riau,Indonesia
 5140220,PC14DIM,Nanda Eka Putra,K2PI,Dumai,Riau,Indonesia
 5140222,PC14KW,Sarkawi,K2PI,Pelalawan,Riau,Indonesia
 5140223,PC14KDR,Khaidir Anuar,K2PI,Pelalawan,Riau,Indonesia
@@ -3857,7 +3914,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5151007,PC15DR,Diro Oktava,K2PI,Tebo,Jambi,Indonesia
 5151009,PC15SLM,Slamet Riadi,K2PI,Kerinci,Jambi,Indonesia
 5151027,PC15WA,Wahyu Kamaruddin,K2PI,Jambi,Jambi,Indonesia
-5151175,PC15AS,Agus Santoso,K2PI,Tebo,Jambi,Indonesia
+5151175,PC15ATA,Agus Santoso,K2PI,Tebo,Jambi,Indonesia
 5151265,PC15CAF,Iwan Setiawan,K2PI,Tj Jabung Tmr,Jambi,Indonesia
 5151286,PC15BZE,Yudi Suryadi,K2PI,Tj Jabung Tmr,Jambi,Indonesia
 5151287,PC15BYZ,Nuryanto,K2PI,Tj Jabung Tmr,Jambi,Indonesia
@@ -4127,7 +4184,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5320783,PC32SAM,Samsudin,K2PI,Depok,JABAR,Indonesia
 5320789,PC32SM,Suripno Marwanto,K2PI,Depok,JABAR,Indonesia
 5320791,PC32AT,Akhmad Taslim,K2PI,Bekasi,JABAR,Indonesia
-5320817,PC32JS,Johan Sumantri,K2PI,Cianjur,JABAR,Indonesia
+5320817,PC32JS,Johan Sumantri,K2PI,Karanganyar,JATENG,Indonesia
 5320821,PC32LUK,Indra Iswara Lukman,K2PI,Bekasi,JABAR,Indonesia
 5320863,PC32AKR,Ambar Krydanto,K2PI,Bogor,JABAR,Indonesia
 5320878,PC32EJM,Suyatno,K2PI,Bogor,JABAR,Indonesia
@@ -4166,8 +4223,10 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5321183,PC32TD,Teddy Soerriady,K2PI,Bogor,JABAR,Indonesia
 5321200,PC32DER,Revy Elled,K2PI,Bogor,JABAR,Indonesia
 5321213,PC32JTZ,Asnamil Cholis,K2PI,Bekasi,JABAR,Indonesia
+5321214,PC32MT,Ade Saeful Bahri,K2PI- DMRID,Garut,JABAR,Indonesia
 5321276,PC32RZL,Syafrizal Affardi Rusli,K2PI,Bandung Brt,JABAR,Indonesia
 5321377,PC32BYY,Hendra Suhanda,K2PI,Karawang,JABAR,Indonesia
+5321378,PC32FHE,Rian Wibawa,K2PI,Bandung,JABAR,Indonesia
 5330008,PC33TDP,Totok Sukamto,K2PI,Rembang,JATENG,Indonesia
 5330034,PC33BGU,Firman Fridayanto,K2PI,Blora,JATENG,Indonesia
 5330049,PC33BSL,Bambang Pramudya Aditomo,K2PI,Tegal,JATENG,Indonesia
@@ -4203,7 +4262,6 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5330484,PC33AUN,Trio Aji Utomo,K2PI,Banyumas,JATENG,Indonesia
 5330486,PC33CUK,Marsudi Tri Guntoro,K2PI,Semarang,JATENG,Indonesia
 5330487,PC33BSV,Dima Priwahyudi,K2PI,Grobogan,JATENG,Indonesia
-5330508,YH3376,Rpu-Gateway Analog Lokal Kota Tegal,K2PI,Tegal,JATENG,Indonesia
 5330518,PC33JKO,Joko Raharjo,K2PI,Surakarta,JATENG,Indonesia
 5330530,PC35AZ,Azhari,K2PI,Surakarta,JATENG,Indonesia
 5330556,PC33NFD,Agung Kurniawan Tjandra Widjaja,K2PI,Surakarta,JATENG,Indonesia
@@ -4295,6 +4353,8 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5331253,PC33CYO,Nur Wahid,K2PI,Semarang,JATENG,Indonesia
 5331288,PC33HOU,Rudy Atmoko,K2PI,Purworejo,JATENG,Indonesia
 5331289,PC33OON,Letiyo,K2PI,Banjarnegara,JATENG,Indonesia
+5331290,PC33SAS,Giri Sasongko,K2PI,Demak,JATENG,Indonesia
+5331291,PC33IIM,Siswanto,K2PI,Purworejo,JATENG,Indonesia
 5340053,PC34AXC,Bambang Anggoro Nugroho,K2PI,Sleman,DIY,Indonesia
 5340066,PC34BFW,Starky Aji,K2PI,Yogyakarta,DIY,Indonesia
 5340140,PC34MOK,Jaka Satmoko,K2PI,Kulon Progo,DIY,Indonesia
@@ -4313,6 +4373,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5341099,PC34YOS,Yoseph Eko Martono,K2PI,Yogyakarta,DIY,Indonesia
 5341102,PC34YAY,Anda Wijanarko,K2PI,Sleman,DIY,Indonesia
 5341135,PC34RA,Rusnawan Agung Wijaya,K2PI,Yogyakarta,DIY,Indonesia
+5341136,PC34CFD,Rahmatullah Arif Supriyanto,K2PI,Yogyakarta,DIY,Indonesia
 5350023,PC35WAN,Ahmad Darmawan,K2PI,Surabaya,JATIM,Indonesia
 5350039,PC35CKB,Hera Pagiana,K2PI,Trenggalek,JATIM,Indonesia
 5350048,PC35PAN,Prasetyo Ardi Nugroho,K2PI,Ponorogo,JATIM,Indonesia
@@ -4460,6 +4521,8 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5351571,PC35FZR,Rianto,K2PI,Kediri,JATIM,Indonesia
 5351572,PC35AND,Ando Erik Irawan,K2PI,Lamongan,JATIM,Indonesia
 5351573,PC35FHK,Sunarto,K2PI,Blitar,JATIM,Indonesia
+5351574,PC35JJW,Rahmad Ansyori,K2PI,Bangkalan,JATIM,Indonesia
+5351575,PC35YUS,Yustian Hardinata,K2PI,Malang,JATIM,Indonesia
 5360026,PC36RBY,Indipha Yalamayosa,K2PI,Tangerang Sel,Banten,Indonesia
 5360030,PC36BOQ,Rendy,K2PI,Tangerang Sel,Banten,Indonesia
 5360047,PC36DIT,Alloysius Ditto Christianto,K2PI,Tangerang Sel,Banten,Indonesia
@@ -4589,6 +4652,9 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5641228,PC64YDS,Yadi Slamet,K2PI,Kutai Tmr,KALTIM,Indonesia
 5641229,PC64KCD,Sutarno,K2PI,Kutai Tmr,KALTIM,Indonesia
 5641230,PC64BNN,Eko Susanto,K2PI,Kutai Tmr,KALTIM,Indonesia
+5641231,PC64KCE,H. Abu Tholib,K2PI,Kutai Tmr,KALTIM,Indonesia
+5641232,PC64AF,Andi Arifai,K2PI,Kutai Tmr,KALTIM,Indonesia
+5641233,PC64UOL,Sendy Adhiia Noor,K2PI,Balikpapan,KALTIM,Indonesia
 5650056,PC65IER,Rudiansyah Badarudin Radji,K2PI,Tarakan,KALTARA,Indonesia
 5650325,PC65QMN,Nirwansyah,K2PI,Tarakan,KALTARA,Indonesia
 5651004,PC65NAF,Mochammad Naffian,K2PI,Bulungan,KALTARA,Indonesia
@@ -4638,7 +4704,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 5750263,PC75AAH,Abdul Arif Puneli,K2PI,Bone Bolango,Gorontalo,Indonesia
 5750292,PC75ONP,Zainal Yasin Biga,K2PI,Bone Bolango,Gorontalo,Indonesia
 5750458,PC75RAB,Karman Bakari,K2PI,Pahuwato,Gorontalo,Indonesia
-5810443,PC81KAC,Sehono,K2PI,Seram Brt,Maluku,Indonesia
+5810443,PC81KAC,Sehono,K2PI,Seram BagBarat,Maluku,Indonesia
 5810591,PC81JU,Jihan Usamah Bin Abbas,K2PI,Ambon,Maluku,Indonesia
 5810679,PC81VK,Abdul Chalik Usman,K2PI,Ambon,Maluku,Indonesia
 5820187,PC82HDX,Muhammad Gari Alhaddad,K2PI,Halmahera Sel,Maluku Utara,Indonesia
@@ -4695,6 +4761,7 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 6035298,DN35JHN,Hendro Kurniawan,K2PI- DINAS,Surabaya,JATIM,Indonesia
 6035921,DN35IRW,Irwansah,K2PI- DINAS,Pasuruan,JATIM,Indonesia
 6064084,DN64RDG,Agus Pribadi,K2PI- DINAS,Berau,KALTIM,Indonesia
+7135001,GW35SBY,Repeater 888,K2PI- GATEWAY,Surabaya,JATIM,Indonesia
 9100001,91KMEGG ,GILANG GUMILAR ,kopdarmobile ,TASIKMALAYA ,JABAR ,Indonesia 
 9100002,91KMEKS ,ASEP SAMSUL ISKA ,kopdarmobile ,TASIKMALAYA ,JABAR ,Indonesia 
 9100003,91KMUDN (A) ,JAPAR SIDIK ,kopdarmobile ,TASIKMALAYA ,JABAR ,Indonesia 
@@ -5100,3 +5167,4 @@ RADIO_ID ,CALLSIGN ,FIRST_NAME ,LAST_NAME ,CITY ,STATE ,COUNTRY
 9100403,91KMALS ,ALI SURYADI ,kopdarmobile ,KLATEN  ,JATENG ,Indonesia
 9100404,91KMISD,SABAR RIYADI,kopdarmobile ,LAMPUNG UTARA,LAMPUNG,Indonesia
 9100405,91KMONK,I WAYAN SUARSA,kopdarmobile ,TABANAN,BALI ,Indonesia
+9100406,91KMLKY,I PUTU EKA SUARSANA,kopdarmobile ,BADUNG ,BALI ,Indonesia
