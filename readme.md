@@ -5,5 +5,6 @@ data yang tersedia adalah campuran dari beberapa server / TalkGroup yaitu dari :
 - Krap DMR
 - Kopdarmobile
 - TombolPTT
+- BRIKER-DIGITAL
 
 barangkali ada rekan yang membutuhkan, silahkan dipergunakan dengan bijak.
